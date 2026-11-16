@@ -1,274 +1,98 @@
 {
   "meta": {
-    "title": "Manga Shelf",
-    "owner": "Swastik",
+    "title": "Smi's Manga Shelf",
+    "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "2,223 chapters · 230 volumes · ~134 hours total across 5 active shelves, tracking manga, manhwa, and light novels.",
-    "timeNote": "~3.5 min per chapter (~0.06h) baseline. Dense tankobon volumes and fast webtoons adjusted accordingly."
+    "profile": "0 chapters read · 0 volumes across shelves. Awaiting reading list.",
+    "timeNote": "Tracking manga, manhwa, and light novel chapters across personal shelves."
   },
   "sections": [
     {
       "id": "currently-reading",
       "title": "Currently Reading",
-      "subtitle": "active serializations, weekly shonen jump releases, or ongoing arcs",
-      "tag": "2 entries",
+      "subtitle": "active serializations, weekly releases, or ongoing arcs",
+      "tag": "0 entries",
       "accent": "#e7b267",
-      "items": [
-        {
-          "id": "cr-blue-box",
-          "media": "blue-box",
-          "title": "Blue Box",
-          "alt": "Ao no Hako",
-          "badge": "CH 145",
-          "meta": "145 of 250 chapters · ~8.7h · Vol 16",
-          "chaptersRead": 145,
-          "totalChapters": 250,
-          "volumes": 16,
-          "pace": 0.06,
-          "progress": [145, 250],
-          "note": "Caught up with weekly Shonen Jump releases. Top-tier romance mixed with badminton sports dynamics. Taiki and Chinatsu's progression is grounded, wholesome, and paced with incredible emotional maturity."
-        },
-        {
-          "id": "cr-chainsaw-man",
-          "media": "chainsaw-man",
-          "title": "Chainsaw Man",
-          "alt": "Chainsaw Man Part 2",
-          "badge": "CH 160",
-          "meta": "160 of 232 chapters · ~9.6h · Vol 17",
-          "chaptersRead": 160,
-          "totalChapters": 232,
-          "volumes": 17,
-          "pace": 0.06,
-          "progress": [160, 232],
-          "note": "Part 1 (Public Safety arc, Ch 1–97) was a cinematic, frantic adrenaline masterwork. Currently keeping up with Part 2's Academy & Church of Chainsaw Man arcs. Tatsuki Fujimoto's panel layout is purely genius."
-        }
-      ]
+      "items": []
     },
     {
       "id": "perfect-10",
       "title": "Peak / Masterpiece 10",
       "subtitle": "unrivaled artistic zenith, flawless thematic resonance, and immortal sequential art",
-      "tag": "3 entries",
+      "tag": "0 entries",
       "accent": "#ef9a78",
       "feature": true,
-      "items": [
-        {
-          "id": "p10-berserk",
-          "media": "berserk",
-          "title": "Berserk",
-          "alt": "Kenpuu Denki Berserk",
-          "badge": "10",
-          "meta": "364 chapters · 41 volumes · ~25.5h",
-          "chaptersRead": 364,
-          "totalChapters": 364,
-          "volumes": 41,
-          "pace": 0.07,
-          "note": "The undisputed apex of dark fantasy. Kentarou Miura's pen-and-ink detailing is biblical in scope. Guts' enduring will against causality, the tragedy of the Eclipse, and the Golden Age make this the gold standard of manga.",
-          "progress": [364, 364]
-        },
-        {
-          "id": "p10-vagabond",
-          "media": "vagabond",
-          "title": "Vagabond",
-          "alt": "Takehiko Inoue's Vagabond",
-          "badge": "10",
-          "meta": "327 chapters · 37 volumes · ~21.3h",
-          "chaptersRead": 327,
-          "totalChapters": 327,
-          "volumes": 37,
-          "pace": 0.065,
-          "note": "Takehiko Inoue's brushwork breathes profound Zen philosophy into Miyamoto Musashi's journey. The transition from bloodlust to the agrarian soil of the Farming Arc stands among the most transcendental arcs in literature.",
-          "progress": [327, 327]
-        },
-        {
-          "id": "p10-vinland-saga",
-          "media": "vinland-saga",
-          "title": "Vinland Saga",
-          "alt": "Makoto Yukimura's Vinland Saga",
-          "badge": "10",
-          "meta": "216 chapters · 28 volumes · ~13.0h",
-          "chaptersRead": 216,
-          "totalChapters": 216,
-          "volumes": 28,
-          "pace": 0.06,
-          "note": "A Viking revenge tale that transforms into a monumental meditation on pacifism, forgiveness, and the cost of human violence. The Farmland Arc (Ketil's farm) redefines Thorfinn forever. 'I have no enemies.'",
-          "progress": [216, 216]
-        }
-      ]
+      "items": []
     },
     {
       "id": "top-95",
       "title": "Top Tier 9.5",
       "subtitle": "exceptional craft, gripping psychological depth, and visual excellence",
-      "tag": "2 entries",
+      "tag": "0 entries",
       "accent": "#b09bea",
-      "items": [
-        {
-          "id": "top-solo-leveling",
-          "media": "solo-leveling",
-          "title": "Solo Leveling",
-          "alt": "Na Honjaman Rebeureop · Only I Level Up",
-          "badge": "9.5",
-          "meta": "201 chapters · 14 volumes · ~9.0h",
-          "chaptersRead": 201,
-          "totalChapters": 201,
-          "volumes": 14,
-          "pace": 0.045,
-          "note": "The definitive vertical manhwa power fantasy. The late DUBU (REDICE Studio) revolutionized webtoon visual pacing and dynamic scroll choreography. Sung Jin-woo's shadow monarch ascension is unmatched dopamine.",
-          "progress": [201, 201]
-        },
-        {
-          "id": "top-tokyo-ghoul",
-          "media": "tokyo-ghoul",
-          "title": "Tokyo Ghoul",
-          "alt": "Tokyo Ghoul",
-          "badge": "9.5",
-          "meta": "143 chapters · 14 volumes · ~8.6h",
-          "chaptersRead": 143,
-          "totalChapters": 143,
-          "volumes": 14,
-          "pace": 0.06,
-          "note": "Sui Ishida's tragic psychological masterpiece. Kaneki's internal monologue and descent into the ghoul underworld contains poetic, fractured depth completely missing from the anime adaptation.",
-          "progress": [143, 143]
-        }
-      ]
+      "items": []
     },
     {
       "id": "loved-9",
       "title": "Loved 9",
       "subtitle": "absorbing narratives, memorable character dynamics, and unforgettable themes",
-      "tag": "2 entries",
+      "tag": "0 entries",
       "accent": "#7ec9a8",
-      "items": [
-        {
-          "id": "loved-punpun",
-          "media": "goodnight-punpun",
-          "title": "Goodnight Punpun",
-          "alt": "Oyasumi Punpun",
-          "badge": "9",
-          "meta": "147 chapters · 13 volumes · ~8.8h",
-          "chaptersRead": 147,
-          "totalChapters": 147,
-          "volumes": 13,
-          "pace": 0.06,
-          "note": "Inio Asano's haunting coming-of-age tour de force. Punpun's simple bird caricature placed against photorealistic backdrops intensifies the visceral psychological trauma of growing up.",
-          "progress": [147, 147]
-        },
-        {
-          "id": "loved-20th-century",
-          "media": "20th-century-boys",
-          "title": "20th Century Boys",
-          "alt": "20 Seiki Shounen",
-          "badge": "9",
-          "meta": "249 chapters · 22 volumes · ~14.9h",
-          "chaptersRead": 249,
-          "totalChapters": 249,
-          "volumes": 22,
-          "pace": 0.06,
-          "note": "Naoki Urasawa's labyrinthine mystery epic. Nostalgia, childhood promises, and a sinister apocalyptic cult led by 'Friend' interwoven across decades with breathless thriller pacing.",
-          "progress": [249, 249]
-        }
-      ]
+      "items": []
     },
     {
       "id": "liked-8",
       "title": "Liked 8–8.5",
       "subtitle": "high entertainment, inventive battles, and great execution",
-      "tag": "1 entry",
+      "tag": "0 entries",
       "accent": "#82bcdc",
-      "items": [
-        {
-          "id": "liked-jujutsu",
-          "media": "jujutsu-kaisen",
-          "title": "Jujutsu Kaisen",
-          "alt": "Sorcery Fight",
-          "badge": "8.5",
-          "meta": "271 chapters · 28 volumes · ~14.9h",
-          "chaptersRead": 271,
-          "totalChapters": 271,
-          "volumes": 28,
-          "pace": 0.055,
-          "note": "Gege Akutami's intricate cursed energy battle system. The Shibuya Incident and Shinjuku Showdown push battle shonen pacing to its absolute boiling point.",
-          "progress": [271, 271]
-        }
-      ]
+      "items": []
+    },
+    {
+      "id": "mid",
+      "title": "Mid / Dropped",
+      "subtitle": "abandoned or fell flat in execution",
+      "tag": "0 entries",
+      "accent": "#d98080",
+      "muted": true,
+      "items": []
+    },
+    {
+      "id": "queue",
+      "title": "Queue / Plan to Read",
+      "subtitle": "queued on the shelf to start next",
+      "tag": "0 entries",
+      "accent": "#7fa8d9",
+      "items": []
     }
   ],
   "totals": {
     "stats": [
       {
-        "value": "2,223",
+        "value": "0",
         "label": "chapters read"
       },
       {
-        "value": "230",
+        "value": "0",
         "label": "volumes"
       },
       {
-        "value": "~134h",
-        "label": "reading time"
+        "value": "0",
+        "label": "completed"
       },
       {
-        "value": "5.6d",
-        "label": "days nonstop"
-      },
-      {
-        "value": "10",
+        "value": "0",
         "label": "curated titles"
       }
     ],
-    "bars": [
-      {
-        "label": "Currently Reading",
-        "hours": 18.3,
-        "display": "18.3h",
-        "accent": "#e7b267"
-      },
-      {
-        "label": "Peak / Masterpiece 10",
-        "hours": 59.8,
-        "display": "59.8h",
-        "accent": "#ef9a78"
-      },
-      {
-        "label": "Top Tier 9.5",
-        "hours": 17.6,
-        "display": "17.6h",
-        "accent": "#b09bea"
-      },
-      {
-        "label": "Loved 9",
-        "hours": 23.7,
-        "display": "23.7h",
-        "accent": "#7ec9a8"
-      },
-      {
-        "label": "Liked 8–8.5",
-        "hours": 14.9,
-        "display": "14.9h",
-        "accent": "#82bcdc"
-      }
-    ],
+    "bars": [],
     "notes": [
-      "Total Chapters: 2,223 chapters read across 10 series.",
-      "Reading Hours Formula: Baseline ~3.5 minutes (~0.06h) per chapter. Adjusted for dense tankobon art (Berserk ~0.07h, Vagabond ~0.065h) vs rapid vertical webtoons (Solo Leveling ~0.045h).",
-      "Total Reading Time: ~134.3 hours (~5.6 days continuous nonstop reading).",
-      "Shelf breakdown: Currently Reading (18.3h), Peak 10 (59.8h), Top Tier 9.5 (17.6h), Loved 9 (23.7h), Liked 8 (14.9h).",
-      "Format distribution: 8 Tankobon Manga series, 1 Korean Manhwa (Solo Leveling), 0 Light Novels (ready to expand)."
+      "Awaiting reading list import into data/source.json or data/list.md."
     ]
   },
   "taste": {
-    "yes": [
-      "Deep psychological character drama, philosophical growth, and high-consequence narratives (Berserk, Vagabond, Vinland Saga).",
-      "Sensational panel compositions, dynamic ink brushwork, and auteur art styles (Takehiko Inoue, Kentarou Miura, Tatsuki Fujimoto).",
-      "Well-earned romantic progression with emotional maturity and natural chemistry (Blue Box).",
-      "Clean, tactile power progression and top-tier vertical webtoon fight staging (Solo Leveling)."
-    ],
-    "no": [
-      "Senseless harem tropes with zero character agency or perpetual misunderstandings.",
-      "Generic isekai with unearned overpowered cheat skills and flat villain caricatures.",
-      "Padding and filler arcs that dilute high-stakes narrative momentum."
-    ],
-    "note": "Preferences and notes reflect personal reading impressions — always open to transcendent storytelling regardless of genre."
+    "yes": [],
+    "no": [],
+    "note": "Observed tendencies, not rules — override anytime."
   }
 }

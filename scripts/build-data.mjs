@@ -6,7 +6,12 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 
 const source = JSON.parse(await fs.readFile(path.join(rootDir, "data/source.json"), "utf8"));
-const media = JSON.parse(await fs.readFile(path.join(rootDir, "data/media.json"), "utf8"));
+let media = {};
+try {
+  media = JSON.parse(await fs.readFile(path.join(rootDir, "data/media.json"), "utf8"));
+} catch {
+  media = {};
+}
 
 const missing = new Set();
 const used = new Set();
@@ -43,52 +48,65 @@ function initials(text = "") {
   return (words[0][0] + words[1][0]).toUpperCase();
 }
 
-let calculatedChapters = 0;
-let calculatedVolumes = 0;
-let calculatedHours = 0;
-const shelfHours = [];
+let totalChaptersRead = 0;
+let totalVolumesCount = 0;
+let totalTitlesCount = 0;
+let completedCount = 0;
+const shelfChapters = [];
 
 for (const section of source.sections) {
-  let sectionTotalHours = 0;
+  let sectionChapters = 0;
 
-  section.items = section.items.map((item) => {
+  section.items = (section.items || []).map((item) => {
     const record = media[item.media];
-    if (!record) missing.add(item.media);
-    if (record) used.add(item.media);
+    if (item.media) {
+      if (!record) missing.add(item.media);
+      else used.add(item.media);
+    }
 
     const emptyLabel = item.placeholder
       ? item.placeholder.split("\n").join(" · ")
       : item.title;
 
-    const readCh = item.chaptersRead || (Array.isArray(item.progress) ? item.progress[0] : 0);
-    const pace = item.pace || 0.06;
-    const hours = item.hours || (readCh ? Number((readCh * pace).toFixed(1)) : 0);
+    const readCh =
+      item.chaptersRead != null
+        ? item.chaptersRead
+        : Array.isArray(item.progress)
+        ? item.progress[0]
+        : item.totalChapters || 0;
 
-    calculatedChapters += readCh;
-    if (item.volumes) calculatedVolumes += item.volumes;
-    calculatedHours += hours;
-    sectionTotalHours += hours;
+    totalChaptersRead += readCh;
+    sectionChapters += readCh;
+    totalTitlesCount++;
+
+    if (item.volumes) totalVolumesCount += item.volumes;
+    if (
+      item.status === "COMPLETED" ||
+      (Array.isArray(item.progress) && item.progress[0] >= item.progress[1] && item.progress[1] > 0)
+    ) {
+      completedCount++;
+    }
 
     return {
       ...item,
       sectionId: section.id,
       sectionTitle: section.title,
       accent: section.accent,
-      readingHours: hours,
+      chaptersRead: readCh,
       synopsis: item.description || cleanDescription(record?.description),
       image: record?.poster || null,
       banner: record?.banner || null,
       emptyMark: item.emptyMark || initials(item.placeholder?.split("\n")[0] || item.title),
       emptyLabel: item.emptyLabel || emptyLabel,
       info: {
-        format: record?.format || "MANGA",
-        year: record?.year || null,
+        format: record?.format || item.format || "MANGA",
+        year: record?.year || item.year || null,
         chapters: record?.chapters || item.totalChapters || null,
         volumes: record?.volumes || item.volumes || null,
-        status: record?.status || null,
+        status: record?.status || item.status || null,
         averageScore: record?.averageScore || null,
-        genres: record?.genres || [],
-        staff: record?.staff || [],
+        genres: record?.genres || item.genres || [],
+        staff: record?.staff || item.staff || [],
         romaji: record?.title?.romaji || null,
         english: record?.title?.english || null,
         native: record?.title?.native || null,
@@ -97,11 +115,11 @@ for (const section of source.sections) {
     };
   });
 
-  shelfHours.push({
+  shelfChapters.push({
     label: section.title,
     sectionId: section.id,
-    hours: Number(sectionTotalHours.toFixed(1)),
-    display: `${sectionTotalHours.toFixed(1)}h`,
+    chapters: sectionChapters,
+    display: `${sectionChapters.toLocaleString()} ch`,
     accent: section.accent
   });
 }
@@ -113,32 +131,36 @@ if (missing.size) {
   console.warn(`Warning: Missing cached media for slugs: ${[...missing].join(", ")}`);
 }
 
-// Compute proportional stacked widths for hero progress bar
-const totalHrs = shelfHours.reduce((sum, b) => sum + b.hours, 0) || 1;
-const stackedBars = shelfHours.map((bar) => ({
+// Compute proportional stacked widths for hero progress bar based on chapters
+const totalCh = totalChaptersRead || 1;
+const stackedBars = shelfChapters.map((bar) => ({
   ...bar,
-  percentage: Number(((bar.hours / totalHrs) * 100).toFixed(1))
+  percentage: totalChaptersRead > 0 ? Number(((bar.chapters / totalCh) * 100).toFixed(1)) : 0
 }));
 
 const totals = source.totals || {};
-totals.bars = totals.bars || shelfHours;
+totals.bars = totals.bars && totals.bars.length ? totals.bars : shelfChapters;
 totals.stackedBars = stackedBars;
 
 const payload = {
   meta: source.meta,
   heroStats: totals.stats || [
-    { value: calculatedChapters.toLocaleString(), label: "chapters read" },
-    { value: calculatedVolumes.toLocaleString(), label: "volumes" },
-    { value: `~${Math.round(calculatedHours)}h`, label: "reading time" },
-    { value: `${(calculatedHours / 24).toFixed(1)}d`, label: "days nonstop" }
+    { value: totalChaptersRead.toLocaleString(), label: "chapters read" },
+    { value: totalVolumesCount.toLocaleString(), label: "volumes" },
+    { value: completedCount.toLocaleString(), label: "completed" },
+    { value: totalTitlesCount.toLocaleString(), label: "titles" }
   ],
   sections: source.sections,
   totals,
-  taste: source.taste,
+  taste: source.taste || { yes: [], no: [], note: "" },
   builtAt: new Date().toISOString()
 };
 
-const output = `/* Generated from data/source.json + data/media.json — do not edit by hand. */\nwindow.__DATA__ = ${JSON.stringify(payload, null, 2)};\nwindow.MANGA_DATA = window.__DATA__;\n`;
+const output = `/* Generated from data/source.json + data/media.json — do not edit by hand. */\nwindow.__DATA__ = ${JSON.stringify(
+  payload,
+  null,
+  2
+)};\nwindow.MANGA_DATA = window.__DATA__;\n`;
 
 await fs.writeFile(path.join(rootDir, "data.js"), output, "utf8");
 console.log(`✓ Successfully compiled data.js (${(output.length / 1024).toFixed(1)} KB).`);

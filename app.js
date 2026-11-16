@@ -107,20 +107,24 @@
     if (!barHost || !legendHost) return;
 
     const stackedBars = data.totals?.stackedBars || [];
-    if (!stackedBars.length) {
-      const container = $("#hero-stacked-container");
-      if (container) container.hidden = true;
+    const totalChapters = stackedBars.reduce((sum, b) => sum + (b.chapters || 0), 0);
+
+    if (totalHost) {
+      totalHost.textContent = `${totalChapters.toLocaleString()} chapters total`;
+    }
+
+    if (!stackedBars.length || totalChapters === 0) {
+      barHost.innerHTML = `<div class="hero-stacked-segment" style="width: 100%; background: rgba(255, 255, 255, 0.06); cursor: default;" title="No chapters tracked yet"></div>`;
+      legendHost.innerHTML = `<span class="legend-empty">Awaiting reading list entries</span>`;
       return;
     }
 
-    const totalHours = stackedBars.reduce((sum, b) => sum + b.hours, 0);
-    if (totalHost) totalHost.textContent = `~${Math.round(totalHours)}h total`;
-
     barHost.innerHTML = stackedBars
+      .filter((b) => (b.chapters || 0) > 0)
       .map(
         (bar) => `<div class="hero-stacked-segment" style="width:${bar.percentage}%; background-color:${esc(
           bar.accent
-        )};" title="${esc(bar.label)}: ${bar.hours}h (${bar.percentage}%)" data-scroll-to="${esc(
+        )};" title="${esc(bar.label)}: ${bar.chapters.toLocaleString()} ch (${bar.percentage}%)" data-scroll-to="${esc(
           bar.sectionId
         )}"></div>`
       )
@@ -130,7 +134,7 @@
       .map(
         (bar) => `<div class="legend-item" data-scroll-to="${esc(bar.sectionId)}">
           <span class="legend-dot" style="background-color:${esc(bar.accent)}"></span>
-          <span>${esc(bar.label)} (${bar.display})</span>
+          <span>${esc(bar.label)} (${bar.display || `${bar.chapters || 0} ch`})</span>
         </div>`
       )
       .join("");
@@ -180,9 +184,13 @@
         if (section.feature) classes.push("section--feature");
         if (section.muted) classes.push("section--muted");
 
-        const cards = section.items
-          .map((item, index) => cardMarkup(item, sectionIndex === 0 && index < 8))
-          .join("");
+        const hasItems = Array.isArray(section.items) && section.items.length > 0;
+        const cards = hasItems
+          ? section.items.map((item, index) => cardMarkup(item, sectionIndex === 0 && index < 8)).join("")
+          : `<div class="shelf-empty">
+              <span class="shelf-empty-icon" aria-hidden="true">📖</span>
+              <p>No titles in this shelf yet.</p>
+            </div>`;
 
         return `<section class="${classes.join(" ")}" id="${esc(section.id)}" style="--accent:${esc(
           section.accent
@@ -193,7 +201,7 @@
               <h2>${esc(section.title)}</h2>
               ${section.subtitle ? `<p>${esc(section.subtitle)}</p>` : ""}
             </div>
-            <div class="section-count">${esc(section.tag || `${section.items.length} titles`)}</div>
+            <div class="section-count">${esc(section.tag || `${(section.items || []).length} titles`)}</div>
           </header>
           <div class="grid">${cards}</div>
           ${section.footer ? `<p class="section-footnote">${esc(section.footer)}</p>` : ""}
@@ -216,24 +224,32 @@
         .join("");
     }
 
-    const hoursStat = data.totals.stats?.find((stat) => /hours|reading time/i.test(stat.label));
-    if (hoursStat && $("#bars-total")) {
-      $("#bars-total").textContent = `${hoursStat.value} total`;
+    const chapterStat = data.totals.stats?.find((stat) => /chapter/i.test(stat.label));
+    if (chapterStat && $("#bars-total")) {
+      $("#bars-total").textContent = `${chapterStat.value} total`;
     }
 
     if (Array.isArray(data.totals.bars) && $("#bars")) {
-      const max = Math.max(...data.totals.bars.map((bar) => bar.hours), 1);
-      $("#bars").innerHTML = data.totals.bars
-        .map(
-          (bar) => `<div class="bar-row" style="--accent:${esc(bar.accent)}">
-            <span class="bar-label">${esc(bar.label)}</span>
-            <span class="bar-track" aria-hidden="true">
-              <span class="bar-fill" style="width:${Math.max(2, (bar.hours / max) * 100).toFixed(2)}%"></span>
-            </span>
-            <span class="bar-value">${esc(bar.display || `${bar.hours}h`)}</span>
-          </div>`
-        )
-        .join("");
+      const barsWithData = data.totals.bars.filter((b) => (b.chapters || b.hours || 0) > 0);
+      if (!barsWithData.length) {
+        $("#bars").innerHTML = `<p class="bars-empty">No shelf data recorded yet.</p>`;
+      } else {
+        const max = Math.max(...barsWithData.map((bar) => bar.chapters || bar.hours || 0), 1);
+        $("#bars").innerHTML = data.totals.bars
+          .map(
+            (bar) => {
+              const val = bar.chapters != null ? bar.chapters : (bar.hours || 0);
+              return `<div class="bar-row" style="--accent:${esc(bar.accent)}">
+                <span class="bar-label">${esc(bar.label)}</span>
+                <span class="bar-track" aria-hidden="true">
+                  <span class="bar-fill" style="width:${Math.max(2, (val / max) * 100).toFixed(2)}%"></span>
+                </span>
+                <span class="bar-value">${esc(bar.display || `${val.toLocaleString()} ch`)}</span>
+              </div>`;
+            }
+          )
+          .join("");
+      }
     }
 
     if (Array.isArray(data.totals.notes) && $("#total-notes")) {
