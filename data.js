@@ -4,34 +4,36 @@ window.__DATA__ = {
     "title": "Smi's Manga Shelf",
     "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "2,603 chapters read across 39 completed BL manhwa and manhua titles.",
-    "timeNote": "Tracking completed, ongoing, and to-be-read BL manhwa & manhua."
+    "profile": "8,810 chapters read across 110 completed BL manhwa and manhua titles.",
+    "timeNote": "Tracking completed, ongoing, and to-be-read BL, BG, and normal manhwa / manhua."
   },
   "heroStats": [
     {
-      "value": "2,603",
+      "value": "8,810",
       "label": "chapters read"
     },
     {
-      "value": "39",
+      "value": "0",
+      "label": "volumes"
+    },
+    {
+      "value": "110",
       "label": "completed"
     },
     {
-      "value": "0",
-      "label": "ongoing"
-    },
-    {
-      "value": "39",
-      "label": "total titles"
+      "value": "110",
+      "label": "titles"
     }
   ],
   "sections": [
     {
-      "id": "completed",
-      "title": "Completed BL Manhwa / Manhua",
+      "id": "completed-bl",
+      "title": "Completed BL Manhwa",
+      "category": "bl",
+      "badge": "COMPLETED",
+      "tag": "110 entries",
+      "accent": "#e7b267",
       "subtitle": "finished serializations, concluded stories, and side stories",
-      "tag": "39 entries",
-      "accent": "#7ec9a8",
       "items": [
         {
           "id": "c-blood-link",
@@ -47,9 +49,9 @@ window.__DATA__ = {
             135
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "A human, lycan, or a vampire - what am I?! Completely unaware of the existence of these predators, Hwa-Gok goes about his everyday life... That is, until Lee-Bin turns his life upside down by biting him on the neck, setting off a whirlwind of events neither of them could foresee.",
           "image": "assets/img/posters/blood-link.webp",
           "banner": "assets/img/banners/blood-link.webp",
@@ -92,9 +94,9 @@ window.__DATA__ = {
             80
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Ahn Geum-hoo needs a butcher to provide fresh animal blood for his sickly brother’s medicine. While most of the butchers seem reluctant to provide him with what he needs, Nobody is willing to do Geum-hoo’s bidding. With striking features and a strong build, Nobody has quite a reputation amongst the village folk. Yet, Geum-hoo finds a way to tame this wild tiger. First, he gives him a name—Beom. Then, he invites him to a world that this nobody’s never experienced...",
           "image": "assets/img/posters/taming-the-tiger.webp",
           "banner": "assets/img/banners/taming-the-tiger.webp",
@@ -131,8 +133,8 @@ window.__DATA__ = {
         {
           "id": "c-smyrna-and-capri",
           "media": "smyrna-and-capri",
-          "title": "Smyrna and Capri",
-          "alt": "Smyrna & Capri",
+          "title": "Smyrna & Capri",
+          "alt": "Smyrna and Capri",
           "badge": "COMPLETED",
           "meta": "70 chapters · Completed",
           "chaptersRead": 70,
@@ -142,14 +144,14 @@ window.__DATA__ = {
             70
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "What if your sworn enemy holds the key to your future? Theo Peserus: an alpha of the mighty Peserus clan, called forth to provide the clan with a child. For a tree to bear fruit, a worthy Capri must be chosen to inseminate him. Seram Marita: a revolutionary army soldier hailing from the Langeres clan. Having escaped from his imprisonment, he now weaves through the maze-like halls of the Peserus castle, looking for a way out. But a tempting odor permeates the air and leads Seram straight to the enemy. Intoxicated on pheromones, the two adversaries are now engaged, not in a battle for their lives, but in a war of lust... What fruit will come to bear when these foes, this Smyrna and this Capri, become entangled in a decadence that they both cannot resist…?",
           "image": "assets/img/posters/smyrna-and-capri.webp",
           "banner": "assets/img/banners/smyrna-and-capri.webp",
-          "emptyMark": "SA",
-          "emptyLabel": "Smyrna and Capri",
+          "emptyMark": "SC",
+          "emptyLabel": "Smyrna & Capri",
           "info": {
             "format": "MANGA",
             "year": 2022,
@@ -178,7 +180,7 @@ window.__DATA__ = {
           "id": "c-roses-and-champagne",
           "media": "roses-and-champagne",
           "title": "Roses and Champagne",
-          "alt": "Jangmiwa Champagne",
+          "alt": "Rose & Champagne",
           "badge": "COMPLETED",
           "meta": "90 chapters · Completed",
           "chaptersRead": 90,
@@ -188,9 +190,9 @@ window.__DATA__ = {
             90
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Lee-Won, who works as a poor lawyer in Russia, visits City Councilor Zdanov, who is in conflict over Nikolai's commission, and there he meets the mafia boss, Caesar. Behind City Councilor Zdanov, there was a mafia involved. The meeting between the two is extraordinary.",
           "image": "assets/img/posters/roses-and-champagne.webp",
           "banner": "assets/img/banners/roses-and-champagne.webp",
@@ -243,9 +245,9 @@ window.__DATA__ = {
             48
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Yeonwoo is a perfectly competent secretary. However, he’s secretly in love with his boss, an extreme alpha named Keith, who has zero interest in male omegas. After a traumatic incident leaves Yeonwoo fearful of all alphas but Keith, he resigns to hide at home. Keith, inconvenienced by the absence of his trusty secretary, takes on the task of helping Yeonwoo recover. Will proximity and pheromones cause love to blossom in this working relationship?",
           "image": "assets/img/posters/kiss-me-liar.webp",
           "banner": "assets/img/banners/kiss-me-liar.webp",
@@ -279,27 +281,27 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-yandere-top-father",
-          "media": "yandere-top-father",
-          "title": "The Yandere Top Father is Being Teased",
-          "alt": "Jipchakgwanggongui Appaga Kkosim Danghaneun Jung",
+          "id": "c-the-yandere-top-father-is-being-teased",
+          "media": "the-yandere-top-father-is-being-teased",
+          "title": "The Yandere Top Father Is Being Teased",
+          "alt": "Bingjiao Gong de Laodie You Bei Tiaochaole",
           "badge": "COMPLETED",
-          "meta": "73 chapters · Completed",
-          "chaptersRead": 73,
-          "totalChapters": 73,
+          "meta": "85 chapters · Completed",
+          "chaptersRead": 85,
+          "totalChapters": 85,
           "progress": [
-            73,
-            73
+            85,
+            85
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "“What role did I play in this novel? I want to know what kind of relationship I had with Chae Seung-Yeon.”\n\nSeung-Yeon is possessed by the father of the obsessive maniac in the run-down BL novel written by his younger sister. Woo-Jin, the father of the main character, saves Seung-Yeon when he is in danger of death. Seung-Yeon realizes that he and Woo-Jin are in-laws, but as time passes, their relationship somehow flows differently from the original story…",
           "image": "assets/img/posters/yandere-top-father.webp",
           "banner": "assets/img/banners/yandere-top-father.webp",
           "emptyMark": "TY",
-          "emptyLabel": "The Yandere Top Father is Being Teased",
+          "emptyLabel": "The Yandere Top Father Is Being Teased",
           "info": {
             "format": "MANGA",
             "year": 2023,
@@ -328,27 +330,27 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-forget-my-wife-try-me",
-          "media": "forget-my-wife-try-me",
-          "title": "Forget My Wife, Try Me",
-          "alt": "What About Me, Besides My Wife · Buin Malgo Naneun Eottae",
+          "id": "c-what-about-me-besides-my-wife",
+          "media": "what-about-me-besides-my-wife",
+          "title": "What About Me, Besides My Wife",
+          "alt": "Forget My Wife, Try Me",
           "badge": "COMPLETED",
-          "meta": "7 chapters · Completed",
-          "chaptersRead": 7,
-          "totalChapters": 7,
+          "meta": "70 chapters · Completed",
+          "chaptersRead": 70,
+          "totalChapters": 70,
           "progress": [
-            7,
-            7
+            70,
+            70
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Yin Tae-Rim, CEO of a failing company, turns to Seo Yi-Rin, a powerful executive with a reputation for sponsoring the lovers she takes a liking to. Desperate to save his business, he makes his move, but Yi-Rin already has a new “puppy” to play with and shows no interest. Instead, she passes him along. Not to a colleague. Not to a rival. To her husband.\n\nThat’s how Tae-Rim ends up in front of Jin Ha-Kyung, the cold and unreadable head of a major company. Ha-Kyung listens, watching him squirm through an awkward explanation. Then, with a slow smile tugging at his lips, he makes a proposal that stops Tae-Rim cold.\n\n\"Forget my wife. Try me.\"",
           "image": "assets/img/posters/forget-my-wife-try-me.webp",
           "banner": "assets/img/banners/forget-my-wife-try-me.webp",
-          "emptyMark": "FM",
-          "emptyLabel": "Forget My Wife, Try Me",
+          "emptyMark": "WA",
+          "emptyLabel": "What About Me, Besides My Wife",
           "info": {
             "format": "MANGA",
             "year": 2024,
@@ -374,8 +376,8 @@ window.__DATA__ = {
         {
           "id": "c-non-refundable-alpha",
           "media": "non-refundable-alpha",
-          "title": "Non-refundable Alpha",
-          "alt": "Hwanbulbulga Alpha",
+          "title": "Non-Refundable Alpha",
+          "alt": "Hwanbul Bulgahang Alpha",
           "badge": "COMPLETED",
           "meta": "7 chapters · Completed",
           "chaptersRead": 7,
@@ -385,14 +387,14 @@ window.__DATA__ = {
             7
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Choi Jae-Won was living a carefree life abroad, surrounded by playful alphas and chasing nothing but pleasure. But when his father lures him back to Korea, he’s blindsided by a wedding—his own. The groom turns out to be Yang Joon-Hee, a childhood friend who’s grown into everything Jae-Won’s ever wanted. And before he can make sense of it, the vows are already said. Joon-Hee insists they once made a promise. Jae-Won doesn’t remember it... but something in him starts to respond anyway.",
           "image": "assets/img/posters/non-refundable-alpha.webp",
           "banner": "assets/img/banners/non-refundable-alpha.webp",
           "emptyMark": "NR",
-          "emptyLabel": "Non-refundable Alpha",
+          "emptyLabel": "Non-Refundable Alpha",
           "info": {
             "format": "MANGA",
             "year": 2023,
@@ -420,7 +422,7 @@ window.__DATA__ = {
           "id": "c-no-littering",
           "media": "no-littering",
           "title": "No Littering",
-          "alt": "A Killer Love Story · Sseuregi Bangsaenggeumji",
+          "alt": "Ssuryegi Tu-gi Geumji",
           "badge": "COMPLETED",
           "meta": "11 chapters · Completed",
           "chaptersRead": 11,
@@ -430,9 +432,9 @@ window.__DATA__ = {
             11
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Kwon Ji-Hyeok, a good-for-nothing who’s lived his whole life relying solely on the handsome face he inherited from his parents, finds himself kicked out of his girlfriend’s house with nowhere else to go. While wandering in search of his next place to freeload, he stumbles upon a mansion with its door left open and decides to sneak in. But inside, he’s greeted by the horrifying sight of a dismembered corpse. Sensing imminent doom, he tries to escape, only for the missing homeowner to appear right then and there.\nOne look is all it takes for Ji-Hyeok to realize it: this guy definitely has the face of a serial killer.\n\nFor someone who’s always coasted through life on his looks, this is the biggest crisis he’s ever faced. To survive, Ji-Hyeok might have to pull his most desperate move yet, using his charm to seduce this psychopathic killer. Because if he fails, it won’t just be his pride that gets pierced.",
           "image": "assets/img/posters/no-littering.webp",
           "banner": "assets/img/banners/no-littering.webp",
@@ -466,7 +468,7 @@ window.__DATA__ = {
           "id": "c-struggle",
           "media": "struggle",
           "title": "Struggle",
-          "alt": "Finding the Way · Buntugi",
+          "alt": "Struggle",
           "badge": "COMPLETED",
           "meta": "45 chapters · Completed",
           "chaptersRead": 45,
@@ -476,9 +478,9 @@ window.__DATA__ = {
             45
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "What if one little misunderstanding led to the biggest mistake of your life? Lee Kang, dominant alpha and the heir to the Se-ryong foundation, first helps out Yeo Juheon because he feels sorry for him. But the more he gets to know him and the closer they get, Kang starts to fall for the beta for real. They could be a thing, or so Kang thought… His whole world comes crumbling down when he finds out Juheon is already someone else’s. That’s already 7 years ago now, but Kang’s still reeling from the hurt… until he figures out maybe he was in the wrong after all. After years of hurt and misunderstanding, can Kang find his way back to the love of his life?",
           "image": "assets/img/posters/struggle.webp",
           "banner": "assets/img/banners/struggle.webp",
@@ -516,7 +518,7 @@ window.__DATA__ = {
           "id": "c-dirty-desire",
           "media": "dirty-desire",
           "title": "Dirty Desire",
-          "alt": "Mine To Ruin · Deoreoun Yongmang",
+          "alt": "Teoreoun Yokmang",
           "badge": "COMPLETED",
           "meta": "11 chapters · Completed",
           "chaptersRead": 11,
@@ -526,9 +528,9 @@ window.__DATA__ = {
             11
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Seong-Yul has spent years pining for his older brother’s friend, Seung-Won. But as a beta from a humble background, he knows a future with the elite alpha is impossible. When a sudden secondary gender manifestation turns Seong-Yul into an omega, his life spirals. Desperate for cash and heartbroken by news of Seung-Won’s engagement, he makes a reckless choice to enter the underground adult industry. His first night is a nightmare...until his very first client turns out to be Seung-Won himself.",
           "image": "assets/img/posters/dirty-desire.webp",
           "banner": "assets/img/banners/dirty-desire.webp",
@@ -566,22 +568,22 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-love-history-negligence",
-          "media": "love-history-negligence",
+          "id": "c-love-history-caused-by-willful-negligence",
+          "media": "love-history-caused-by-willful-negligence",
           "title": "Love History Caused by Willful Negligence",
-          "alt": "Mipiljeok Gouie Uihan Yeonaesa",
+          "alt": "Mupingui Love History",
           "badge": "COMPLETED",
-          "meta": "108 chapters · Completed",
-          "chaptersRead": 108,
-          "totalChapters": 108,
+          "meta": "55 chapters · Completed",
+          "chaptersRead": 55,
+          "totalChapters": 55,
           "progress": [
-            108,
-            108
+            55,
+            55
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Woo-Yeon is one of the brightest rising stars as a nationally beloved actor. Nobody is capable of hating such a talented and sweet man with his blessed looks. Or, well, that’s what people who don’t know the real Woo-Yeon think. In reality, Woo-Yeon is manipulative, cold-hearted, and dangerous. But his new manager In-Seob is his biggest fan, and he’s determined to stick by Woo-Yeon’s side no matter what. Except…remember how nobody in the know is capable of hating Woo-Yeon? Well, In-Seob just might know more than he lets on…",
           "image": "assets/img/posters/love-history-negligence.webp",
           "banner": "assets/img/banners/love-history-negligence.webp",
@@ -618,7 +620,7 @@ window.__DATA__ = {
           "id": "c-love-on-hold",
           "media": "love-on-hold",
           "title": "Love on Hold",
-          "alt": "Moduege Chinjeolhan Neoneun Wae",
+          "alt": "Love on Hold",
           "badge": "COMPLETED",
           "meta": "72 chapters · Completed",
           "chaptersRead": 72,
@@ -628,9 +630,9 @@ window.__DATA__ = {
             72
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Jeong-Yoon has harbored a crush on Chae-Heon all through high school and now college. Despite ‘fate’ always bringing them together, Jeong-Yoon hasn’t been able to become close to Chae-Heon, much less tell the latter about his feelings. This is mainly because he is convinced that Chae-Heon doesn’t like him. But unbeknownst to Jeong-Yoon, Chae-Heon is not without his own complaints. Will the two resolve ever their misunderstandings and will love, which has been put on hold for so long, finally begin?",
           "image": "assets/img/posters/love-on-hold.webp",
           "banner": "assets/img/banners/love-on-hold.webp",
@@ -677,9 +679,9 @@ window.__DATA__ = {
             110
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "While other students were preparing to take their CSAT exams, Lee Yu-Han was swept up in an exhilarating lifestyle of crime and debauchery. While working for a loan shark, karma catches up to him when a family member dies from an act of revenge against him. After years of repenting for his sins and trying to turn over a new leaf, he meets a man in the entertainment industry who gives him the opportunity to get his revenge…",
           "image": "assets/img/posters/payback.webp",
           "banner": "assets/img/banners/payback.webp",
@@ -716,7 +718,7 @@ window.__DATA__ = {
           "id": "c-deadman-switch",
           "media": "deadman-switch",
           "title": "Deadman Switch",
-          "alt": "Dead Man's Switch",
+          "alt": "Deadman Switch",
           "badge": "COMPLETED",
           "meta": "67 chapters · Completed",
           "chaptersRead": 67,
@@ -726,9 +728,9 @@ window.__DATA__ = {
             67
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "We’ve all had that nightmare where we’re late for a test, right? How about the one where your teacher’s trying to kill you?! Just me, huh? Guess it’s only fair then that I woke up in an actual zombie-infested nightmare! Almost everyone on my campus has become a creepy, flesh-eating monster! Except for this one ax-wielding badass named Youngwon Ki. He seems perfectly fine with all the chaos. I’m glad he’s here, but I don’t get why he acts like we’re close!",
           "image": "assets/img/posters/deadman-switch.webp",
           "banner": "assets/img/banners/deadman-switch.webp",
@@ -772,7 +774,7 @@ window.__DATA__ = {
           "id": "c-netkama-punch",
           "media": "netkama-punch",
           "title": "Netkama Punch",
-          "alt": "Netkama PUNCH!!!",
+          "alt": "Netkama Punch!!!",
           "badge": "COMPLETED",
           "meta": "81 chapters · Completed",
           "chaptersRead": 81,
@@ -782,9 +784,9 @@ window.__DATA__ = {
             81
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Netkama – a male who portrays himself as female online. This is what Kim Seyeong decides to become after reencountering Shin Heejae, the guy who destroyed Seyeong’s gaming career in “Arcadia” a year prior. His plan is to pretend to be a girl in the game, get Heejae to fall for him, and then make the big reveal to everyone so that his archnemesis will also be humiliated out of “Arcadia” forever. But being a dude trying to become the girlfriend of your worst enemy is no easy feat, especially more so when said worst enemy starts to show a bit too much interest in you. Will Seyeong come out the victor of this scheme? Or will he find himself losing to Heejae all over again?",
           "image": "assets/img/posters/netkama-punch.webp",
           "banner": "assets/img/banners/netkama-punch.webp",
@@ -823,22 +825,22 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-can-a-gangster-leave",
-          "media": "can-a-gangster-leave",
+          "id": "c-can-a-gangster-leave-a-gang",
+          "media": "can-a-gangster-leave-a-gang",
           "title": "Can a Gangster Leave a Gang?",
-          "alt": "Jopokdo Toesaga Doenayo?",
+          "alt": "Jopokdo Tuikani Doenayo?",
           "badge": "COMPLETED",
-          "meta": "4 chapters · Completed",
-          "chaptersRead": 4,
-          "totalChapters": 4,
+          "meta": "50 chapters · Completed",
+          "chaptersRead": 50,
+          "totalChapters": 50,
           "progress": [
-            4,
-            4
+            50,
+            50
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Hyeongwon, a member of the Viper Gang, decides to leave the gang and flee the country. He still has a long way to go, but in a weak moment, he ends up having a one-night stand with  Seongjin... But who is really Seongjin?",
           "image": "assets/img/posters/can-a-gangster-leave.webp",
           "banner": "assets/img/banners/can-a-gangster-leave.webp",
@@ -870,7 +872,7 @@ window.__DATA__ = {
           "id": "c-raising-beta",
           "media": "raising-beta",
           "title": "Raising Beta",
-          "alt": "Beta Gyoyuk · 베타 키우기",
+          "alt": "Beta Kiugi · Lezhin Comics",
           "badge": "COMPLETED",
           "meta": "27 chapters · Completed",
           "chaptersRead": 27,
@@ -880,9 +882,9 @@ window.__DATA__ = {
             27
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "A fragile Beta finds himself surrounded by dominant Alphas in an unpredictable omegaverse relationship.",
           "image": "assets/img/posters/raising-beta.webp",
           "banner": "assets/img/banners/raising-beta.webp",
@@ -917,7 +919,7 @@ window.__DATA__ = {
           "id": "c-love-me-not",
           "media": "love-me-not",
           "title": "Love Me Not",
-          "alt": "Even If You Don't Love Me · Nareul Saranghaji Anado",
+          "alt": "Even If You Don't Love Me · Saranghaji Anado",
           "badge": "COMPLETED",
           "meta": "119 chapters · Completed",
           "chaptersRead": 119,
@@ -927,9 +929,9 @@ window.__DATA__ = {
             119
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Ji-Wook’s more than used to poverty’s myriad of miseries. All his life he’s had to deal with debt, so he’s used to barely getting by. Now he’s determined to get out of this financial hell hole and when he gets into Dae-Han High school, things look like they’re taking a turn for the better. This prestigious school usually only welcomes the wealthy, but Ji-Wook managed to get in by pure grit. Now there’s nothing stopping him from his hike toward success…or is there? On his first day back to school, he somehow grabs the attention of Ju Seung-Eon, who is everything that Ji-Wook isn’t. Despite their differences, Seung-Eon starts to take a special interest in Ji-Wook. Little do they know what consequences a little curiosity will bring...",
           "image": "assets/img/posters/love-me-not.webp",
           "banner": "assets/img/banners/love-me-not.webp",
@@ -975,9 +977,9 @@ window.__DATA__ = {
             42
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Seoyu is an extremely recessive omega who can’t believe his luck when he meets an extremely dominant alpha named Sunghoon Choi. This alpha has it all, even if he might be a gang leader! Seoyu intends to enjoy their fling for as long as he can because that’s all it is, right? Sunghoon can’t possibly be interested in being Seoyu’s boyfriend. However, he does boyfriend-like things, like having meals delivered to Seoyu’s apartment and constantly worrying that Seoyu is too cold… but surely this is just temporary!",
           "image": "assets/img/posters/bye-bye.webp",
           "banner": "assets/img/banners/bye-bye.webp",
@@ -1015,7 +1017,7 @@ window.__DATA__ = {
           "id": "c-exotic-love",
           "media": "exotic-love",
           "title": "Exotic Love",
-          "alt": "Odd Love · Oesarang",
+          "alt": "Exotic Love",
           "badge": "COMPLETED",
           "meta": "74 chapters · Completed",
           "chaptersRead": 74,
@@ -1025,9 +1027,9 @@ window.__DATA__ = {
             74
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "On the outside, Jeong Jaehan has it all. He’s a third-generation chaebol in charge of an incredibly successful film production company. Despite all the power and money, he’s been secretly suffering from a torturous ailment. After years of drugs and alcohol abuse, he’s lost the ability to orgasm- or so he thought. When someone from his past unexpectedly shows up, Jaehan experiences pleasure that he thought he’d lost forever...",
           "image": "assets/img/posters/exotic-love.webp",
           "banner": "assets/img/banners/exotic-love.webp",
@@ -1068,7 +1070,7 @@ window.__DATA__ = {
           "id": "c-origin-of-species",
           "media": "origin-of-species",
           "title": "Origin of Species",
-          "alt": "The Origin of Species · Jongui Giwon",
+          "alt": "Jong-ui Giwon",
           "badge": "COMPLETED",
           "meta": "80 chapters · Completed",
           "chaptersRead": 80,
@@ -1078,9 +1080,9 @@ window.__DATA__ = {
             80
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Lee Young-Jin has never been like other Omegas. Rather than being physically superior to humans like the rest of his species, Young-Jin is a gifted hacker. But when his talent leads him to an ill-fated heist mission, Young-Jin finds himself trapped in the clutches of a powerful Alpha businessman named Seo Seung-Hyun. Now, he must do anything he can to guarantee safety for himself and his colleagues - even if it means sleeping with the enemy. But as the business deal between Young-Jin and Seung-Hyun quickly becomes more personal, will they be able to see eye to eye? Or will their differences be too much to overcome? Set in the Omegaverse.",
           "image": "assets/img/posters/origin-of-species.webp",
           "banner": "assets/img/banners/origin-of-species.webp",
@@ -1121,7 +1123,7 @@ window.__DATA__ = {
           "id": "c-how-to-snag-an-alpha",
           "media": "how-to-snag-an-alpha",
           "title": "How to Snag an Alpha",
-          "alt": "Geu Alpha-reul Kkosineun Beop",
+          "alt": "Alphareul Kkosineun Bangbeop",
           "badge": "COMPLETED",
           "meta": "107 chapters · Completed",
           "chaptersRead": 107,
@@ -1131,9 +1133,9 @@ window.__DATA__ = {
             107
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Born into a family of handsome, wealthy, and well-educated alphas, Woo-Young always expected he would be the same. Come to find out, he was the odd man out as the lone omega, and not even a perfect one at that. To compensate, Woo-Young goes through life pretending to be a beta, but when he begins to experience hormone imbalances, irregular heat cycles, and a distinct lack of control over his impulses, his lowly recessive omega status becomes impossible to ignore. That’s when he meets Kyung-Ju, a powerful and successful dominant alpha who can turn him into a true omega, and also makes him weak in the knees. Now, Woo-Young must use every tactic there is to court Kyung-Ju and make the brooding alpha his very own.",
           "image": "assets/img/posters/how-to-snag-an-alpha.webp",
           "banner": "assets/img/banners/how-to-snag-an-alpha.webp",
@@ -1167,7 +1169,7 @@ window.__DATA__ = {
           "id": "c-whos-your-daddy",
           "media": "whos-your-daddy",
           "title": "Who's Your Daddy?",
-          "alt": "Who's Your Daddy?",
+          "alt": "Who's Your Daddy",
           "badge": "COMPLETED",
           "meta": "50 chapters · Completed",
           "chaptersRead": 50,
@@ -1177,9 +1179,9 @@ window.__DATA__ = {
             50
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Louis, a captain of the 2nd Guard, has been on the hunt. A hunt for the serial killer who has thrown the capital into a state of chaos for months. Having run himself ragged attempting to come up with a suspect, he ends up in the hospital. What was thought to be a simple case of being overworked, has turned out to be something else. Louis is four months pregnant. But that could only happen if a man is impregnated by one with strong royal ancestry. Four months ago was the date of the imperial ball and also when these murders started happening… But Louis can’t remember a thing… Who is behind these murders and just who the hell did he spend the night with the night of the ball?",
           "image": "assets/img/posters/whos-your-daddy.webp",
           "banner": "assets/img/banners/whos-your-daddy.webp",
@@ -1220,8 +1222,8 @@ window.__DATA__ = {
         {
           "id": "c-my-bias-appeared",
           "media": "my-bias-appeared",
-          "title": "My Bias Appeared?",
-          "alt": "My Bias Is Showing?! · Choeaega Natanassda?!",
+          "title": "My Bias Appeared?!",
+          "alt": "Choe-ae-ga Natanatda?!",
           "badge": "COMPLETED",
           "meta": "49 chapters · Completed",
           "chaptersRead": 49,
@@ -1231,14 +1233,14 @@ window.__DATA__ = {
             49
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "When high school teacher Na Aejoon shows up for work on an ordinary day, he never expects to bump into his favorite celebrity in the hallway. But when his school becomes a filming location for a show starring Choi Siyeol, his bias from the idol group A-One, that’s exactly what happens!\n\nIf that’s not enough to give a fanboy a heart attack, Siyeol takes an interest in Aejoon and asks him to join the show as his “co-teacher.” Desperate to keep his fan life a secret, Aejoon is forced to put his acting skills to the test, and not just on camera. But as he spends more and more time with Siyeol, the deception becomes harder to keep up. Not to mention, he might not be the only one keeping secrets…",
           "image": "assets/img/posters/my-bias-appeared.webp",
           "banner": "assets/img/banners/my-bias-appeared.webp",
           "emptyMark": "MB",
-          "emptyLabel": "My Bias Appeared?",
+          "emptyLabel": "My Bias Appeared?!",
           "info": {
             "format": "MANGA",
             "year": 2021,
@@ -1266,27 +1268,27 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-murderous-lewellyn",
-          "media": "murderous-lewellyn",
-          "title": "Murderous Lewellyn's Candlelit Dinner",
-          "alt": "Sarinma Lewellyn-ssi-ui Nangmanjeogin Jeongchan",
+          "id": "c-murderous-lewellyns-candlelit-dinner",
+          "media": "murderous-lewellyns-candlelit-dinner",
+          "title": "Murderous Llewellyn's Candlelit Dinner",
+          "alt": "Sal-inja Llewellyn-ui Chotbul Manchan",
           "badge": "COMPLETED",
-          "meta": "90 chapters · Completed",
-          "chaptersRead": 90,
-          "totalChapters": 90,
+          "meta": "65 chapters · Completed",
+          "chaptersRead": 65,
+          "totalChapters": 65,
           "progress": [
-            90,
-            90
+            65,
+            65
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Life on rough, rundown Ira Street isn’t easy at the best of times, but a recent string of murders has left the residents traumatized. Not Shavonne, though. He’s too busy trying to get by to worry about some murderer. However, that all changes when he meets his peculiar new neighbor. Lewellyn is young and handsome, yet eccentric. Why does he spend all day peeling onions on the apartment stairs until his eyes are red-raw? And what’s with those filthy black fingernails? Nevertheless, Shavonne reluctantly accepts a dinner invitation at his neighbor’s place. But after he makes a gruesome discovery during the candlelit meal, suddenly the murders feel a lot closer to home…",
           "image": "assets/img/posters/murderous-lewellyn.webp",
           "banner": "assets/img/banners/murderous-lewellyn.webp",
           "emptyMark": "ML",
-          "emptyLabel": "Murderous Lewellyn's Candlelit Dinner",
+          "emptyLabel": "Murderous Llewellyn's Candlelit Dinner",
           "info": {
             "format": "MANGA",
             "year": 2020,
@@ -1323,8 +1325,8 @@ window.__DATA__ = {
         {
           "id": "c-its-my-baby",
           "media": "its-my-baby",
-          "title": "It's My Baby",
-          "alt": "He's Definitely My Baby! · Je Aiimnidaman!",
+          "title": "It's My Baby!",
+          "alt": "Nae A-gi-ya!",
           "badge": "COMPLETED",
           "meta": "55 chapters · Completed",
           "chaptersRead": 55,
@@ -1334,14 +1336,14 @@ window.__DATA__ = {
             55
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "'I had a one night stand with the first person I met, but I got pregnant.'\n\nEverytime this omega had a boyfriend, the relationship always ended up with him being cheated on and in the end, he even got crushed by hearing the words, “You are an omega, but I’m not attracted to you\". Hae-Su, who was chugging alcohol while raging to his friend who comforted him, got wasted on a drug, and to make matters worse, his heat cycle started. Alpha Do-Geon, who was in the same pub, notices Hae-Su's condition and tries to help Haesoo and get him away from the place but he is seduced by Hae-Su's pheromones and they end up spending the night together.\n\nIn the morning, as soon as he wakes up, Hae-Su hastily ran away and finds out that he is pregnant 4 weeks later. Hae-Su decides to raise and make the child happy by himself. After 4 years, Hae-Su and Do-Geon are reunited...",
           "image": "assets/img/posters/its-my-baby.webp",
           "banner": "assets/img/banners/its-my-baby.webp",
           "emptyMark": "IS",
-          "emptyLabel": "It's My Baby",
+          "emptyLabel": "It's My Baby!",
           "info": {
             "format": "MANGA",
             "year": 2021,
@@ -1368,8 +1370,8 @@ window.__DATA__ = {
         {
           "id": "c-my-boss-is-a-goddess",
           "media": "my-boss-is-a-goddess",
-          "title": "My Boss is a Goddess",
-          "alt": "Boss Daren Shi Nüshen",
+          "title": "My Boss Is a Goddess",
+          "alt": "Shangsi Shi Nvshen",
           "badge": "COMPLETED",
           "meta": "77 chapters · Completed",
           "chaptersRead": 77,
@@ -1379,14 +1381,14 @@ window.__DATA__ = {
             77
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "In this world, there are many special, unique, and glamorous people. However, there are those who play a supporting role in these relationship dynamics. Lin Mu was one such character, where he played the role of a wallflower.",
           "image": "assets/img/posters/my-boss-is-a-goddess.webp",
           "banner": "assets/img/banners/my-boss-is-a-goddess.webp",
           "emptyMark": "MB",
-          "emptyLabel": "My Boss is a Goddess",
+          "emptyLabel": "My Boss Is a Goddess",
           "info": {
             "format": "MANGA",
             "year": 2020,
@@ -1416,7 +1418,7 @@ window.__DATA__ = {
           "id": "c-low-tide-in-twilight",
           "media": "low-tide-in-twilight",
           "title": "Low Tide in Twilight",
-          "alt": "Mulgaui Bam · Night by the Water",
+          "alt": "Night by the Sea · Mulgadeuroui Bam",
           "badge": "COMPLETED",
           "meta": "117 chapters · Completed",
           "chaptersRead": 117,
@@ -1426,9 +1428,9 @@ window.__DATA__ = {
             117
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Kim Eui-Hyun is an omega at his limit. After living a life of troubles and owing an unpayable debt that isn’t even his, he’s ready to give up. Hoping to spare himself and his little brother a life of more pain, he opts to walk into the cold depths of the sea. With his escape in reach, it seems like everything will be over soon—until someone catches him. Yeo Tae-Ju, a sadistic alpha who seems to take pleasure in other’s pain, gives Eui-Hyun the choice to pay off his debt with his body but when the omega refuses, Tae-Ju proves he has no other choice.\n\nStill desperate for escape, Eui-Hyun tries to plan his next attempt while doing restaurant work. But with a sorry paycheck that barely covers his interests and his little brother to care for, will Eui-Hyun have to sell his body after all just to survive? And, is it even worth surviving if this is what his life is meant to be?",
           "image": "assets/img/posters/low-tide-in-twilight.webp",
           "banner": "assets/img/banners/low-tide-in-twilight.webp",
@@ -1462,7 +1464,7 @@ window.__DATA__ = {
         {
           "id": "c-love-is-an-illusion",
           "media": "love-is-an-illusion",
-          "title": "Love is an Illusion",
+          "title": "Love Is an Illusion!",
           "alt": "Sarangeun Hwansang!",
           "badge": "COMPLETED",
           "meta": "116 chapters · Completed",
@@ -1473,14 +1475,14 @@ window.__DATA__ = {
             116
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Hye-sung spent his entire life believing he was an alpha, the jackpot of the genetic lottery. His world is flipped upside down when he learns that he isn’t a dominating alpha, but a submissive omega instead! His frustration redlines whenever he crosses paths with the handsome Dojin, a true alpha. Supposedly, Dojin can’t stand omegas, but sparks fly when he butts heads with Hye-sung, and their explosive arguments set off an unexpectedly spicy relationship. Is their sizzling chemistry truly just pheromones?!",
           "image": "assets/img/posters/love-is-an-illusion.webp",
           "banner": "assets/img/banners/love-is-an-illusion.webp",
           "emptyMark": "LI",
-          "emptyLabel": "Love is an Illusion",
+          "emptyLabel": "Love Is an Illusion!",
           "info": {
             "format": "MANGA",
             "year": 2018,
@@ -1511,8 +1513,8 @@ window.__DATA__ = {
         {
           "id": "c-love-is-an-illusion-superstar",
           "media": "love-is-an-illusion-superstar",
-          "title": "Love is an Illusion - Superstar",
-          "alt": "Sarangeun Hwansang! Superstar",
+          "title": "Love Is an Illusion! - The Superstar",
+          "alt": "Love Is an Illusion! Side Story",
           "badge": "COMPLETED",
           "meta": "51 chapters · Completed",
           "chaptersRead": 51,
@@ -1522,14 +1524,14 @@ window.__DATA__ = {
             51
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Byul, a popular alpha and a first-year high school student, once trained to be an idol but has since left that path to attend school like a regular kid. His world takes an unexpected turn with the sudden birth of a younger sibling, introducing new challenges to his daily routine. Byul's childhood friend, Siwoo, has secretly harbored feelings for him for years. However, both being alphas, Siwoo has kept his emotions hidden.\n\nAs the two navigate their growing closeness after a period of time apart, Byul faces adolescence head-on, grappling with friendships, family relationships, and his sense of identity. Along the way, he rediscovers his passion for music and begins to mature through these transformative experiences.",
           "image": "assets/img/posters/love-is-an-illusion-superstar.webp",
           "banner": "assets/img/banners/love-is-an-illusion-superstar.webp",
           "emptyMark": "LI",
-          "emptyLabel": "Love is an Illusion - Superstar",
+          "emptyLabel": "Love Is an Illusion! - The Superstar",
           "info": {
             "format": "MANGA",
             "year": 2024,
@@ -1556,8 +1558,8 @@ window.__DATA__ = {
         {
           "id": "c-love-is-an-illusion-queen",
           "media": "love-is-an-illusion-queen",
-          "title": "Love is an Illusion - Queen",
-          "alt": "Sarangeun Hwansang!: The Queen",
+          "title": "Love Is an Illusion! - Queen",
+          "alt": "Love Is an Illusion! Queen Spin-off",
           "badge": "COMPLETED",
           "meta": "31 chapters · Completed",
           "chaptersRead": 31,
@@ -1567,14 +1569,14 @@ window.__DATA__ = {
             31
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Free-spirited Alpha Do-Gyeom has finally decided to put her promiscuous past behind her and settle down. As a 39-year-old woman, however, her options for marriage partners have dwindled. Luckily she has her beleaguered Omega secretary, Seung-Ah, to do most of the work of finding a suitable match for her. It shouldn’t be a problem, even if Seung-Ah and Do-Gyeom have harbored secret feelings for each other for years. In fact, arranging Do-Gyeom’s marriage may just be the catalyst for the two of them to finally admit their attraction…unless another Alpha gets in the way!",
           "image": "assets/img/posters/love-is-an-illusion-queen.webp",
           "banner": "assets/img/banners/love-is-an-illusion-queen.webp",
           "emptyMark": "LI",
-          "emptyLabel": "Love is an Illusion - Queen",
+          "emptyLabel": "Love Is an Illusion! - Queen",
           "info": {
             "format": "MANGA",
             "year": 2022,
@@ -1602,7 +1604,7 @@ window.__DATA__ = {
           "id": "c-dangerous-convenience-store",
           "media": "dangerous-convenience-store",
           "title": "Dangerous Convenience Store",
-          "alt": "The Dangerous Convenience Store · Wiheomhan Pyeonuijeom",
+          "alt": "Wiheomhan Pyeon-uijeom",
           "badge": "COMPLETED",
           "meta": "92 chapters · Completed",
           "chaptersRead": 92,
@@ -1612,9 +1614,9 @@ window.__DATA__ = {
             92
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Danger can come in many shapes and sizes, and the kind of danger Yeo Eui-joon has to deal with comes in the form of buff, brash, belligerent gangsters. He knew that working nights in a shifty neighborhood wouldn’t be the safest job on the planet, but reality sure does exceed expectations. However, Eui-joon’s days as the neighborhood punching bag look like they’re coming to a close when Gunwoo steps into this small store. Gunwoo, gruff as he is, genuinely seems to care about Eui-joon’s well-being, so it doesn't take long for Eui-joon to fall for this charismatic giant.",
           "image": "assets/img/posters/dangerous-convenience-store.webp",
           "banner": "assets/img/banners/dangerous-convenience-store.webp",
@@ -1652,10 +1654,10 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-be-watched-by-my-ex",
-          "media": "be-watched-by-my-ex",
+          "id": "c-be-watched-by-my-ex-again",
+          "media": "be-watched-by-my-ex-again",
           "title": "Be Watched by My Ex Again",
-          "alt": "Being Watched by My Ex Again · 再次被前任盯上",
+          "alt": "You Bei Qianren Ding Shang Le",
           "badge": "COMPLETED",
           "meta": "60 chapters · Completed",
           "chaptersRead": 60,
@@ -1665,9 +1667,9 @@ window.__DATA__ = {
             60
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "An unexpected reunion between former lovers sparks lingering obsessions and complicated feelings in this high-tension urban romance.",
           "image": "assets/img/posters/be-watched-by-my-ex.webp",
           "banner": "assets/img/banners/be-watched-by-my-ex.webp",
@@ -1705,7 +1707,7 @@ window.__DATA__ = {
           "id": "c-social-temperature",
           "media": "social-temperature",
           "title": "Social Temperature",
-          "alt": "Social Outcast · 社交温度 · Shejiao Wendu",
+          "alt": "Shejiao Wendu",
           "badge": "COMPLETED",
           "meta": "75 chapters · Completed",
           "chaptersRead": 75,
@@ -1715,9 +1717,9 @@ window.__DATA__ = {
             75
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Song Yuanxun, an indifferent student with biases, accidentally matches on a dating app with Fang Zhaomu—someone he heavily disliked. To his surprise, Fang Zhaomu turns out to be unexpectedly endearing and persistent.",
           "image": "assets/img/posters/social-temperature.webp",
           "banner": "assets/img/banners/social-temperature.webp",
@@ -1755,8 +1757,8 @@ window.__DATA__ = {
         {
           "id": "c-love-you-is-my-fault",
           "media": "love-you-is-my-fault",
-          "title": "Love You is My Fault",
-          "alt": "Wan Wu Sang Zhi · 爱你是我犯的错",
+          "title": "Love You Is My Fault",
+          "alt": "Ai Ni Shi Wo De Cuo",
           "badge": "COMPLETED",
           "meta": "52 chapters · Completed",
           "chaptersRead": 52,
@@ -1766,14 +1768,14 @@ window.__DATA__ = {
             52
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "A heart-wrenching webtoon tracing the painful sacrifices and deep emotional entanglements between two people bound by destiny.",
           "image": "assets/img/posters/love-you-is-my-fault.webp",
           "banner": "assets/img/banners/love-you-is-my-fault.webp",
           "emptyMark": "LY",
-          "emptyLabel": "Love You is My Fault",
+          "emptyLabel": "Love You Is My Fault",
           "info": {
             "format": "MANHUA",
             "year": 2022,
@@ -1802,7 +1804,7 @@ window.__DATA__ = {
           "id": "c-unilaterally-married",
           "media": "unilaterally-married",
           "title": "Unilaterally Married",
-          "alt": "单方面已婚 · Dan Fang Mian Yi Hun",
+          "alt": "Dan Fang Mian Jiehun",
           "badge": "COMPLETED",
           "meta": "65 chapters · Completed",
           "chaptersRead": 65,
@@ -1812,9 +1814,9 @@ window.__DATA__ = {
             65
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Popular celebrity Li Yuze shocks the entire entertainment world by announcing right after his debut that he is already married to a man, sparking an intense mystery around his spouse He Zhiqiu.",
           "image": "assets/img/posters/unilaterally-married.webp",
           "banner": "assets/img/banners/unilaterally-married.webp",
@@ -1849,7 +1851,7 @@ window.__DATA__ = {
           "id": "c-princes-first-love",
           "media": "princes-first-love",
           "title": "Prince's First Love",
-          "alt": "The Royal Prince's First Love · 皇太子的初恋",
+          "alt": "Wangzi De Chulian",
           "badge": "COMPLETED",
           "meta": "70 chapters · Completed",
           "chaptersRead": 70,
@@ -1859,9 +1861,9 @@ window.__DATA__ = {
             70
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "Flawless royal prince Nazaire transfers schools to consolidate his status, only to clash fiercely with campus tyrant Cassius Li—leading to unexpected dreams and conflicting desires.",
           "image": "assets/img/posters/princes-first-love.webp",
           "banner": "assets/img/banners/princes-first-love.webp",
@@ -1899,8 +1901,8 @@ window.__DATA__ = {
         {
           "id": "c-ex-husband-wants-to-marry-again",
           "media": "ex-husband-wants-to-marry-again",
-          "title": "Ex Husband Wants to Marry Again",
-          "alt": "前夫又又又想复婚了 · Qianfu You You You Xiang Fuhunle",
+          "title": "Ex-Husband Wants to Marry Again",
+          "alt": "Qianfu You Xiang Jiehun Le",
           "badge": "COMPLETED",
           "meta": "85 chapters · Completed",
           "chaptersRead": 85,
@@ -1910,14 +1912,14 @@ window.__DATA__ = {
             85
           ],
           "status": "COMPLETED",
-          "sectionId": "completed",
-          "sectionTitle": "Completed BL Manhwa / Manhua",
-          "accent": "#7ec9a8",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
           "synopsis": "After enduring heartbreak and a messy divorce, Ji Ran leaves his regretful ex-husband Ye Linghan, who desperately chases after him to win back his heart.",
           "image": "assets/img/posters/ex-husband-wants-to-marry-again.webp",
           "banner": "assets/img/banners/ex-husband-wants-to-marry-again.webp",
           "emptyMark": "EH",
-          "emptyLabel": "Ex Husband Wants to Marry Again",
+          "emptyLabel": "Ex-Husband Wants to Marry Again",
           "info": {
             "format": "MANHUA",
             "year": 2023,
@@ -1942,112 +1944,4025 @@ window.__DATA__ = {
             "native": "前夫又又又想复婚了",
             "siteUrl": null
           }
+        },
+        {
+          "id": "c-days-of-confrontation-against-scum-attack",
+          "media": "days-of-confrontation-against-scum-attack",
+          "title": "Days of Confrontation Against Scum Attack",
+          "alt": "Facing Off Against the Scumbag Top · 与他正面对决的日子",
+          "badge": "COMPLETED",
+          "meta": "91 chapters · Completed",
+          "chaptersRead": 91,
+          "totalChapters": 91,
+          "progress": [
+            91,
+            91
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Yu Baoyuan bared his soul for five years but still ended up being driven away by the scumbag. Was he defeated? Impossible. Even if his entire life was a mess, Brother Yuanbao still insisted that he—the dauntless, stubborn and foxy man—was the chosen one. Hence, Brother Yuanbao did not waver when the scumbag poured his heart out to ask for forgiveness. Yuanbao stroked his cat as he drank tea and casually commented, “The weather has turned chilly, some men should be trained…\"",
+          "image": "assets/img/posters/days-of-confrontation-against-scum-attack.webp",
+          "banner": "assets/img/banners/days-of-confrontation-against-scum-attack.webp",
+          "emptyMark": "DO",
+          "emptyLabel": "Days of Confrontation Against Scum Attack",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 91,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Bai He Chuan",
+                  "native": "白鹤川"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ju Mao Gege",
+                  "native": "橘猫哥哥"
+                }
+              },
+              {
+                "name": {
+                  "full": "Shi Xiaoye",
+                  "native": "时筱叶"
+                }
+              }
+            ],
+            "romaji": "Yu Ta Zhengmian Duijue De Rizi",
+            "english": "Facing Off Against the Scumbag Top",
+            "native": "与他正面对决的日子",
+            "siteUrl": "https://anilist.co/manga/143668"
+          }
+        },
+        {
+          "id": "c-fatal-oxygen",
+          "media": "fatal-oxygen",
+          "title": "Fatal Oxygen",
+          "alt": "Fatal Scents · 致命氧气",
+          "badge": "COMPLETED",
+          "meta": "223 chapters · Completed",
+          "chaptersRead": 223,
+          "totalChapters": 223,
+          "progress": [
+            223,
+            223
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Su Mu, male singer, gentle as water, is now paired with the dominative president Ning Ye of a large business group. The marking of pheromone puts both men’s life at stake. However, the former boyfriend of Su Mu just came back from Germany, turning from a poor actor to an award-winning one. The love from two different men is overwhelming Su Mu. Is he going to get stuck in the middle?",
+          "image": "assets/img/posters/fatal-oxygen.webp",
+          "banner": "assets/img/banners/fatal-oxygen.webp",
+          "emptyMark": "FO",
+          "emptyLabel": "Fatal Oxygen",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 223,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 58,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Liang Zhi Mao",
+                  "native": "两只猫"
+                }
+              },
+              {
+                "name": {
+                  "full": "Xiaoshao Yinghua",
+                  "native": "箫勺映画"
+                }
+              },
+              {
+                "name": {
+                  "full": "Tiao Geng",
+                  "native": "调羹"
+                }
+              }
+            ],
+            "romaji": "Zhiming Yangqi",
+            "english": "Fatal Scents",
+            "native": "致命氧气",
+            "siteUrl": "https://anilist.co/manga/119441"
+          }
+        },
+        {
+          "id": "c-zero-hunting",
+          "media": "zero-hunting",
+          "title": "Zero Hunting",
+          "alt": "My Vampire My Hunter · 零度狩猎",
+          "badge": "COMPLETED",
+          "meta": "167 chapters · Completed",
+          "chaptersRead": 167,
+          "totalChapters": 167,
+          "progress": [
+            167,
+            167
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Formerly a genius hunter, Bai Mu is now a third-rate celebrity. In a moment of carelessness, he was captured by his childhood playmate who turned out to be a vampire. From then on, he found it impossible to get away from his aggressively possessive childhood friend.",
+          "image": "assets/img/posters/zero-hunting.webp",
+          "banner": "assets/img/banners/zero-hunting.webp",
+          "emptyMark": "ZH",
+          "emptyLabel": "Zero Hunting",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 167,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Mystery",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Zhang Yue Wen Hua",
+                  "native": "掌阅文化"
+                }
+              }
+            ],
+            "romaji": "Shou Shou Bu Qin",
+            "english": "My Vampire My Hunter",
+            "native": "狩受不亲",
+            "siteUrl": "https://anilist.co/manga/134838"
+          }
+        },
+        {
+          "id": "c-deliverance-of-the-counterattack",
+          "media": "deliverance-of-the-counterattack",
+          "title": "Deliverance of the Counterattack",
+          "alt": "Counterattack Through Pregnancy · 逆袭之好孕人生",
+          "badge": "COMPLETED",
+          "meta": "423 chapters · Completed",
+          "chaptersRead": 423,
+          "totalChapters": 423,
+          "progress": [
+            423,
+            423
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Having a two-faced bitch as a rival in love isn’t scary. What’s scary is that the bitch has the upper hand—reincarnating as his little brother! Due to his little brother, his lover cheated on him, his grandfather suffered a violent death, his family business was taken over, and on top of all that he was framed and thrown into prison.\n\nJust as he thought he’d hit bottom, he somehow got laid by a man and became pregnant on the night before his release. After he got out of prison, he came back anew; he opened a restaurant, engaged in cultivation, and made a fortune while raising his child. He lived a vibrant life, but certainly didn’t forget to seek revenge…",
+          "image": "assets/img/posters/deliverance-of-the-counterattack.webp",
+          "banner": "assets/img/banners/deliverance-of-the-counterattack.webp",
+          "emptyMark": "DO",
+          "emptyLabel": "Deliverance of the Counterattack",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 423,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 73,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Haier",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "popeye",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Ying Che Shi Xue",
+                  "native": "盈澈逝雪"
+                }
+              }
+            ],
+            "romaji": "Ao Jiao Nai Ba Xiuxiang Tao",
+            "english": "Counterattack Through Pregnancy",
+            "native": "傲娇奶爸休想逃",
+            "siteUrl": "https://anilist.co/manga/123581"
+          }
+        },
+        {
+          "id": "c-heesu-in-class-2",
+          "media": "heesu-in-class-2",
+          "title": "Heesu in Class 2",
+          "alt": "2반 이희수",
+          "badge": "COMPLETED",
+          "meta": "90 chapters · Completed",
+          "chaptersRead": 90,
+          "totalChapters": 90,
+          "progress": [
+            90,
+            90
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Hui-Su’s world revolves around Chan-Young, his best friend and secret crush. He doesn’t mind cheering Chan-Yeong from the sidelines or listening to all his girl problems. He doesn’t care if people only know him as “Chan-Yeong’s friend.” Then one day, Hui-Su starts hearing his name everywhere. On the bus, in the halls, during lunch… Turns out, there’s a rumor going around school (Got a love problem? Find Hui-Su in Class 2 and he’ll tell you what to do!) and with that, Hui-Su suddenly finds himself the center of attention. But how could he give anyone advice? He doesn’t even know what to do about his own crush!",
+          "image": "assets/img/posters/heesu-in-class-2.webp",
+          "banner": "assets/img/banners/heesu-in-class-2.webp",
+          "emptyMark": "HI",
+          "emptyLabel": "Heesu in Class 2",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 90,
+            "volumes": 4,
+            "status": "FINISHED",
+            "averageScore": 82,
+            "genres": [
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Lily",
+                  "native": "릴리"
+                }
+              }
+            ],
+            "romaji": "2-ban Lee Hui-Su",
+            "english": "Heesu in Class 2",
+            "native": "2반 이희수",
+            "siteUrl": "https://anilist.co/manga/100932"
+          }
+        },
+        {
+          "id": "c-4-weeks-lover",
+          "media": "4-weeks-lover",
+          "title": "4 Weeks Lovers",
+          "alt": "4주 애인",
+          "badge": "COMPLETED",
+          "meta": "137 chapters · Completed",
+          "chaptersRead": 137,
+          "totalChapters": 137,
+          "progress": [
+            137,
+            137
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Straight-A student, a good social circle... Do-jun had no doubt that his campus life was going to be a breeze—until he reunites with Jae-hee, a friend he ghosted back in high school after he confessed his feelings for him. Well, their past shouldn't be that big of a deal, right? Everyone develops stupid crushes when they're in high school, and it seems like Jae-hee is over it anyway. Or at least, that's what Do-jun thought until Jae-hee offers a deal to him: \"Be my boyfriend for 4 weeks!\"",
+          "image": "assets/img/posters/4-weeks-lover.webp",
+          "banner": "assets/img/banners/4-weeks-lover.webp",
+          "emptyMark": "4W",
+          "emptyLabel": "4 Weeks Lovers",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 137,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 74,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Maroron",
+                  "native": "마로론"
+                }
+              }
+            ],
+            "romaji": "4-Ju Aein",
+            "english": "4 Week Lovers",
+            "native": "4주 애인",
+            "siteUrl": "https://anilist.co/manga/125599"
+          }
+        },
+        {
+          "id": "c-bj-alex",
+          "media": "bj-alex",
+          "title": "BJ Alex",
+          "alt": "BJ알렉스",
+          "badge": "COMPLETED",
+          "meta": "96 chapters · Completed",
+          "chaptersRead": 96,
+          "totalChapters": 96,
+          "progress": [
+            96,
+            96
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Every night at 10, Dong-Gyun locks himself up in his room, grabs a box of tissues, and watches a live cam boy show hosted by Alex, a BJ (broadcast jockey). Timid Dong-Gyun admires not only Alex’s ripped body, but his candor in sharing his sexual experiences with viewers. One night, Dong-Gyun downs too many drinks at a school networking event and passes out. When he wakes up, he’s in bed staring up at a shirtless hunk. A hunk who looks an awful lot like... Alex.",
+          "image": "assets/img/posters/bj-alex.webp",
+          "banner": "assets/img/banners/bj-alex.webp",
+          "emptyMark": "BA",
+          "emptyLabel": "BJ Alex",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 96,
+            "volumes": 9,
+            "status": "FINISHED",
+            "averageScore": 76,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Mingwa",
+                  "native": "밍과"
+                }
+              }
+            ],
+            "romaji": "BJ Alex",
+            "english": "BJ Alex",
+            "native": "BJ 알렉스",
+            "siteUrl": "https://anilist.co/manga/100885"
+          }
+        },
+        {
+          "id": "c-monochrome-diary",
+          "media": "monochrome-diary",
+          "title": "Monochrome Diary",
+          "alt": "흑백일기",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Yoo-Joon is a good boy. That's why he was destined to fall head-over-heels for the handsome and charismatic Ji-Ho. When Ji-Ho says \"Jump,\" Yoo-Joon asks \"How high?\" And as the pair become more inseparable by the day, they solidify their master-dog dynamic. But little do they know, each boy is harboring his own dark secret. Ji-Ho, who suffers from severe apathy resulting from childhood trauma, is using Yoo-Joon as an expendable toy, and Yoo-Joon is intensely and obsessively in love with Ji-Ho. Despite that, can the two boys successfully remove each other's masks and break the cycle of abuse?",
+          "image": "assets/img/posters/monochrome-diary.webp",
+          "banner": "assets/img/banners/monochrome-diary.webp",
+          "emptyMark": "MD",
+          "emptyLabel": "Monochrome Diary",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 40,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 61,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Na-Sol",
+                  "native": "나솔"
+                }
+              }
+            ],
+            "romaji": "Monochrome Diary",
+            "english": "Monochrome Diary",
+            "native": "모노크롬 다이어리",
+            "siteUrl": "https://anilist.co/manga/191652"
+          }
+        },
+        {
+          "id": "c-im-sick",
+          "media": "im-sick",
+          "title": "I'm Sick",
+          "alt": "Wo You Bing A · 我有病啊",
+          "badge": "ONGOING",
+          "meta": "65 chapters · Ongoing",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "",
+          "image": "assets/img/posters/im-sick.webp",
+          "banner": "assets/img/banners/im-sick.webp",
+          "emptyMark": "IM",
+          "emptyLabel": "I'm Sick",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 65,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Huoran Mu",
+                  "native": "木火然"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jiaoyan Fanche Yu",
+                  "native": "椒盐翻车鱼"
+                }
+              }
+            ],
+            "romaji": "Wo You Bing A",
+            "english": "Wo You Bing A",
+            "native": "我有病啊",
+            "siteUrl": "https://anilist.co/manga/162597"
+          }
+        },
+        {
+          "id": "c-outside-the-law",
+          "media": "outside-the-law",
+          "title": "Outside the Law",
+          "alt": "Outside The Law · 法外之徒",
+          "badge": "COMPLETED",
+          "meta": "66 chapters · Completed",
+          "chaptersRead": 66,
+          "totalChapters": 66,
+          "progress": [
+            66,
+            66
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "This is a story about the “weak” defeating the strong.",
+          "image": "assets/img/posters/outside-the-law.webp",
+          "banner": "assets/img/banners/outside-the-law.webp",
+          "emptyMark": "OT",
+          "emptyLabel": "Outside the Law",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 66,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Action",
+              "Drama",
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ka Bi Qiu",
+                  "native": "卡比丘"
+                }
+              },
+              {
+                "name": {
+                  "full": "Fugui Lu",
+                  "native": "鹿富贵"
+                }
+              },
+              {
+                "name": {
+                  "full": "Wensan Wu",
+                  "native": "吴文三"
+                }
+              }
+            ],
+            "romaji": "Fa Wai Zhi Tu",
+            "english": "Outside The Law",
+            "native": "法外之徒",
+            "siteUrl": "https://anilist.co/manga/141684"
+          }
+        },
+        {
+          "id": "c-match-rate-99-percent-lovers",
+          "media": "match-rate-99-percent-lovers",
+          "title": "99.99% Lovers",
+          "alt": "Match Rate 99.99% · 일치율 99.99%",
+          "badge": "COMPLETED",
+          "meta": "51 chapters · Completed",
+          "chaptersRead": 51,
+          "totalChapters": 51,
+          "progress": [
+            51,
+            51
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "In the world of modern omegaverse, Hae-Jin is an average office worker with a spirit of adventurer who happens to be the omega that Hwan Lee, a sharp-looking and ambitious corporate executive has been searching for. Hwan, who needs a matching omega with a sufficient compatibility rate in order to have him bear his child, offers Hae-Jin an overwhelming deal that is too sweet to be rejected.\n\nChapter count includes 6 side stories.",
+          "image": "assets/img/posters/match-rate-99-percent-lovers.webp",
+          "banner": "assets/img/banners/match-rate-99-percent-lovers.webp",
+          "emptyMark": "99",
+          "emptyLabel": "99.99% Lovers",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 51,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 58,
+            "genres": [
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Lash",
+                  "native": "라쉬"
+                }
+              },
+              {
+                "name": {
+                  "full": "Nanna",
+                  "native": "난나"
+                }
+              }
+            ],
+            "romaji": "99.99%-ui Yeonin",
+            "english": "Match Rate 99.99%",
+            "native": "99.99%의 연인",
+            "siteUrl": "https://anilist.co/manga/146998"
+          }
+        },
+        {
+          "id": "c-pian-pian",
+          "media": "pian-pian",
+          "title": "Pian Pian",
+          "alt": "Pian Pian · 翩翩",
+          "badge": "COMPLETED",
+          "meta": "89 chapters · Completed",
+          "chaptersRead": 89,
+          "totalChapters": 89,
+          "progress": [
+            89,
+            89
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "In the world of \"Pian Pian\", people are born with the initials of their soulmates on their bodies. The location of these \"imprints\" is unique to the individual, but the meaning behind the letters is the same. Suha’s happens to be located in a – ahem – very private location. The chances of actually uniting with one’s soulmates is rather slim, but that hasn’t stopped Suha. Not only does he believe he will find his soulmate, but he also refuses to date anyone until then. But lately, his handsome boss, Chef Calix, has had him feeling some feels \"down there...\" He thought he was alone in these feelings, but the chef has suddenly started showing interest in him. Could the tides be finally changing for innocent Suha?",
+          "image": "assets/img/posters/pian-pian.webp",
+          "banner": "assets/img/banners/pian-pian.webp",
+          "emptyMark": "PP",
+          "emptyLabel": "Pian Pian",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 89,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 68,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Hentai",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Hae Shin Yeong",
+                  "native": "영해신"
+                }
+              }
+            ],
+            "romaji": "Pian Pian",
+            "english": "Pian Pian",
+            "native": "피옌피옌",
+            "siteUrl": "https://anilist.co/manga/114536"
+          }
+        },
+        {
+          "id": "c-sissy",
+          "media": "sissy",
+          "title": "Sissy",
+          "alt": "Sissy · 娘娘腔",
+          "badge": "COMPLETED",
+          "meta": "203 chapters · Completed",
+          "chaptersRead": 203,
+          "totalChapters": 203,
+          "progress": [
+            203,
+            203
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Obsessive playboy x Gentle cutie.\n\nEver since he was little, Li Chengxiu has faced all the difficulties life could offer, when he just wanted to be loved. Shao Qun is the heir of a wealthy family. His boisterous and unruly personality was at its worst during his high school years. From curiosity to bullying, then becoming attraction. It was the wrong time for these awkward feelings, only destined to hurt each other. They thought they'd left it behind and moved on. But when they meet again, will their encounter be the beginning of happiness or the continuation of pain?",
+          "image": "assets/img/posters/sissy.webp",
+          "banner": "assets/img/banners/sissy.webp",
+          "emptyMark": "SI",
+          "emptyLabel": "Sissy",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 203,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Qiang Chen Shui",
+                  "native": "水千丞"
+                }
+              },
+              {
+                "name": {
+                  "full": "Lu Fang",
+                  "native": "陆放"
+                }
+              },
+              {
+                "name": {
+                  "full": "505 Hao Xian",
+                  "native": "505号线"
+                }
+              }
+            ],
+            "romaji": "Niangniangqiang",
+            "english": "Sissy",
+            "native": "娘娘腔",
+            "siteUrl": "https://anilist.co/manga/139697"
+          }
+        },
+        {
+          "id": "c-fall-in-love-with-the-substitute",
+          "media": "fall-in-love-with-the-substitute",
+          "title": "Fall in Love with the Substitute",
+          "alt": "The Substitute Wins His Heart · 爱上替身",
+          "badge": "COMPLETED",
+          "meta": "140 chapters · Completed",
+          "chaptersRead": 140,
+          "totalChapters": 140,
+          "progress": [
+            140,
+            140
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Alex is a replacement for Sebastian's crush, Eddie. He seems totally smitten with Sebastian, but really it's all an act. He's only using him for money. When Eddie is back in town and moves into Sebastian's place, the first thing he says to Alex is, \"Leave Sebastian for me.\"",
+          "image": "assets/img/posters/fall-in-love-with-the-substitute.webp",
+          "banner": "assets/img/banners/fall-in-love-with-the-substitute.webp",
+          "emptyMark": "FI",
+          "emptyLabel": "Fall in Love with the Substitute",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 140,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Lu Fang",
+                  "native": "陆放"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ronghua Fugui",
+                  "native": "荣华富贵"
+                }
+              },
+              {
+                "name": {
+                  "full": "Mang Guo Ne",
+                  "native": "芒果呢"
+                }
+              }
+            ],
+            "romaji": "Baiyueguang Ta Aishang Tishenle?!",
+            "english": "The Substitute Wins His Heart",
+            "native": "白月光他爱上替身了？！",
+            "siteUrl": "https://anilist.co/manga/217379"
+          }
+        },
+        {
+          "id": "c-personal-tailor",
+          "media": "personal-tailor",
+          "title": "Personal Tailor",
+          "alt": "Personal Tailor · 私人定制",
+          "badge": "COMPLETED",
+          "meta": "141 chapters · Completed",
+          "chaptersRead": 141,
+          "totalChapters": 141,
+          "progress": [
+            141,
+            141
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "In the original work \"CEO's Personal Tailor,\" Song Fengshi is the manager of a luxury store and unexpectedly runs into an old classmate who is now a CEO. The next day, he wakes up to discover that he had an intimate encounter with said classmate. He fled in a panic, only to later discover that the CEO had acquired their brand and had become his new boss.",
+          "image": "assets/img/posters/personal-tailor.webp",
+          "banner": "assets/img/banners/personal-tailor.webp",
+          "emptyMark": "PT",
+          "emptyLabel": "Personal Tailor",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 141,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Bing Tang Hu Lu",
+                  "native": "冰糖葫芦"
+                }
+              },
+              {
+                "name": {
+                  "full": "Mu San Guan",
+                  "native": "木三观"
+                }
+              },
+              {
+                "name": {
+                  "full": "BAK",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Siren Ding Zhi de Ni",
+            "english": "Personal Tailor",
+            "native": "私人订制的你",
+            "siteUrl": "https://anilist.co/manga/151198"
+          }
+        },
+        {
+          "id": "c-code-of-silence",
+          "media": "code-of-silence",
+          "title": "Code of Silence",
+          "alt": "The Code of Silence · 缄默法则",
+          "badge": "COMPLETED",
+          "meta": "90 chapters · Completed",
+          "chaptersRead": 90,
+          "totalChapters": 90,
+          "progress": [
+            90,
+            90
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "The life of an assassin is many things: dangerous, lonely, short... and above all, ill-suited for love. Those were the rules Joaquin agreed to and accepted without question until the fateful day a young man named Davion saved his life. But the life of an assassin is no fairy tale. In an odd twist of fate, Joaquin ended up ripping away everything Davion held dear, and has since taken it upon himself to train the young man on how to get his revenge against everyone involved... including Joaquin himself.",
+          "image": "assets/img/posters/code-of-silence.webp",
+          "banner": "assets/img/banners/code-of-silence.webp",
+          "emptyMark": "CO",
+          "emptyLabel": "Code of Silence",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 90,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 62,
+            "genres": [
+              "Action",
+              "Mystery",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Liu Zang Tang",
+                  "native": "六藏糖"
+                }
+              },
+              {
+                "name": {
+                  "full": "Nan Zha Zha Zi",
+                  "native": "南渣渣子"
+                }
+              }
+            ],
+            "romaji": "Jianmo Faze",
+            "english": "The Code of Silence",
+            "native": "缄默法则",
+            "siteUrl": "https://anilist.co/manga/128806"
+          }
+        },
+        {
+          "id": "c-rabid-dog-breeding-rules",
+          "media": "rabid-dog-breeding-rules",
+          "title": "Rabid Dog Breeding Rules",
+          "alt": "Mad Dog · 미친개",
+          "badge": "COMPLETED",
+          "meta": "51 chapters · Completed",
+          "chaptersRead": 51,
+          "totalChapters": 51,
+          "progress": [
+            51,
+            51
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Some people thirst for power while others want nothing more than to live low. Ha-Min has always been resentful of the label that comes with being his father’s son—he didn’t ask to be born into a mob family! After much trial and error, Ha-Min finally breaks ties with his family and begins to live the life he's dreamed about. That is, until he gets kidnapped and finds himself under the protection of a certain Kwon Se-Hyeok. All Ha-Min wants is his \"normal\" life back, but Se-Hyeok is as far from normal as a person can get...",
+          "image": "assets/img/posters/rabid-dog-breeding-rules.webp",
+          "banner": "assets/img/banners/rabid-dog-breeding-rules.webp",
+          "emptyMark": "RD",
+          "emptyLabel": "Rabid Dog Breeding Rules",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 51,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 73,
+            "genres": [
+              "Action",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Haribo",
+                  "native": "하리보"
+                }
+              }
+            ],
+            "romaji": "Mad Dog",
+            "english": "Mad Dog",
+            "native": "매드 독",
+            "siteUrl": "https://anilist.co/manga/136025"
+          }
+        },
+        {
+          "id": "c-trap-a-vicious-dog",
+          "media": "trap-a-vicious-dog",
+          "title": "Trap a Vicious Dog",
+          "alt": "Youbu E Quan · 诱捕恶犬",
+          "badge": "COMPLETED",
+          "meta": "77 chapters · Completed",
+          "chaptersRead": 77,
+          "totalChapters": 77,
+          "progress": [
+            77,
+            77
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Shi Qi, a lawyer who died from overwork, transmigrated into a multi-partner novel, becoming the scumbag top who pushed Feng Ran into darkness. Out of respect for the law, Shi Qi decideds to spare the pitiful Feng Ran from the story's plot. However, Shi Qi didn't expect that the original canary would be reborn and blacken, approaching him with the anger and resentment of his past life, causing him to fall and become prey. But in the end, it was the vengeful Feng Ran who cried uncontrollably. \"Shi Qi, please love me again.\" It turns out that the hunter and the prey were destined from the very beginning of the story…",
+          "image": "assets/img/posters/trap-a-vicious-dog.webp",
+          "banner": "assets/img/banners/trap-a-vicious-dog.webp",
+          "emptyMark": "TA",
+          "emptyLabel": "Trap a Vicious Dog",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 77,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ka Bi Shou Nai Tang",
+                  "native": "卡比兽奶糖"
+                }
+              },
+              {
+                "name": {
+                  "full": "Zi Ran A",
+                  "native": "子然a"
+                }
+              },
+              {
+                "name": {
+                  "full": "buku",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Youbu E Quan",
+            "english": "Youbu E Quan",
+            "native": "诱捕恶犬",
+            "siteUrl": "https://anilist.co/manga/215982"
+          }
+        },
+        {
+          "id": "c-killer-crush",
+          "media": "killer-crush",
+          "title": "Killer Crush",
+          "alt": "킬러가 사랑에 빠졌을 때",
+          "badge": "COMPLETED",
+          "meta": "94 chapters · Completed",
+          "chaptersRead": 94,
+          "totalChapters": 94,
+          "progress": [
+            94,
+            94
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "A killer only has to do three things. Go on missions. Kill people. Leave absolutely no trace behind. Joo Tae-Man has 14 years of experience under his belt and he’s never let his feelings get the better of him. Never. That is, until Tae-Man experiences butterflies in his stomach after seeing national sweetheart Kang Da-Hyeok in person. But as it turns out, Tae-Man’s not the only one smitten on the spot. Da-Hyeok’s been looking for someone who can help him escape his reputation as a hunky heartthrob to live his gritty noir dreams. This killer crush’s out to get someone, but who’ll be the first to succumb?",
+          "image": "assets/img/posters/killer-crush.webp",
+          "banner": "assets/img/banners/killer-crush.webp",
+          "emptyMark": "KC",
+          "emptyLabel": "Killer Crush",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 94,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 81,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Eresemo",
+                  "native": "에레세모"
+                }
+              }
+            ],
+            "romaji": "Killer-ga Sarange Ppajyeosseul Ttae",
+            "english": "Killer Crush",
+            "native": "킬러가 사랑에 빠졌을 때",
+            "siteUrl": "https://anilist.co/manga/140951"
+          }
+        },
+        {
+          "id": "c-alphas-love-charade",
+          "media": "alphas-love-charade",
+          "title": "Alpha's Love Charade",
+          "alt": "The Alphas' Love Charade",
+          "badge": "COMPLETED",
+          "meta": "58 chapters · Completed",
+          "chaptersRead": 58,
+          "totalChapters": 58,
+          "progress": [
+            58,
+            58
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Can two rival Alphas end up as a couple? Ask Cloud Ling, who gets hit by a car while escaping loan sharks. The driver? None other than his ex-rival, Marius Ji! Their journey from childhood friends to estranged rivals takes a dramatic turn when Cloud feigns amnesia to avoid an awkward reunion, only for Marius to insist that they're boyfriends! As Cloud grapples with this bizarre claim, he wonders: Is this mishap a stroke of luck, reigniting a long-lost bond, or are some chapters best left closed?",
+          "image": "assets/img/posters/alphas-love-charade.webp",
+          "banner": "assets/img/banners/alphas-love-charade.webp",
+          "emptyMark": "AS",
+          "emptyLabel": "Alpha's Love Charade",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 58,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Yiyi Yiyi",
+                  "native": "伊依以翼"
+                }
+              },
+              {
+                "name": {
+                  "full": "Lu Fang",
+                  "native": "陆放"
+                }
+              },
+              {
+                "name": {
+                  "full": "Duan Tui Gou",
+                  "native": "短腿狗"
+                }
+              }
+            ],
+            "romaji": "Jiazhuang Shiyi Hou Qingdi Shuo Wo Shi Ta De Nanpengyou",
+            "english": "The Alphas' Love Charade",
+            "native": "假装失忆后情敌说我是他的男朋友",
+            "siteUrl": "https://anilist.co/manga/194007"
+          }
+        },
+        {
+          "id": "c-zhong-qing",
+          "media": "zhong-qing",
+          "title": "Zhong Qing",
+          "alt": "Guiding the Eccentric Tyrant · 重情",
+          "badge": "COMPLETED",
+          "meta": "77 chapters · Completed",
+          "chaptersRead": 77,
+          "totalChapters": 77,
+          "progress": [
+            77,
+            77
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "The low-level guide Qin Yun was forcibly marked by the god-level sentinel tyrant Mosheli. The hot-tempered girl-hearted top x the serious and honest bottom started a shameless life as a couple, and conquered the entire universe while they're at it.",
+          "image": "assets/img/posters/zhong-qing.webp",
+          "banner": "assets/img/banners/zhong-qing.webp",
+          "emptyMark": "ZQ",
+          "emptyLabel": "Zhong Qing",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 77,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 64,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Mu Geng Mu Geng",
+                  "native": "木更木更"
+                }
+              },
+              {
+                "name": {
+                  "full": "Shiyi",
+                  "native": "拾一"
+                }
+              }
+            ],
+            "romaji": "Zhongqing",
+            "english": "Zhongqing",
+            "native": "钟情",
+            "siteUrl": "https://anilist.co/manga/158009"
+          }
+        },
+        {
+          "id": "c-semantic-error",
+          "media": "semantic-error",
+          "title": "Semantic Error",
+          "alt": "시맨틱 에러",
+          "badge": "COMPLETED",
+          "meta": "109 chapters · Completed",
+          "chaptersRead": 109,
+          "totalChapters": 109,
+          "progress": [
+            109,
+            109
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "A Bug in the System\nReason, routine, and rules. These are the tenets that computer science major Sang-Woo Chu lives by, so when the rest of his teammates fail to contribute to their group’s presentation, he cuts their names from the project—including that of a complete no-show, whose plans to graduate and study abroad have gone down the drain as a result. Not that that’s any of Sang-Woo’s business…until he realizes that Jae-Young Jang, the talented design major he was hoping to hire for his video game, is: one, that very same classmate, and two, hell-bent on returning the favor and being the biggest thorn in his side! Will Sang-Woo be able to debug this semantic error before it upends his entire life?",
+          "image": "assets/img/posters/semantic-error.webp",
+          "banner": "assets/img/banners/semantic-error.webp",
+          "emptyMark": "SE",
+          "emptyLabel": "Semantic Error",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 109,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 82,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jeosuri ",
+                  "native": "저수리"
+                }
+              },
+              {
+                "name": {
+                  "full": "Angy",
+                  "native": "엔지"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jessica Walther",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Semantic Error",
+            "english": "Semantic Error",
+            "native": "시맨틱 에러",
+            "siteUrl": "https://anilist.co/manga/125167"
+          }
+        },
+        {
+          "id": "c-punch-drunk-love",
+          "media": "punch-drunk-love",
+          "title": "Punch Drunk Love",
+          "alt": "펀치 드렁크 러브",
+          "badge": "COMPLETED",
+          "meta": "94 chapters · Completed",
+          "chaptersRead": 94,
+          "totalChapters": 94,
+          "progress": [
+            94,
+            94
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Seon-woo is a pretty unassuming office worker, but he’s got a hardcore fetish: he wants some BDSM love from another man who’s willing to dominate. Enter his new co-worker, Tae-moon. Tae-moon is really hot, and based on a little snooping, he might be into men–and he’s showing signs of being a dom, to boot! Trying to start a sexy relationship at work can be rough, but Seon-woo likes it rough, so game on.",
+          "image": "assets/img/posters/punch-drunk-love.webp",
+          "banner": "assets/img/banners/punch-drunk-love.webp",
+          "emptyMark": "PD",
+          "emptyLabel": "Punch Drunk Love",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 94,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 78,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Moscareto",
+                  "native": "모스카레토"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ok-Dong ",
+                  "native": "옥동"
+                }
+              },
+              {
+                "name": {
+                  "full": "Karis Page",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Punch Drunk Love",
+            "english": "Punch Drunk Love",
+            "native": "펀치 드렁크 러브",
+            "siteUrl": "https://anilist.co/manga/145350"
+          }
+        },
+        {
+          "id": "c-dont-get-me-wrong-boss",
+          "media": "dont-get-me-wrong-boss",
+          "title": "Don't Get Me Wrong, Boss",
+          "alt": "대표님 오해예요!",
+          "badge": "COMPLETED",
+          "meta": "45 chapters · Completed",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Lim Iro is a BL writer, and a pretty successful one at that! His last project was lavished with praise by everyone… Well, almost everyone. Under pressure from his unimpressed parents, Iro is forced into applying for a “real” job. But instead of a cover letter, he accidentally submits an unreleased extract from his book instead! Disaster! Or maybe not…? Faced with Iro’s unconventional application, Baek Ho-ryung, the dashing CEO of Beus drinks company, is intrigued. But once Iro joins Beus, will his office life begin to emulate his steamy writing…?",
+          "image": "assets/img/posters/dont-get-me-wrong-boss.webp",
+          "banner": "assets/img/banners/dont-get-me-wrong-boss.webp",
+          "emptyMark": "DT",
+          "emptyLabel": "Don't Get Me Wrong, Boss",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 45,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 73,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Limeho",
+                  "native": "라임호"
+                }
+              },
+              {
+                "name": {
+                  "full": "Gangtto",
+                  "native": "강또"
+                }
+              }
+            ],
+            "romaji": "Geureon Ge Animnidaman",
+            "english": "Don't Get Me Wrong, Boss!",
+            "native": "그런 게 아닙니다만",
+            "siteUrl": "https://anilist.co/manga/128826"
+          }
+        },
+        {
+          "id": "c-juanmuqi",
+          "media": "juanmuqi",
+          "title": "Juanmuqi",
+          "alt": "Shameless · 파렴치",
+          "badge": "COMPLETED",
+          "meta": "20 chapters · Completed",
+          "chaptersRead": 20,
+          "totalChapters": 20,
+          "progress": [
+            20,
+            20
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Emperor Yi Yeon is famous throughout the kingdom of Hochang for his outstanding political prowess and ruthless attitude towards sycophants. After relentlessly bullying his palace cleaners into fainting on the job, junior eunuch Yoo Yak-woo is called upon to fulfill the cleaning duties, which he enjoys to the point of being nicknames Sogwija, aka “the cleaning demon”. Immediately, this young, fresh-faced eunuch and his delectably juicy buttocks catch the emperor’s eye. One night, Yi yeon calls Yoo Yak-woo to his room for a very “special” cleaning service and the shenanigans begin to unfold…",
+          "image": "assets/img/posters/juanmuqi.webp",
+          "banner": "assets/img/banners/juanmuqi.webp",
+          "emptyMark": "JU",
+          "emptyLabel": "Juanmuqi",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 20,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 63,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Hentai"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Yu-Ri Sin",
+                  "native": "신유리"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jin-Yang",
+                  "native": "진양"
+                }
+              }
+            ],
+            "romaji": "Huanmuchi",
+            "english": "Shameless",
+            "native": "후안무치",
+            "siteUrl": "https://anilist.co/manga/133352"
+          }
+        },
+        {
+          "id": "c-omega-complex",
+          "media": "omega-complex",
+          "title": "Omega Complex",
+          "alt": "오메가 콤플렉스",
+          "badge": "COMPLETED",
+          "meta": "51 chapters · Completed",
+          "chaptersRead": 51,
+          "totalChapters": 51,
+          "progress": [
+            51,
+            51
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Yoon-Woo and Tae-Gyeom have been best friends since childhood, but Yoon-Woo is hiding a secret that could tear them apart–he’s an omega… and he’s in love with Tae-Gyeom.\n\nWhen a traumatic event leads Tae-Gyeom to despise all omegas, Yoon-Woo is forced to keep his identity a secret. After struggling for years to avoid Tae-Gyeom, they both end up at the same college, and Yoon-Woo’s carefully guarded secret is in danger of being exposed…",
+          "image": "assets/img/posters/omega-complex.webp",
+          "banner": "assets/img/banners/omega-complex.webp",
+          "emptyMark": "OC",
+          "emptyLabel": "Omega Complex",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 51,
+            "volumes": 5,
+            "status": "FINISHED",
+            "averageScore": 76,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ha-Gong",
+                  "native": "하공"
+                }
+              },
+              {
+                "name": {
+                  "full": "Oneulbom",
+                  "native": "오늘봄"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ryeong Yu",
+                  "native": "유령"
+                }
+              }
+            ],
+            "romaji": "Omega Complex",
+            "english": "OmegaComplex",
+            "native": "오메가 콤플렉스",
+            "siteUrl": "https://anilist.co/manga/144927"
+          }
+        },
+        {
+          "id": "c-b-class-guide",
+          "media": "b-class-guide",
+          "title": "B Class Guide",
+          "alt": "B-geup Guide · B급 가이드",
+          "badge": "COMPLETED",
+          "meta": "56 chapters · Completed",
+          "chaptersRead": 56,
+          "totalChapters": 56,
+          "progress": [
+            56,
+            56
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "A dizzying office love affair between an S-class esper and a B-class guide! Lee Jaeha, a B-class guide, had an office relationship with an esper at the same center for 3 years, but was recently done wrong. Despite breaking up with his lover, he finds himself forced to still guide him, and he applies for a transfer to a high-risk area. Surrounded by all kinds of rumors and stares, all he wants is a quiet and peaceful work life in the new center! However, Jaeha takes on the task of guiding Do Jiyoon, an S-class esper, on the verge of a rampage, and Jaeha’s work life is getting farther away from peaceful…!",
+          "image": "assets/img/posters/b-class-guide.webp",
+          "banner": "assets/img/banners/b-class-guide.webp",
+          "emptyMark": "BC",
+          "emptyLabel": "B Class Guide",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 56,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 67,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Nang-Jun",
+                  "native": "낭준"
+                }
+              },
+              {
+                "name": {
+                  "full": "WINSTON",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Ullallahullalla",
+                  "native": "울랄라훌랄라"
+                }
+              }
+            ],
+            "romaji": "B-geup Guide",
+            "english": "B-geup Guide",
+            "native": "B급 가이드",
+            "siteUrl": "https://anilist.co/manga/147380"
+          }
+        },
+        {
+          "id": "c-butler",
+          "media": "butler",
+          "title": "Butler",
+          "alt": "집사",
+          "badge": "COMPLETED",
+          "meta": "93 chapters · Completed",
+          "chaptersRead": 93,
+          "totalChapters": 93,
+          "progress": [
+            93,
+            93
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "How are you supposed to go about your workday when your secret crush, a sexy CEO with amber eyes, lives in the hotel you work at? What’s worse: you’re his personal butler! Ian Seo lives this every day, watching the alpha of his dreams bringing home guy after guy, not even sparing him a second glance. But determination gets the best of Ian and he formulates a plan to make CEO Jaek-Won Yoo his. Can he woo the cold and distant alpha, or is Ian destined to be just the butler for the rest of his life?",
+          "image": "assets/img/posters/butler.webp",
+          "banner": "assets/img/banners/butler.webp",
+          "emptyMark": "BU",
+          "emptyLabel": "Butler",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 93,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 65,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Nabit",
+                  "native": "나빛"
+                }
+              },
+              {
+                "name": {
+                  "full": "Bobae",
+                  "native": "보배"
+                }
+              }
+            ],
+            "romaji": "Butler",
+            "english": "Butler",
+            "native": "버틀러",
+            "siteUrl": "https://anilist.co/manga/145243"
+          }
+        },
+        {
+          "id": "c-cozy-obsession",
+          "media": "cozy-obsession",
+          "title": "Cozy Obsession",
+          "alt": "아늑한 집착",
+          "badge": "COMPLETED",
+          "meta": "71 chapters · Completed",
+          "chaptersRead": 71,
+          "totalChapters": 71,
+          "progress": [
+            71,
+            71
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Huimin Seo happened to read a tragic BL novel where the two main characters had both his name and even his best friend’s name, Iheon Cha. But rather than remaining as an incredible coincidence, this book becomes a new reality for Huimin. Before he knows it, he is transmigrated right into a major scene in the novel where Huimin Seo, a rare dominant omega, gets bought off in an auction by Iheon Cha, a powerful dominant alpha. Aware of the complications in this love-hate relationship that he cannot escape from, Huimin must tread carefully to turn things around entirely.",
+          "image": "assets/img/posters/cozy-obsession.webp",
+          "banner": "assets/img/banners/cozy-obsession.webp",
+          "emptyMark": "CO",
+          "emptyLabel": "Cozy Obsession",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 71,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 71,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Hyeon Lee",
+                  "native": "이현"
+                }
+              },
+              {
+                "name": {
+                  "full": "Seong-hwa Yoo",
+                  "native": "유성화"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yeong-Hui Go",
+                  "native": "고영희"
+                }
+              }
+            ],
+            "romaji": "Aneukan Jipchak",
+            "english": "Cozy Obsession",
+            "native": "아늑한 집착",
+            "siteUrl": "https://anilist.co/manga/179400"
+          }
+        },
+        {
+          "id": "c-no-love-zone",
+          "media": "no-love-zone",
+          "title": "No Love Zone",
+          "alt": "노러브 존",
+          "badge": "COMPLETED",
+          "meta": "64 chapters · Completed",
+          "chaptersRead": 64,
+          "totalChapters": 64,
+          "progress": [
+            64,
+            64
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "It’s been about a year since Lee Eun-Kyum started working at his office job. He’s outgoing and gets along well with his co-workers, but his success with romantic relationships is less than stellar, especially since he tends to fall hard and fast based on looks alone. History seems poised to repeat itself in the form of his new boss, Han Ji-Hyuk.\n\nThe handsome Han Ji-Hyuk is exactly Lee Eun-Kyum’s type, but his personality is a total turn-off as he proceeds to work Lee Eun-Kyum to the bone. The more aggravated Lee Eun-Kyum feels, the more he can’t get Han Ji-Hyuk off his mind. Could this heated attraction be mutual?",
+          "image": "assets/img/posters/no-love-zone.webp",
+          "banner": "assets/img/banners/no-love-zone.webp",
+          "emptyMark": "NL",
+          "emptyLabel": "No Love Zone",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 64,
+            "volumes": 4,
+            "status": "FINISHED",
+            "averageScore": 70,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Danbi",
+                  "native": "단비"
+                }
+              }
+            ],
+            "romaji": "Yeonae Jehan Guyeok",
+            "english": "No Love Zone",
+            "native": "연애제한구역",
+            "siteUrl": "https://anilist.co/manga/115610"
+          }
+        },
+        {
+          "id": "c-unromantic-romance",
+          "media": "unromantic-romance",
+          "title": "Unromantic Romance",
+          "alt": "언로맨틱",
+          "badge": "COMPLETED",
+          "meta": "66 chapters · Completed",
+          "chaptersRead": 66,
+          "totalChapters": 66,
+          "progress": [
+            66,
+            66
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "In a world where Omegas rule supreme, it’s tough being an Alpha. But Hyeon-oh’s been able to lead a decent, if a little boring, life so far and it seems like things'll stay that way. He’ll graduate from university, get a job as a reporter, meet an Omega who’ll take care of him, start a family with them and live happily ever after. The perfect romance. The kind of romance that starts when you ask the bartender to make a drink for the only other person in the bar. Little does Hyeon-oh know how that innocent gesture will pull him headfirst into the most unromantic of situations...",
+          "image": "assets/img/posters/unromantic-romance.webp",
+          "banner": "assets/img/banners/unromantic-romance.webp",
+          "emptyMark": "UR",
+          "emptyLabel": "Unromantic Romance",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 66,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 78,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Seok-Chan Jeong",
+                  "native": "정석찬"
+                }
+              }
+            ],
+            "romaji": "Unromantic",
+            "english": "Unromantic Romance",
+            "native": "언로맨틱",
+            "siteUrl": "https://anilist.co/manga/117877"
+          }
+        },
+        {
+          "id": "c-boss-bitch-baby",
+          "media": "boss-bitch-baby",
+          "title": "Boss Bitch Baby",
+          "alt": "Boss, Bxtch, Baby! · 보스 빗치 베이비",
+          "badge": "COMPLETED",
+          "meta": "93 chapters · Completed",
+          "chaptersRead": 93,
+          "totalChapters": 93,
+          "progress": [
+            93,
+            93
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Would you rather be the target of a ruthless gang of loan sharks or become the boy-toy of an unhinged corporate heir for a year? This is the predicament Hojin finds himself in when Yoo-Seong, a former one-night stand, wrestles him into a deal that’ll solve all his money problems. He’ll have to pay a hefty price in return, but Hojin soon comes to learn that his cruel master for a year hides a rather lonely heart. Thus, the two begin to grow closer... Will they actually find comfort in each other or will this year crush Ho-Jin for good?",
+          "image": "assets/img/posters/boss-bitch-baby.webp",
+          "banner": "assets/img/banners/boss-bitch-baby.webp",
+          "emptyMark": "BB",
+          "emptyLabel": "Boss Bitch Baby",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 93,
+            "volumes": 6,
+            "status": "FINISHED",
+            "averageScore": 73,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Dakto",
+                  "native": "닥토"
+                }
+              }
+            ],
+            "romaji": "Boss Bitch Baby",
+            "english": "Boss, Bxtch, Baby!",
+            "native": "보스 빗치 베이비",
+            "siteUrl": "https://anilist.co/manga/131724"
+          }
+        },
+        {
+          "id": "c-can-angels-do-this",
+          "media": "can-angels-do-this",
+          "title": "Can Angels Do This?",
+          "alt": "Angelic Partners · 엔젤릭 파트너",
+          "badge": "COMPLETED",
+          "meta": "9 chapters · Completed",
+          "chaptersRead": 9,
+          "totalChapters": 9,
+          "progress": [
+            9,
+            9
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Hyeon-Jin is a devil—literally. But not a very well-fed one. Without a proper source of spiritual energy, he’s constantly starving. At a broadcast station party, his luck finally seems to turn when two smoking-hot celebrities—top actor Seon-Wu and elite model Ha-Jun—start flirting with him. Jackpot, right? Desperate, Hyeon-Jin gives in, hoping to drain a little energy and dash. Except…\n“You're a demon, aren't you?”\nUh-oh. Turns out Seon-Wu and Ha-Jun are actually angels. Sexy, powerful, and way too smug about it. Instead of smiting him, they offer Hyeon-Jin a deal he can't refuse—one that involves lots of close contact, a suspicious amount of cuddling, and... were those feathers?? Now stuck between two heavenly bodies with very unholy intentions, Hyeon-Jin wonders: Since when were angels this into corrupting demons?!",
+          "image": "assets/img/posters/can-angels-do-this.webp",
+          "banner": "assets/img/banners/can-angels-do-this.webp",
+          "emptyMark": "CA",
+          "emptyLabel": "Can Angels Do This?",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 9,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 60,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ppukon Kang",
+                  "native": "강뿌콘"
+                }
+              }
+            ],
+            "romaji": "Cheonsadeuri Iraedo Dwaeyo?",
+            "english": "Angelic Partners",
+            "native": "천사들이 이래도 돼요?",
+            "siteUrl": "https://anilist.co/manga/194173"
+          }
+        },
+        {
+          "id": "c-my-secret-stalker",
+          "media": "my-secret-stalker",
+          "title": "My Secret Stalker",
+          "alt": "Naisho no Stalker-san",
+          "badge": "COMPLETED",
+          "meta": "6 chapters · Completed",
+          "chaptersRead": 6,
+          "totalChapters": 6,
+          "progress": [
+            6,
+            6
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Sumiya is a resilient, hardworking, and gentle person, so he’s often pushed to do a lot of work. He has this certain “secret”. He is living strangely with someone he can't see. When he comes home completely exhausted, there’s a hot bath and meal prepared for him. And at night… “He” comes to his side and holds him. Sumiya feels so perfectly supported in everything, from housework to letting our sexual frustrations that it feels like he can’t live without “him” anymore...!",
+          "image": "assets/img/posters/my-secret-stalker.webp",
+          "banner": "assets/img/banners/my-secret-stalker.webp",
+          "emptyMark": "MS",
+          "emptyLabel": "My Secret Stalker",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 6,
+            "volumes": 1,
+            "status": "FINISHED",
+            "averageScore": 70,
+            "genres": [
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Haruyoshi Hiro",
+                  "native": "ヒロハルヨシ"
+                }
+              }
+            ],
+            "romaji": "Naisho no Stalker-san",
+            "english": "Naisho no Stalker-san",
+            "native": "ないしょのストーカーさん",
+            "siteUrl": "https://anilist.co/manga/177605"
+          }
+        },
+        {
+          "id": "c-marigold-dilemma",
+          "media": "marigold-dilemma",
+          "title": "Marigold Dilemma",
+          "alt": "Marigold Dilemma · 메리골드 딜레마",
+          "badge": "COMPLETED",
+          "meta": "3 chapters · Completed",
+          "chaptersRead": 3,
+          "totalChapters": 3,
+          "progress": [
+            3,
+            3
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Kwon Ga-Eul, the younger brother who always lets someone with a similar face to his brother into his room. The only one who has not been able to enter his room is his step-brother Seo Yi-Sol who lives with him. \"Can you sleep with me? If you don't want to, then don't cross the line.\"\nIt has been 6 years since Ga-Eul was unable to cross the line drawn by him, and Yi-Sol wants to cross that line.",
+          "image": "assets/img/posters/marigold-dilemma.webp",
+          "banner": "assets/img/banners/marigold-dilemma.webp",
+          "emptyMark": "MD",
+          "emptyLabel": "Marigold Dilemma",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 3,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Nire",
+                  "native": "니레"
+                }
+              }
+            ],
+            "romaji": "Marigold Dilemma",
+            "english": "Marigold Dilemma",
+            "native": "메리골드 딜레마",
+            "siteUrl": "https://anilist.co/manga/192998"
+          }
+        },
+        {
+          "id": "c-jinx",
+          "media": "jinx",
+          "title": "Jinx",
+          "alt": "징크스",
+          "badge": "RELEASING",
+          "meta": "80 chapters · Completed",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Physical therapist Kim Dan has been down on his luck for as long as he can remember. Between an ailing grandmother, menacing loansharks, and an old boss making it almost impossible for him to find work, Dan is truly running out of options. Naturally, it feels like a dream come true when he’s finally hired to treat top-paid MMA fighter Joo Jae-kyung, especially when the man then calls him out for a treatment the night before a match with an oh-so-tantalizing offer of five thousand dollars. He claims to have a “jinx” in need of a particular type of “treatment,\" but it's one that Dan isn't quite prepared to offer… You see, Jae-kyung may be a beast in the ring, but he’s even rougher in the bedroom, and Dan’s not sure he can survive Jae-kyung at his most primal. Nevertheless, the promise of much-needed cash has Dan agreeing to this ill-fated deal... Could a night together be the thing to help Jae-kyung break this jinx once and for all?",
+          "image": "assets/img/posters/jinx.webp",
+          "banner": "assets/img/banners/jinx.webp",
+          "emptyMark": "JI",
+          "emptyLabel": "Jinx",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 80,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 61,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Sports"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Mingwa",
+                  "native": "밍과"
+                }
+              }
+            ],
+            "romaji": "Jinx",
+            "english": "Jinx",
+            "native": "징크스",
+            "siteUrl": "https://anilist.co/manga/158250"
+          }
+        },
+        {
+          "id": "c-cheating-a-hidden-ending",
+          "media": "cheating-a-hidden-ending",
+          "title": "Cheating a Hidden Ending",
+          "alt": "Creating Hidden Endings · 히든 엔딩",
+          "badge": "COMPLETED",
+          "meta": "62 chapters · Completed",
+          "chaptersRead": 62,
+          "totalChapters": 62,
+          "progress": [
+            62,
+            62
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "After beating \"The Return of the D-Rank Hunter,\" the game, Seon-Woo wakes up as the game's NPC, kidnapped by the insomnia-ridden protagonist Jae-Hwi, who demands Seon-Woo become his Mentalist via a one-sided contract. To return to reality, Seon-Woo must unlock the game’s secret ending. Will he make it?",
+          "image": "assets/img/posters/cheating-a-hidden-ending.webp",
+          "banner": "assets/img/banners/cheating-a-hidden-ending.webp",
+          "emptyMark": "CA",
+          "emptyLabel": "Cheating a Hidden Ending",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 62,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 66,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ilju",
+                  "native": "일주"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yono",
+                  "native": "요노"
+                }
+              },
+              {
+                "name": {
+                  "full": "Homekeeper B",
+                  "native": "홈키퍼B"
+                }
+              }
+            ],
+            "romaji": "Hidden Ending Saengseong Jungimnida",
+            "english": "Creating Hidden Endings",
+            "native": "히든 엔딩을 생성 중입니다",
+            "siteUrl": "https://anilist.co/manga/191071"
+          }
+        },
+        {
+          "id": "c-secrets-of-omega-k",
+          "media": "secrets-of-omega-k",
+          "title": "Secrets of Omega K",
+          "alt": "Omega K's Secret Love · 오메가 K의 비밀스런 연애",
+          "badge": "COMPLETED",
+          "meta": "66 chapters · Completed",
+          "chaptersRead": 66,
+          "totalChapters": 66,
+          "progress": [
+            66,
+            66
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "A dream romance between the sIn a society where people are in tune with their genetics, Hajin Kim was born as a recessive Omega, but he’s is in love with a dominant Alpha named Soohyuk Cha. For seven years, Hajin watches Soohyuk from a distance until one day, he overhears that Soohyuk will soon be leaving to study abroad. As a farewell, Hajin vows to sleep with Soohyuk. Despite learning certain dark details about Soohyuk’s character, Hajin makes a choice in a moment of desperation and madness. And now Soohyuk is on the prowl, looking for him. Is this Alpha trying to destroy Hajin, or... has something else taken root? Something like love?",
+          "image": "assets/img/posters/secrets-of-omega-k.webp",
+          "banner": "assets/img/banners/secrets-of-omega-k.webp",
+          "emptyMark": "SO",
+          "emptyLabel": "Secrets of Omega K",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 66,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Hentai",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Baram",
+                  "native": "바람"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yasaengkkot",
+                  "native": "야생꽃"
+                }
+              }
+            ],
+            "romaji": "Yeolseong Omega K-ui Bimil",
+            "english": "Omega K's Secret Love",
+            "native": "열성 오메가K의 비밀",
+            "siteUrl": "https://anilist.co/manga/131261"
+          }
+        },
+        {
+          "id": "c-second-time-of-dawn",
+          "media": "second-time-of-dawn",
+          "title": "Second Time of Dawn",
+          "alt": "The Second Dawn · 두 번째 새벽",
+          "badge": "COMPLETED",
+          "meta": "76 chapters · Completed",
+          "chaptersRead": 76,
+          "totalChapters": 76,
+          "progress": [
+            76,
+            76
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "For the past ten years, Baek Ha-Yeon has been living in guilt for ruining the life of his love, Yoon Yi-Han. Because of this, he feels he has no right to object when Yi-Han wishes to continue their relationship despite getting married. At the same time, Yi-Han’s cousin, Yoon Jin-Woon, has been using their secret as leverage to get Ha-Yeon to sleep with him since he also has feelings for him.\n\nJust when the lives of these three seem to have gotten so irreversibly tangled, Ha-Yeon is sent ten years into the past before the biggest regret of his life occurred. Though he is determined to alter the course of this timeline and save Yi-Han’s life, he wants to keep ignoring Jin-Woon’s blatant feelings for him.\n\nHowever, when Jin-Woon offers to help Ha-Yeon avoid the very cause of his problem, the two become entwined all over again…",
+          "image": "assets/img/posters/second-time-of-dawn.webp",
+          "banner": "assets/img/banners/second-time-of-dawn.webp",
+          "emptyMark": "ST",
+          "emptyLabel": "Second Time of Dawn",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 76,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "RISA LISA",
+                  "native": "RISA LISA"
+                }
+              }
+            ],
+            "romaji": "Du Beonjjae Saebyeok",
+            "english": "The Second Dawn",
+            "native": "두 번째 새벽",
+            "siteUrl": "https://anilist.co/manga/150082"
+          }
+        },
+        {
+          "id": "c-my-brother-looks-at-me-with-increasingly-evil-eyes",
+          "media": "my-brother-looks-at-me-with-increasingly-evil-eyes",
+          "title": "My Brother Looks at Me with Increasingly Evil Eyes",
+          "alt": "弟弟看我的眼神日渐邪恶",
+          "badge": "COMPLETED",
+          "meta": "67 chapters · Completed",
+          "chaptersRead": 67,
+          "totalChapters": 67,
+          "progress": [
+            67,
+            67
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "",
+          "image": "assets/img/posters/my-brother-looks-at-me-with-increasingly-evil-eyes.webp",
+          "banner": "assets/img/banners/my-brother-looks-at-me-with-increasingly-evil-eyes.webp",
+          "emptyMark": "MB",
+          "emptyLabel": "My Brother Looks at Me with Increasingly Evil Eyes",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 67,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Zhao Cai Lu",
+                  "native": "招财鹿"
+                }
+              },
+              {
+                "name": {
+                  "full": "Fengxia Kong",
+                  "native": "空凤夏"
+                }
+              }
+            ],
+            "romaji": "Didi Kan Wo de Yanshen Rijian Xiee",
+            "english": "Didi Kan Wo de Yanshen Rijian Xiee",
+            "native": "弟弟看我的眼神日渐邪恶",
+            "siteUrl": "https://anilist.co/manga/162538"
+          }
+        },
+        {
+          "id": "c-give-me-a-brush",
+          "media": "give-me-a-brush",
+          "title": "Give Me a Brush",
+          "alt": "I Want a Painting Brush · 神笔糊涂",
+          "badge": "COMPLETED",
+          "meta": "46 chapters · Completed",
+          "chaptersRead": 46,
+          "totalChapters": 46,
+          "progress": [
+            46,
+            46
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Cheng Quian loved art, so he entered the prestigious Academy of Arts despite his family's opposition. Penniless, he works to support his studies, and he meets Xu Qiujin, who is his exact opposite. Despite their differences, Cheng Quian and Xu Qiujin can't seem to get enough of each other.",
+          "image": "assets/img/posters/give-me-a-brush.webp",
+          "banner": "assets/img/banners/give-me-a-brush.webp",
+          "emptyMark": "GM",
+          "emptyLabel": "Give Me a Brush",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 46,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Romance",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Di Shiyi Ge Lifangti",
+                  "native": "第十一个立方体"
+                }
+              }
+            ],
+            "romaji": "Gei Wo Huabi!",
+            "english": "I Want a Painting Brush",
+            "native": "给我画笔!",
+            "siteUrl": "https://anilist.co/manga/143493"
+          }
+        },
+        {
+          "id": "c-100-ways-to-heal-a-psychopath",
+          "media": "100-ways-to-heal-a-psychopath",
+          "title": "100 Ways to Heal a Psychopath",
+          "alt": "A Hundred Ways to Save A Soul Splitter · 治愈精分的一百种方法",
+          "badge": "COMPLETED",
+          "meta": "111 chapters · Completed",
+          "chaptersRead": 111,
+          "totalChapters": 111,
+          "progress": [
+            111,
+            111
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Tang Dongbao, who was just about to become a deity, had to take on a mission: Save the grand deity Xiao Yi who split his soul because his divinity was too strong. However, Xiao Yi killed Dongbao in the first world! How am I supposed to save you, my soul-splitting target?!",
+          "image": "assets/img/posters/100-ways-to-heal-a-psychopath.webp",
+          "banner": "assets/img/banners/100-ways-to-heal-a-psychopath.webp",
+          "emptyMark": "1W",
+          "emptyLabel": "100 Ways to Heal a Psychopath",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 111,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Dou Hua Mi Xian",
+                  "native": "豆花米线"
+                }
+              }
+            ],
+            "romaji": "Zhengjiu Jing Fen De Yibai Zhong Fangfa",
+            "english": "A Hundred Ways to Save A Soul Splitter",
+            "native": "拯救精分的一百种方法",
+            "siteUrl": "https://anilist.co/manga/134148"
+          }
+        },
+        {
+          "id": "c-minmotion-syndrome",
+          "media": "minmotion-syndrome",
+          "title": "Minmotion Syndrome",
+          "alt": "민모션 신드롬",
+          "badge": "COMPLETED",
+          "meta": "93 chapters · Completed",
+          "chaptersRead": 93,
+          "totalChapters": 93,
+          "progress": [
+            93,
+            93
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "“I’ll repay that 450 thousand for you…but in exchange, you’re mine.”\n\nDue to the debt left behind by his father, alpha Seo Taeyoon is at the mercy of Park Jae-in, a mob boss with a penchant for violence. But when Taeyoon is able to identify Jae-in as an omega by scent alone, the ruthless criminal is taken aback – because nobody should be able to smell his pheromones.\n\nSeeing this as his opportunity to regain what once was lost, Jae-in offers to pay off Taeyoon’s father’s loan in exchange for a life of servitude. Now Jae-in holds the key to both the physical and metaphorical locks around Taeyoon’s neck. And so begins their relationship as master and slave...but there's no telling how it will end.",
+          "image": "assets/img/posters/minmotion-syndrome.webp",
+          "banner": "assets/img/banners/minmotion-syndrome.webp",
+          "emptyMark": "MS",
+          "emptyLabel": "Minmotion Syndrome",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 93,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 72,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Niji",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Minmotion",
+            "english": "Minmotion Syndrome",
+            "native": "민모션",
+            "siteUrl": "https://anilist.co/manga/144245"
+          }
+        },
+        {
+          "id": "c-night-of-london",
+          "media": "night-of-london",
+          "title": "Night of London",
+          "alt": "런던의 밤",
+          "badge": "COMPLETED",
+          "meta": "72 chapters · Completed",
+          "chaptersRead": 72,
+          "totalChapters": 72,
+          "progress": [
+            72,
+            72
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Martin Scofield’s a lone werewolf who was born a highly breedable “snow.” To avoid being used, he spent years on the run, taking odd jobs to survive. On the other hand, Daniel Sinclair was lovingly raised by two phantom vampires until a certain hunter killed them in cold blood and left him orphaned. When the two unknowingly reunite centuries later, Martin’s mission to avoid love and Daniel’s mission to avenge the only love he knew get sidelined as something much deeper develops between them.",
+          "image": "assets/img/posters/night-of-london.webp",
+          "banner": "assets/img/banners/night-of-london.webp",
+          "emptyMark": "NO",
+          "emptyLabel": "Night of London",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 72,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 57,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "I-Won Cha",
+                  "native": "차이원"
+                }
+              },
+              {
+                "name": {
+                  "full": "IALN",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Ha-Yu",
+                  "native": "하유"
+                }
+              }
+            ],
+            "romaji": "Night of London",
+            "english": "Night of London",
+            "native": "나이트 오브 런던",
+            "siteUrl": "https://anilist.co/manga/155454"
+          }
+        },
+        {
+          "id": "c-whose-baby-is-it",
+          "media": "whose-baby-is-it",
+          "title": "Whose Baby Is It?",
+          "alt": "Whose Baby is it? · 是谁的胚胎",
+          "badge": "COMPLETED",
+          "meta": "363 chapters · Completed",
+          "chaptersRead": 363,
+          "totalChapters": 363,
+          "progress": [
+            363,
+            363
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "According to the fortune-teller, I was born to be unlucky...was he kidding me?! My child owns the super power that can turn calamities into blessings through dreams! But the bossy president suddenly claimed that he's the natural father of my babe?! And he even kidnapped me and my child?!",
+          "image": "assets/img/posters/whose-baby-is-it.webp",
+          "banner": "assets/img/banners/whose-baby-is-it.webp",
+          "emptyMark": "WB",
+          "emptyLabel": "Whose Baby Is It?",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 363,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 73,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Wuxian Zuoye",
+                  "native": "无限作业"
+                }
+              },
+              {
+                "name": {
+                  "full": "Miji",
+                  "native": "弥吉"
+                }
+              },
+              {
+                "name": {
+                  "full": "Wenren Niao Shi Duo",
+                  "native": "闻人鸟事多"
+                }
+              }
+            ],
+            "romaji": "Nali Lai De Da Bao Bei",
+            "english": "Whose Baby is it?",
+            "native": "哪里来的大宝贝",
+            "siteUrl": "https://anilist.co/manga/117747"
+          }
+        },
+        {
+          "id": "c-kill-my-love",
+          "media": "kill-my-love",
+          "title": "Kill My Love",
+          "alt": "Killing My Love · 杀死我爱的人",
+          "badge": "COMPLETED",
+          "meta": "124 chapters · Completed",
+          "chaptersRead": 124,
+          "totalChapters": 124,
+          "progress": [
+            124,
+            124
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Lovers have been dying in the cruelest way possible. Victims were sliced up into pieces, as if their bodies had exploded. Andrea and Ian were mere bystanders to this spectacle until a misunderstanding throws them into “Killing My Love” (KML)!\n\nThis is a game that uses love to fuel murder. Each team of pairs are given targets that they must kill… or else. All the while, a sadistic gamemaster watches from the shadows.\n\nKML is a game with no end in sight, but one thing’s for sure… this hell is just getting started.",
+          "image": "assets/img/posters/kill-my-love.webp",
+          "banner": "assets/img/banners/kill-my-love.webp",
+          "emptyMark": "KM",
+          "emptyLabel": "Kill My Love",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 124,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 65,
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Mystery",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Su Ye",
+                  "native": "素夜"
+                }
+              },
+              {
+                "name": {
+                  "full": "Dong",
+                  "native": "东"
+                }
+              }
+            ],
+            "romaji": "Liesha Wu Ai",
+            "english": "Killing My Love",
+            "native": "猎杀吾爱",
+            "siteUrl": "https://anilist.co/manga/143905"
+          }
+        },
+        {
+          "id": "c-two-empires-slave-of-the-empire",
+          "media": "two-empires-slave-of-the-empire",
+          "title": "Two Empires, Slave of the Empire",
+          "alt": "Two Empires: A Tale of One Slave · 두 제국 이야기",
+          "badge": "COMPLETED",
+          "meta": "57 chapters · Completed",
+          "chaptersRead": 57,
+          "totalChapters": 57,
+          "progress": [
+            57,
+            57
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Murdered in cold blood, Emperor Levenoad of Strahss is reincarnated as a slave named Ray in the enemy empire of El Fascher! To make matters worse, he's caught the eye of the emperor, Jiskar, and gets dragged off to the palace as his concubine. In order to escape, Ray must spread his legs for Jiskar in order to win his favor, all while carefully avoiding the jealous, power-hungry empress and crown prince who will do anything to tear him down. More importantly, he must figure out who killed him in his past life... and why. Unfortunately, none of this will prove to be easy with guards at his side 24/7 and his feet in shackles. Will Ray be able to find freedom while uncovering the truth about his past? Or is he doomed to be forever chained in the palace of the enemy empire?\n\n(Sourde: Tappytoon)",
+          "image": "assets/img/posters/two-empires-slave-of-the-empire.webp",
+          "banner": "assets/img/banners/two-empires-slave-of-the-empire.webp",
+          "emptyMark": "TE",
+          "emptyLabel": "Two Empires, Slave of the Empire",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 57,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 57,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Rebeunoadeu",
+                  "native": "레브노아드"
+                }
+              },
+              {
+                "name": {
+                  "full": "Sogeumppang",
+                  "native": "소금빵"
+                }
+              },
+              {
+                "name": {
+                  "full": "Morgen",
+                  "native": "모르겐"
+                }
+              }
+            ],
+            "romaji": "Du Gaeui Jeguk, Jegugui Noye",
+            "english": "Two Empires: A Tale of One Slave",
+            "native": "두 개의 제국, 제국의 노예",
+            "siteUrl": "https://anilist.co/manga/152951"
+          }
+        },
+        {
+          "id": "c-dont-mess-with-the-puppy",
+          "media": "dont-mess-with-the-puppy",
+          "title": "Don't Mess with the Puppy",
+          "alt": "Paws & Claws · 강아지는 건드리지 마라!",
+          "badge": "ONGOING",
+          "meta": "70 chapters · Ongoing",
+          "chaptersRead": 70,
+          "totalChapters": 70,
+          "progress": [
+            70,
+            70
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Life sure is ruff, especially when you’re Gyeon Hui-Seong. Abandoned by his pack of fellow dog shifters, he is forced to become a drug runner for a gambling ring. For his final job, he comes face to face with Savage Fang, the ruthless Wolf Den enforcer Yun Chi-Young. Everything goes (nearly) according to plan, but on his way back he is attacked and forced to return to his fearsome(?) true form…a little white cottonball of a puppy! After Chi-young finds Hui-Seong struggling on the streets, he takes him in, believing him to be nothing more than a stray. Will Hui-Seong be able to escape the ruthless, terrifying outpour of love Chi-Young showers him with and escape his criminal past? Or will he be forever leashed to a life of kibble and kennels?",
+          "image": "assets/img/posters/dont-mess-with-the-puppy.webp",
+          "banner": "assets/img/banners/dont-mess-with-the-puppy.webp",
+          "emptyMark": "DT",
+          "emptyLabel": "Don't Mess with the Puppy",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 70,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 78,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "nono",
+                  "native": "노노"
+                }
+              },
+              {
+                "name": {
+                  "full": "nono",
+                  "native": "노노"
+                }
+              },
+              {
+                "name": {
+                  "full": "Studio Inus",
+                  "native": "스튜디오 이너스"
+                }
+              }
+            ],
+            "romaji": "Gangajineun Geondeuriji Mara!",
+            "english": "Paws & Claws",
+            "native": "강아지는 건드리지 마라!",
+            "siteUrl": "https://anilist.co/manga/180819"
+          }
+        },
+        {
+          "id": "c-my-egocentric-boss-is-obsessed-with-me",
+          "media": "my-egocentric-boss-is-obsessed-with-me",
+          "title": "My Egocentric Boss is Obsessed with Me",
+          "alt": "유아독존 상사가 나에게 집착한다",
+          "badge": "COMPLETED",
+          "meta": "91 chapters · Completed",
+          "chaptersRead": 91,
+          "totalChapters": 91,
+          "progress": [
+            91,
+            91
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "For the chronically single and overworked Soohan, thirsting over his boss's firm booty is his greatest guilty pleasure. It's sad and pathetic, but after a long string of lousy exes and an even longer dry spell, the handsome and talented Mr. Woo seems just that much hotter. Sure, he comes with blazing red flags like his egocentric personality, his bizarre preferences, and his sadistic tendency to overwork his employees. But as off-putting as these qualities are, they aren't enough to deter Soohan's massive crush - especially when the man keeps calling him \"babe\" and giving him special attention outside the office. Why on earth is his demonic yet charming boss asking him to pick out his bedroom sheets and cooking him his favorite dinner when they aren't even dating? Though he doesn't want to get his hopes up, Soohan can't help but wonder whether his self-centered boss is actually obsessed with him...!",
+          "image": "assets/img/posters/my-egocentric-boss-is-obsessed-with-me.webp",
+          "banner": "assets/img/banners/my-egocentric-boss-is-obsessed-with-me.webp",
+          "emptyMark": "ME",
+          "emptyLabel": "My Egocentric Boss is Obsessed with Me",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 91,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 62,
+            "genres": [
+              "Romance",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Min-Ji Jeon",
+                  "native": "전민지"
+                }
+              },
+              {
+                "name": {
+                  "full": "Wonmic",
+                  "native": "원믹"
+                }
+              }
+            ],
+            "romaji": "Jagijungsimjeok Sagobangsik",
+            "english": "My Egocentric Boss is Obsessed With Me",
+            "native": "자기중심적 사고방식",
+            "siteUrl": "https://anilist.co/manga/160468"
+          }
+        },
+        {
+          "id": "c-the-moon-comes-to-me",
+          "media": "the-moon-comes-to-me",
+          "title": "The Moon Comes to Me",
+          "alt": "Yueliang Ben Wo Er Lai · 月亮奔我而来",
+          "badge": "COMPLETED",
+          "meta": "99 chapters · Completed",
+          "chaptersRead": 99,
+          "totalChapters": 99,
+          "progress": [
+            99,
+            99
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "In his third year of junior high, Tao Xi learned about his fate of being deliberately swapped at birth by his \"mother.\" He lived his days in a daze until, on the remote live-stream screen of a poor county high school, he saw Lin Qinhe from the prestigious Wenhua High School thousands of kilometers away.\n\nFor him, living at the bottom of a well, it was the first glimpse of the moon in the sky.\n\nBut when he exhausted all his strength to climb out of the well and trekked through mountains and rivers towards the moon, he discovered that the star beside the moon was originally meant to be his place.\n\nTao Xi wanted Lin Qinhe, along with the missing affection that should have been his.",
+          "image": "assets/img/posters/the-moon-comes-to-me.webp",
+          "banner": "assets/img/banners/the-moon-comes-to-me.webp",
+          "emptyMark": "TM",
+          "emptyLabel": "The Moon Comes to Me",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 99,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Bo An Bian",
+                  "native": "泊岸边"
+                }
+              },
+              {
+                "name": {
+                  "full": "66",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Wen Bie",
+                  "native": "温别"
+                }
+              }
+            ],
+            "romaji": "Yueliang Ben Wo Er Lai",
+            "english": "Yueliang Ben Wo Er Lai",
+            "native": "月亮奔我而来",
+            "siteUrl": "https://anilist.co/manga/157851"
+          }
+        },
+        {
+          "id": "c-s-class-guide-as-sweet-as-honey",
+          "media": "s-class-guide-as-sweet-as-honey",
+          "title": "S Class Guide as Sweet as Honey",
+          "alt": "The S-Class Guide as Sweet as Honey · 꿀처럼 달콤한 S급 가이드",
+          "badge": "COMPLETED",
+          "meta": "80 chapters · Completed",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Jin Hyoseop is an S-class guide whose powers leave him aroused and smelling as sweet as honey. In order to hide his embarrassing secret, he joins a C-class guild on the condition that he only does the minimum guiding required to heal his esper guildmates. It shouldn’t be an issue since the guild’s kind and understanding commander Andante assures him that they don’t handle any dangerous jobs. But then, why does everyone keep coming back injured and in desperate need of guiding? Little does Hyoseop know that he has just stepped into a lair of criminal S-class espers!",
+          "image": "assets/img/posters/s-class-guide-as-sweet-as-honey.webp",
+          "banner": "assets/img/banners/s-class-guide-as-sweet-as-honey.webp",
+          "emptyMark": "SC",
+          "emptyLabel": "S Class Guide as Sweet as Honey",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 80,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 68,
+            "genres": [
+              "Action",
+              "Drama",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Canibs",
+                  "native": "카닙스"
+                }
+              },
+              {
+                "name": {
+                  "full": "Dalpi",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "sua",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Kkul Ballin S-Geup Guide",
+            "english": "The S-Class Guide as Sweet as Honey",
+            "native": "꿀 발린 S급 가이드",
+            "siteUrl": "https://anilist.co/manga/183236"
+          }
+        },
+        {
+          "id": "c-possessed-by-a-cotton-ball",
+          "media": "possessed-by-a-cotton-ball",
+          "title": "Possessed by a Cotton Ball",
+          "alt": "The White Tiger Clan’s Little Fluff · 백호 가문의 아기 솜뭉치",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Soya was the Phoenix clan's treasured youngest daughter. At least, she was until her ninth birthday, when she shifted for the first time and turned into a baby bird with soft white down instead of crimson. She became the family's disgrace overnight, and when the clan's true daughter came home at last, they threw Soya out to die. One fateful night, Soya was moments from death when Sae-on Baek, head of the White Tiger clan, steals her away. All Soya wants now is to stay quiet and go unnoticed in her new home, but unfortunately, her new family seems to have other plans.",
+          "image": "assets/img/posters/possessed-by-a-cotton-ball.webp",
+          "banner": "assets/img/banners/possessed-by-a-cotton-ball.webp",
+          "emptyMark": "PB",
+          "emptyLabel": "Possessed by a Cotton Ball",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 64,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Do-Hui Kwon",
+                  "native": "권도희"
+                }
+              },
+              {
+                "name": {
+                  "full": "De-Bin",
+                  "native": "데빈"
+                }
+              },
+              {
+                "name": {
+                  "full": "Kkulkki",
+                  "native": "꿀끼"
+                }
+              }
+            ],
+            "romaji": "Baeko Gamunui Agi Sommungchi",
+            "english": "The White Tiger Clan’s Little Fluff",
+            "native": "백호 가문의 아기 솜뭉치",
+            "siteUrl": "https://anilist.co/manga/211740"
+          }
+        },
+        {
+          "id": "c-evenly-matched-love",
+          "media": "evenly-matched-love",
+          "title": "Evenly Matched Love",
+          "alt": "Evenly Matched Love · 旗鼓相当",
+          "badge": "COMPLETED",
+          "meta": "122 chapters · Completed",
+          "chaptersRead": 122,
+          "totalChapters": 122,
+          "progress": [
+            122,
+            122
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "“If the Aslan family knew other genes had “invaded” their bloodline, they might hurt your twins!”\n\nMagic, mecha, mana, demon foxes, and space travel. There’s a lot that’s unique about Mu Yunshen’s world. Most interestingly... for a select few men, pregnancy is also a possibility. Of course, Mu Yunshen doesn’t know about this last little detail—yet. After he saves the life of young master Aslan and spends the night with him, Mu Yunshen ends up with the shock of his life: twins.",
+          "image": "assets/img/posters/evenly-matched-love.webp",
+          "banner": "assets/img/banners/evenly-matched-love.webp",
+          "emptyMark": "EM",
+          "emptyLabel": "Evenly Matched Love",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 122,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 57,
+            "genres": [
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "gabi",
+                  "native": "gabi"
+                }
+              },
+              {
+                "name": {
+                  "full": "MONICA",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Bu Nuli Jiuyao Dang Huang Fu",
+            "english": "Evenly Matched Love",
+            "native": "不努力就要当皇夫",
+            "siteUrl": "https://anilist.co/manga/137262"
+          }
+        },
+        {
+          "id": "c-salty-lust",
+          "media": "salty-lust",
+          "title": "Salty Lust",
+          "alt": "Salty Lust · 솔티 러스트",
+          "badge": "COMPLETED",
+          "meta": "115 chapters · Completed",
+          "chaptersRead": 115,
+          "totalChapters": 115,
+          "progress": [
+            115,
+            115
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Saying bye-bye to Earth and blasting off to school in space was a dream come true for Nux. But no one told him how mediocre he would seem stacked up against the brightest minds in the universe. With lackluster grades that could never afford him a scholarship, he's forced into illegal part-time work just to pay the bills. But when a handsome alien propositions him with an offer to make his money problems disappear, he realizes it comes at an astronomical price.",
+          "image": "assets/img/posters/salty-lust.webp",
+          "banner": "assets/img/banners/salty-lust.webp",
+          "emptyMark": "SL",
+          "emptyLabel": "Salty Lust",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 115,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 62,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Tropicalarmpit",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Limunchi",
+                  "native": "이문치"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ttwittwippangppang",
+                  "native": "뛰뛰빵빵"
+                }
+              }
+            ],
+            "romaji": "Salty Lust",
+            "english": "Salty Lust",
+            "native": "솔티 러스트",
+            "siteUrl": "https://anilist.co/manga/165672"
+          }
+        },
+        {
+          "id": "c-double-faced-anchor",
+          "media": "double-faced-anchor",
+          "title": "Double Faced Anchor",
+          "alt": "Double-faced Anchor · 双面主播",
+          "badge": "COMPLETED",
+          "meta": "89 chapters · Completed",
+          "chaptersRead": 89,
+          "totalChapters": 89,
+          "progress": [
+            89,
+            89
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "The excellent game player is a part-time model in real life?! The senior he respects most is his hard-core fan?! His double identity is going to be exposed... What should he do? Admit it or guard the secret with his life?",
+          "image": "assets/img/posters/double-faced-anchor.webp",
+          "banner": "assets/img/banners/double-faced-anchor.webp",
+          "emptyMark": "DF",
+          "emptyLabel": "Double Faced Anchor",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 89,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Hua Mo",
+                  "native": "漠花"
+                }
+              },
+              {
+                "name": {
+                  "full": "Cang Cang",
+                  "native": "苍苍"
+                }
+              }
+            ],
+            "romaji": "Shuang Mian Zhu Bo",
+            "english": "Double-faced Anchor",
+            "native": "双面主播",
+            "siteUrl": "https://anilist.co/manga/136155"
+          }
+        },
+        {
+          "id": "c-stop-bothering-me-emperor",
+          "media": "stop-bothering-me-emperor",
+          "title": "Stop Bothering Me, Emperor",
+          "alt": "Stop Bothering Me, Emperor! · 陛下，请勿扰",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Song Xiao only wanted to be a man of virtue, but somehow ended up being forced into a marriage with his Highness, plotted by the cunning emperor himself. However, just as the generation of great businesses began to flourish, the emperor died... When Song Xiao opened his eyes again, he finds himself in a college entrance exam... but why does his seatmate look so familiar?!",
+          "image": "assets/img/posters/stop-bothering-me-emperor.webp",
+          "banner": "assets/img/banners/stop-bothering-me-emperor.webp",
+          "emptyMark": "SB",
+          "emptyLabel": "Stop Bothering Me, Emperor",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 135,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Lü Ye Qian He",
+                  "native": "绿野千鹤"
+                }
+              },
+              {
+                "name": {
+                  "full": "Xingmian",
+                  "native": "星眠"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yizhimao",
+                  "native": "一只猫"
+                }
+              }
+            ],
+            "romaji": "Huangshang Bie Nao",
+            "english": "Stop Bothering Me, Emperor!",
+            "native": "皇上别闹",
+            "siteUrl": "https://anilist.co/manga/129766"
+          }
+        },
+        {
+          "id": "c-my-four-masters",
+          "media": "my-four-masters",
+          "title": "My Four Masters",
+          "alt": "My Boyfriend's Love Complex · 我的四个师尊",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Xiang Nan, who's an absolute idiot when it comes to love, has had a crush on Hong Xiao for a very long time. In order to increase his eligibility as a boyfriend, he decides to seek help online from the top four male gods of the internet. \"Masters, please teach me about love!\" What surprises him the most is how all four of them say yes immediately. Number One says, \"Overbearing CEO, Contract Lover, which one do you want to be?\" Number Two says, \"Midnight shower, personal bedroom, which one do you want a peek at?\" Number Three says, \"Kneeling, squatting, sideways, and prone. Which way do you want to be positioned?\" Number Four says, \"Chest muscles, abdominal muscles, pelvic muscles, which one do you wanna train first?\" Erm...why is this path to knowledge filled with so many obstacles?",
+          "image": "assets/img/posters/my-four-masters.webp",
+          "banner": "assets/img/banners/my-four-masters.webp",
+          "emptyMark": "MF",
+          "emptyLabel": "My Four Masters",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 135,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 55,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Wu Ming Yi",
+                  "native": "吾名翼"
+                }
+              },
+              {
+                "name": {
+                  "full": "Er Zheng",
+                  "native": "二正"
+                }
+              }
+            ],
+            "romaji": "Nanyou Zong Zai Xiuluochang",
+            "english": "My Boyfriend's Love Complex",
+            "native": "男友总在修罗场",
+            "siteUrl": "https://anilist.co/manga/141354"
+          }
+        },
+        {
+          "id": "c-red-mansion",
+          "media": "red-mansion",
+          "title": "Red Mansion",
+          "alt": "Red Mansion · 붉은 저택",
+          "badge": "COMPLETED",
+          "meta": "50 chapters · Completed",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "A dilapidated mansion sits on the outskirts of Seoul. Among its residents are frauds, murderers, and psychopaths, all seeking refuge in the only place that will accept them. But not every resident of the run-down manor has come here by choice. Kim Sungkyung operates a minimart so that he can afford to take care of his parents, who have come down with a malignant disease. Having been born inside the four walls of the mansion, a life of depravity and deprivation is all he knows. The sole thing that gets him through is his obsession with the building's manager, Kwon Cheong-rim: a cruel and calculating figure seemingly only interested in the preservation of his own wealth and power. So when the enigmatic pretty boy begins to hint at a sort of faint interest in Sungkyung, the latter's obsession begins to grow as a single question echoes ceaselessly throughout his mind: \"Why...?\"",
+          "image": "assets/img/posters/red-mansion.webp",
+          "banner": "assets/img/banners/red-mansion.webp",
+          "emptyMark": "RM",
+          "emptyLabel": "Red Mansion",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 65,
+            "genres": [
+              "Drama",
+              "Psychological"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Guwol",
+                  "native": "구월"
+                }
+              },
+              {
+                "name": {
+                  "full": "Nanggaek",
+                  "native": "낭객"
+                }
+              }
+            ],
+            "romaji": "Red Mansion",
+            "english": "Red Mansion",
+            "native": "레드 맨션",
+            "siteUrl": "https://anilist.co/manga/171906"
+          }
+        },
+        {
+          "id": "c-sacred-serpents-seduction",
+          "media": "sacred-serpents-seduction",
+          "title": "Sacred Serpent's Seduction",
+          "alt": "The Sacred Serpent's Seduction · 신을 품는 방법",
+          "badge": "COMPLETED",
+          "meta": "73 chapters · Completed",
+          "chaptersRead": 73,
+          "totalChapters": 73,
+          "progress": [
+            73,
+            73
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "How far would you be willing to go to save the ones you love? With his grandfather bordering life and death, Tae-Sun takes on multiple jobs in order to pay a seemingly endless stack of hospital bills. On one of his odd jobs, he ascends the great mountain Geumryang, unknowingly the home of an eponymous serpentine spirit. When Tae-Sun encounters the divine being, he too is on the brink of death, desperate for water in his slithering form. Tae-Sun offers him a sip of water, and saves the sacred snake from certain death. Later that night, a cold-blooded body embraces Tae-Sun and offers him an exchange: bear the ancient being’s seed, and his grandfather will live. But is all really as it seems? After all, can one ever truly trust the forked tongue of a serpent…? Note: Includes 22 extra chapters.",
+          "image": "assets/img/posters/sacred-serpents-seduction.webp",
+          "banner": "assets/img/banners/sacred-serpents-seduction.webp",
+          "emptyMark": "SS",
+          "emptyLabel": "Sacred Serpent's Seduction",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 73,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 78,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Dagom",
+                  "native": "다곰"
+                }
+              }
+            ],
+            "romaji": "Sineul Pumneun Bangbeop",
+            "english": "The Sacred Serpent's Seduction",
+            "native": "신을 품는 방법",
+            "siteUrl": "https://anilist.co/manga/181287"
+          }
+        },
+        {
+          "id": "c-ordinary-person-a",
+          "media": "ordinary-person-a",
+          "title": "Ordinary Person A",
+          "alt": "Civilian A · 일반인A",
+          "badge": "COMPLETED",
+          "meta": "80 chapters · Completed",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Ordinary civilian Howoo's day turns into a disaster movie when a giant monster ambushes his city. All he hopes for is a quick and painless death, so he's pleasantly surprised when he's whisked out of harm's way by celebrity esper Yool. When the charming esper moves in next door shortly after, Howoo feels like he's living in a romcom. Not only does Yool know Howoo's name, but he also shows an oddly friendly interest in him when he's just one of the many civilians he's saved. And for some reason, Howoo feels a tingling sensation whenever their hands touch...",
+          "image": "assets/img/posters/ordinary-person-a.webp",
+          "banner": "assets/img/banners/ordinary-person-a.webp",
+          "emptyMark": "OP",
+          "emptyLabel": "Ordinary Person A",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 80,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 58,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "149",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Geumbin Yeonghon",
+                  "native": "금빛영혼"
+                }
+              }
+            ],
+            "romaji": "Ilbanin A",
+            "english": "Civilian A",
+            "native": "일반인A",
+            "siteUrl": "https://anilist.co/manga/165721"
+          }
+        },
+        {
+          "id": "c-my-gangster-wife-is-always-against-me",
+          "media": "my-gangster-wife-is-always-against-me",
+          "title": "My Gangster Wife is Always Against Me",
+          "alt": "我的黑道老婆总和我对着干",
+          "badge": "COMPLETED",
+          "meta": "66 chapters · Completed",
+          "chaptersRead": 66,
+          "totalChapters": 66,
+          "progress": [
+            66,
+            66
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "A dynamic omegaverse BL story featuring high-conflict crime/underworld elements, where a stubborn partner is combative and always at odds with the main lead before their fierce dynamic turns to devotion.",
+          "image": "assets/img/posters/my-gangster-wife-is-always-against-me.webp",
+          "banner": "assets/img/banners/my-gangster-wife-is-always-against-me.webp",
+          "emptyMark": "MG",
+          "emptyLabel": "My Gangster Wife is Always Against Me",
+          "info": {
+            "format": "MANHUA",
+            "year": null,
+            "chapters": 66,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Boys' Love",
+              "Comedy",
+              "Omegaverse",
+              "Romance"
+            ],
+            "staff": [],
+            "romaji": "Wo De Heidao Laopo Zong He Wo Duizhegan",
+            "english": "My Gangster Wife Is Always Against Me",
+            "native": "我的黑道老婆总和我对着干",
+            "siteUrl": "https://mangahub.io"
+          }
+        },
+        {
+          "id": "c-living-with-mr-predator",
+          "media": "living-with-mr-predator",
+          "title": "Living with Mr. Predator",
+          "alt": "Yu Tiandi Xiansheng Tongju Zhong · 与天敌先生同居中",
+          "badge": "COMPLETED",
+          "meta": "30 chapters · Completed",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "I just want a male mother! College student Song Fu, had 3 babies overnight and fell into a [child-rearing hell] — In order to solve this problem, he decided to hire a professional nanny. However, to his surprise, the person knocking on the door turned out to be a [Super tall, muscular bodied] man?!",
+          "image": "assets/img/posters/living-with-mr-predator.webp",
+          "banner": "assets/img/banners/living-with-mr-predator.webp",
+          "emptyMark": "LW",
+          "emptyLabel": "Living with Mr. Predator",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "CANCELLED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Luili Ya Luili",
+                  "native": "琉璃呀琉璃"
+                }
+              }
+            ],
+            "romaji": "Yu Tiandi Xiansheng Tongju Zhong",
+            "english": "Yu Tiandi Xiansheng Tongju Zhong",
+            "native": "与天敌先生同居中",
+            "siteUrl": "https://anilist.co/manga/191779"
+          }
+        },
+        {
+          "id": "c-chen-shang",
+          "media": "chen-shang",
+          "title": "Chen Shang",
+          "alt": "Bad Memories · 陈伤",
+          "badge": "COMPLETED",
+          "meta": "89 chapters · Completed",
+          "chaptersRead": 89,
+          "totalChapters": 89,
+          "progress": [
+            89,
+            89
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "The scar on my lower abdomen is an old wound that has been difficult to heal over the years.",
+          "image": "assets/img/posters/chen-shang.webp",
+          "banner": "assets/img/banners/chen-shang.webp",
+          "emptyMark": "CS",
+          "emptyLabel": "Chen Shang",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 89,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 58,
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Hui Nan Que",
+                  "native": "回南雀"
+                }
+              },
+              {
+                "name": {
+                  "full": "Boluo Bear",
+                  "native": "菠萝Bear"
+                }
+              }
+            ],
+            "romaji": "Chen Shang",
+            "english": "Bad Memories",
+            "native": "陈伤",
+            "siteUrl": "https://anilist.co/manga/143488"
+          }
+        },
+        {
+          "id": "c-release-your-persona",
+          "media": "release-your-persona",
+          "title": "Release Your Persona",
+          "alt": "Release Your Persona · 릴리즈 유어 페르소나",
+          "badge": "COMPLETED",
+          "meta": "19 chapters · Completed",
+          "chaptersRead": 19,
+          "totalChapters": 19,
+          "progress": [
+            19,
+            19
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "As a top-tier film star, Jae-Gyu is no stranger to the spotlight or the toxic rumors that follow it. Exhausted by the public eye, he has become a professional at pushing people away. That changes when he meets his neighbor, Cheong-Rok, a counselor at a psychiatry office. Cheong-Rok does not recognize the star and treats him like anyone else. Intrigued by this normal treatment, Jae-Gyu finds himself drawn to the one man unimpressed by his fame. Despite his long career, Jae-Gyu has never experienced romance, not even through a script. So is he finally ready for the real thing?",
+          "image": "assets/img/posters/release-your-persona.webp",
+          "banner": "assets/img/banners/release-your-persona.webp",
+          "emptyMark": "RY",
+          "emptyLabel": "Release Your Persona",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 19,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 81,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Yeaze",
+                  "native": "이즈"
+                }
+              }
+            ],
+            "romaji": "Release Your Persona",
+            "english": "Release Your Persona",
+            "native": "릴리즈 유어 페르소나",
+            "siteUrl": "https://anilist.co/manga/188602"
+          }
+        },
+        {
+          "id": "c-ring",
+          "media": "ring",
+          "title": "Ring",
+          "alt": "Monthly Noir: Ring · 월간느와르: 반지",
+          "badge": "COMPLETED",
+          "meta": "15 chapters · Completed",
+          "chaptersRead": 15,
+          "totalChapters": 15,
+          "progress": [
+            15,
+            15
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Choi Yoonjae unexpectedly finds the wedding ring of a gangster boss/hyung named Kang Sungho. Instead of returning it immediately, he impulsively keeps it, trapping himself in an intense, dangerous, and obsessive dynamic.",
+          "image": "assets/img/posters/ring.webp",
+          "banner": "assets/img/banners/ring.webp",
+          "emptyMark": "RI",
+          "emptyLabel": "Ring",
+          "info": {
+            "format": "MANHWA",
+            "year": null,
+            "chapters": 15,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Boys' Love",
+              "Drama",
+              "Noir",
+              "Psychological"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Gamjadok / Han Su-jae",
+                  "native": "감자동 / 한수재"
+                }
+              }
+            ],
+            "romaji": "Wolgan Noir: Banji",
+            "english": "Monthly Noir: Ring",
+            "native": "월간느와르: 반지",
+            "siteUrl": "https://ridibooks.com"
+          }
+        },
+        {
+          "id": "c-blood-lust",
+          "media": "blood-lust",
+          "title": "Blood/Lust",
+          "alt": "LUST · 정염",
+          "badge": "COMPLETED",
+          "meta": "5 chapters · Completed",
+          "chaptersRead": 5,
+          "totalChapters": 5,
+          "progress": [
+            5,
+            5
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Jeong-Ueom has avoided his arranged marriage for years, but with mounting pressure from the other family, he can no longer delay. Yet, his heart has already been claimed by someone irreplaceable—his younger brother, Dong-Im. Dong-Im is not only Jeong-Yeom’s forbidden love but also the one Jeong-Yeom has kept by his side, no matter the cost. In the biting chill of winter, longing for a spring that may never come, Jeong-Yeom finds himself once again drawn to Dong-Im’s room.\n“Dear brother, how does it feel? How does it feel to marry my woman?”",
+          "image": "assets/img/posters/blood-lust.webp",
+          "banner": "assets/img/banners/blood-lust.webp",
+          "emptyMark": "BL",
+          "emptyLabel": "Blood/Lust",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 5,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 56,
+            "genres": [
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "C R Jade",
+                  "native": "클레제이드"
+                }
+              }
+            ],
+            "romaji": "Jeongyeom",
+            "english": "LUST",
+            "native": "정염",
+            "siteUrl": "https://anilist.co/manga/186554"
+          }
+        },
+        {
+          "id": "c-salt-friend",
+          "media": "salt-friend",
+          "title": "Salt Friend",
+          "alt": "Salt Friend · 盐友",
+          "badge": "ONGOING",
+          "meta": "100 chapters · Ongoing",
+          "chaptersRead": 100,
+          "totalChapters": 100,
+          "progress": [
+            100,
+            100
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "School bully Tong Yang gets suspended after a fight on the first day of school. When he returns, everyone fears and avoids him. One day, top student Xiao Zhen catches him secretly crying—and when Tong Yang tries to scare him into silence, Xiao Zhen fights back instead. Cold and distant to everyone else, Xiao Zhen suddenly starts tutoring Tong Yang. But when Tong Yang discovers the boy he fought on the first day was actually Xiao Zhen's younger brother, everything between them gets a whole lot more complicated.",
+          "image": "assets/img/posters/salt-friend.webp",
+          "banner": "assets/img/banners/salt-friend.webp",
+          "emptyMark": "SF",
+          "emptyLabel": "Salt Friend",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 100,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 77,
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jing Jian",
+                  "native": "京见"
+                }
+              }
+            ],
+            "romaji": "Yan You",
+            "english": "Salt Friend",
+            "native": "盐友",
+            "siteUrl": "https://anilist.co/manga/132954"
+          }
+        },
+        {
+          "id": "c-lights-camera-action",
+          "media": "lights-camera-action",
+          "title": "Lights Camera Action",
+          "alt": "Lights, Camera, Action! · 입장이 바뀌었는데요?",
+          "badge": "COMPLETED",
+          "meta": "17 chapters · Completed",
+          "chaptersRead": 17,
+          "totalChapters": 17,
+          "progress": [
+            17,
+            17
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Actor Geum Ki-Yool has been secretly in love with his roommate Seo-Moon Hyung since their school days. When Ki-Yool takes on an adult-themed music video, he tries to set the mood by experimenting with a toy, only to get caught in the act by Hyung himself! But instead of being shocked, Hyung unexpectedly offers to help him out. As the lines between fiction and reality begin to blur, both Ki-Yool and Hyung have to find the courage to step into the spotlight.",
+          "image": "assets/img/posters/lights-camera-action.webp",
+          "banner": "assets/img/banners/lights-camera-action.webp",
+          "emptyMark": "LC",
+          "emptyLabel": "Lights Camera Action",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 17,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 66,
+            "genres": [
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Larkspur",
+                  "native": "락스퍼"
+                }
+              }
+            ],
+            "romaji": "Ipjangi Bakkwieonneundeyo?",
+            "english": "Lights, Camera, Action!",
+            "native": "입장이 바뀌었는데요?",
+            "siteUrl": "https://anilist.co/manga/190670"
+          }
+        },
+        {
+          "id": "c-senza-replica",
+          "media": "senza-replica",
+          "title": "Senza Replica",
+          "alt": "Senza Replica · 센자 레플리카",
+          "badge": "COMPLETED",
+          "meta": "95 chapters · Completed",
+          "chaptersRead": 95,
+          "totalChapters": 95,
+          "progress": [
+            95,
+            95
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Dowon chose to be a freelance guide for the freedom to do other things, but his cold and demanding esper, Kwonwoo, calls him for guiding every day without fail. Although he thinks he has his hands full already, he's proven wrong when Kwonwoo loses eight years of his memories and his powers due to an accident on the job. Now it's up to Dowon to restore both by giving the mentally 20-year-old Kwonwoo the kind of intimate guiding he always refused before. But surprisingly, this cheery and affectionate Kwonwoo seems all too eager to take things to the next level...",
+          "image": "assets/img/posters/senza-replica.webp",
+          "banner": "assets/img/banners/senza-replica.webp",
+          "emptyMark": "SR",
+          "emptyLabel": "Senza Replica",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 95,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 63,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Seoniju",
+                  "native": "서니주"
+                }
+              },
+              {
+                "name": {
+                  "full": "ham",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Hayan",
+                  "native": "하얀"
+                }
+              }
+            ],
+            "romaji": "Senza Replica",
+            "english": "Senza Replica",
+            "native": "센차 레플리카",
+            "siteUrl": "https://anilist.co/manga/181546"
+          }
+        },
+        {
+          "id": "c-please-pay-attention-to-me",
+          "media": "please-pay-attention-to-me",
+          "title": "Please Pay Attention to Me",
+          "alt": "Gimme Some Love! · 관심 좀 꺼내 줘",
+          "badge": "COMPLETED",
+          "meta": "8 chapters · Completed",
+          "chaptersRead": 8,
+          "totalChapters": 8,
+          "progress": [
+            8,
+            8
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "The new semester is buzzing with students eager to make friends. Nam Soo-Min, however, has only one goal: survive the year without getting dragged into anyone’s business. Enter Lee Jae-Ha, the ultimate social butterfly and Soo-Min’s brand-new classmate and roommate. For someone like Jae-Ha, being ignored is unthinkable. And Soo-Min? He just made the mistake of catching his eye. Try as he might to escape, Soo-Min finds himself tangled up in Jae-Ha’s wild orbit.\n\n“How much longer are you gonna ignore me? Give me some attention!”\nIt’s the unstoppable force of popularity versus the immovable wall of indifference... and the semester has only just begun!",
+          "image": "assets/img/posters/please-pay-attention-to-me.webp",
+          "banner": "assets/img/banners/please-pay-attention-to-me.webp",
+          "emptyMark": "PP",
+          "emptyLabel": "Please Pay Attention to Me",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 8,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 68,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Rab",
+                  "native": "랍"
+                }
+              }
+            ],
+            "romaji": "Gwansim Jom Kkeonae Jwo",
+            "english": "Gimme Some Love!",
+            "native": "관심 좀 꺼내 줘",
+            "siteUrl": "https://anilist.co/manga/174553"
+          }
+        },
+        {
+          "id": "c-part-time-partner",
+          "media": "part-time-partner",
+          "title": "Part Time Partner",
+          "alt": "Part-time Partner · 파트타임 파트너",
+          "badge": "ONGOING",
+          "meta": "65 chapters · Ongoing",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "RELEASING",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Kyu-Ho has become smitten with new club member, Yun-Geon. Not only is Yun-Geon’s face gorgeous but there’s something about the way he stands his ground confidently. As the two classmates get to know each other, Kyu-Ho starts falling for Yun-Geon even harder. But when, out of the blue, Yun-Geon says, “you’re not my style,” to Kyu-Ho, the two start a love-hate relationship for the ages.",
+          "image": "assets/img/posters/part-time-partner.webp",
+          "banner": "assets/img/banners/part-time-partner.webp",
+          "emptyMark": "PT",
+          "emptyLabel": "Part Time Partner",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 65,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 64,
+            "genres": [
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Cherry Manju",
+                  "native": "체리만쥬"
+                }
+              },
+              {
+                "name": {
+                  "full": "Illyoil",
+                  "native": "일요일"
+                }
+              }
+            ],
+            "romaji": "Part-time Partner",
+            "english": "Part-time Partner",
+            "native": "파트타임 파트너",
+            "siteUrl": "https://anilist.co/manga/152840"
+          }
         }
       ]
     },
     {
-      "id": "ongoing",
+      "id": "ongoing-bl",
       "title": "Ongoing BL Manhwa",
-      "subtitle": "active releases, weekly chapters, and season breaks",
+      "category": "bl",
+      "badge": "ONGOING",
       "tag": "0 entries",
-      "accent": "#e7b267",
+      "accent": "#7ec9a8",
+      "subtitle": "actively releasing and updating Boys' Love manhwa titles",
       "items": []
     },
     {
-      "id": "to-read",
+      "id": "toread-bl",
       "title": "To Be Read BL Manhwa",
-      "subtitle": "queued on the shelf, recommended, or planning to read next",
+      "category": "bl",
+      "badge": "PLAN TO READ",
       "tag": "0 entries",
       "accent": "#7fa8d9",
+      "subtitle": "queued Boys' Love manhwa titles on the reading stack",
+      "items": []
+    },
+    {
+      "id": "completed-bg",
+      "title": "Completed BG Manhwa",
+      "category": "bg",
+      "badge": "COMPLETED",
+      "tag": "0 entries",
+      "accent": "#ef9a78",
+      "subtitle": "completed romance and straight (BG) manhwa series",
+      "items": []
+    },
+    {
+      "id": "ongoing-bg",
+      "title": "Ongoing BG Manhwa",
+      "category": "bg",
+      "badge": "ONGOING",
+      "tag": "0 entries",
+      "accent": "#82bcdc",
+      "subtitle": "currently releasing romance and straight (BG) manhwa titles",
+      "items": []
+    },
+    {
+      "id": "toread-bg",
+      "title": "To Be Read BG Manhwa",
+      "category": "bg",
+      "badge": "PLAN TO READ",
+      "tag": "0 entries",
+      "accent": "#b09bea",
+      "subtitle": "upcoming romance and straight (BG) manhwa titles queued to read",
+      "items": []
+    },
+    {
+      "id": "completed-normal",
+      "title": "Completed Manhua / Manhwa",
+      "category": "normal",
+      "badge": "COMPLETED",
+      "tag": "0 entries",
+      "accent": "#e0a96d",
+      "subtitle": "concluded general manhua and manhwa series",
+      "items": []
+    },
+    {
+      "id": "ongoing-normal",
+      "title": "Ongoing Manhua",
+      "category": "normal",
+      "badge": "ONGOING",
+      "tag": "0 entries",
+      "accent": "#94d2bd",
+      "subtitle": "ongoing and actively releasing general manhua titles",
+      "items": []
+    },
+    {
+      "id": "toread-normal",
+      "title": "To Be Read Manhua",
+      "category": "normal",
+      "badge": "PLAN TO READ",
+      "tag": "0 entries",
+      "accent": "#c3aed6",
+      "subtitle": "planned general manhua and manhwa titles on the backlog",
       "items": []
     }
   ],
   "totals": {
-    "stats": [
-      {
-        "value": "2,603",
-        "label": "chapters read"
-      },
-      {
-        "value": "39",
-        "label": "completed"
-      },
-      {
-        "value": "0",
-        "label": "ongoing"
-      },
-      {
-        "value": "39",
-        "label": "total titles"
-      }
-    ],
     "bars": [
       {
         "label": "Completed BL Manhwa",
-        "sectionId": "completed",
-        "chapters": 2603,
-        "display": "2,603 ch",
-        "accent": "#7ec9a8"
-      },
-      {
-        "label": "Ongoing BL Manhwa",
-        "sectionId": "ongoing",
-        "chapters": 0,
-        "display": "0 ch",
+        "sectionId": "completed-bl",
+        "chapters": 8810,
+        "display": "8,810 ch",
         "accent": "#e7b267"
       },
       {
+        "label": "Ongoing BL Manhwa",
+        "sectionId": "ongoing-bl",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#7ec9a8"
+      },
+      {
         "label": "To Be Read BL Manhwa",
-        "sectionId": "to-read",
+        "sectionId": "toread-bl",
         "chapters": 0,
         "display": "0 ch",
         "accent": "#7fa8d9"
+      },
+      {
+        "label": "Completed BG Manhwa",
+        "sectionId": "completed-bg",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#ef9a78"
+      },
+      {
+        "label": "Ongoing BG Manhwa",
+        "sectionId": "ongoing-bg",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#82bcdc"
+      },
+      {
+        "label": "To Be Read BG Manhwa",
+        "sectionId": "toread-bg",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#b09bea"
+      },
+      {
+        "label": "Completed Manhua / Manhwa",
+        "sectionId": "completed-normal",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#e0a96d"
+      },
+      {
+        "label": "Ongoing Manhua",
+        "sectionId": "ongoing-normal",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#94d2bd"
+      },
+      {
+        "label": "To Be Read Manhua",
+        "sectionId": "toread-normal",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#c3aed6"
       }
-    ],
-    "notes": [
-      "Total chapters read: 2,603 chapters across 39 completed series.",
-      "Shelves structured into Completed BL Manhwa, Ongoing BL Manhwa, and To Be Read BL Manhwa.",
-      "Ongoing and To Be Read sections ready to receive next batches of series."
     ],
     "stackedBars": [
       {
-        "label": "Completed BL Manhwa / Manhua",
-        "sectionId": "completed",
-        "chapters": 2603,
-        "display": "2,603 ch",
-        "accent": "#7ec9a8",
+        "label": "Completed BL Manhwa",
+        "sectionId": "completed-bl",
+        "chapters": 8810,
+        "display": "8,810 ch",
+        "accent": "#e7b267",
         "percentage": 100
       },
       {
         "label": "Ongoing BL Manhwa",
-        "sectionId": "ongoing",
+        "sectionId": "ongoing-bl",
         "chapters": 0,
         "display": "0 ch",
-        "accent": "#e7b267",
+        "accent": "#7ec9a8",
         "percentage": 0
       },
       {
         "label": "To Be Read BL Manhwa",
-        "sectionId": "to-read",
+        "sectionId": "toread-bl",
         "chapters": 0,
         "display": "0 ch",
         "accent": "#7fa8d9",
+        "percentage": 0
+      },
+      {
+        "label": "Completed BG Manhwa",
+        "sectionId": "completed-bg",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#ef9a78",
+        "percentage": 0
+      },
+      {
+        "label": "Ongoing BG Manhwa",
+        "sectionId": "ongoing-bg",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#82bcdc",
+        "percentage": 0
+      },
+      {
+        "label": "To Be Read BG Manhwa",
+        "sectionId": "toread-bg",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#b09bea",
+        "percentage": 0
+      },
+      {
+        "label": "Completed Manhua / Manhwa",
+        "sectionId": "completed-normal",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#e0a96d",
+        "percentage": 0
+      },
+      {
+        "label": "Ongoing Manhua",
+        "sectionId": "ongoing-normal",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#94d2bd",
+        "percentage": 0
+      },
+      {
+        "label": "To Be Read Manhua",
+        "sectionId": "toread-normal",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#c3aed6",
         "percentage": 0
       }
     ]
   },
   "taste": {
-    "yes": [
-      "Well-developed character dynamics, emotional intimacy, and captivating romance.",
-      "Engaging omegaverse, urban drama, psychological depth, and high-tension narrative arcs.",
-      "Auteur art styles, expressive character designs, and polished full-color webtoon scroll format."
-    ],
-    "no": [
-      "Senseless plot contrivances with zero communication or dragged-out misunderstandings.",
-      "Rushed endings without proper emotional resolution."
-    ],
-    "note": "Curated personal reading collection for BL manhwa and manhua."
+    "yes": [],
+    "no": [],
+    "note": ""
   },
-  "builtAt": "2026-11-16T14:45:40.601Z"
+  "builtAt": "2026-11-16T15:07:43.032Z"
 };
 window.MANGA_DATA = window.__DATA__;

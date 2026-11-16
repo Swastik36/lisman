@@ -20,6 +20,15 @@
   }
 
   const navLabels = {
+    "completed-bl": "Completed BL",
+    "ongoing-bl": "Ongoing BL",
+    "toread-bl": "To Read BL",
+    "completed-bg": "Completed BG",
+    "ongoing-bg": "Ongoing BG",
+    "toread-bg": "To Read BG",
+    "completed-normal": "Completed Normal",
+    "ongoing-normal": "Ongoing Normal",
+    "toread-normal": "To Read Normal",
     completed: "Completed",
     ongoing: "Ongoing",
     "to-read": "To Read",
@@ -357,9 +366,14 @@
 
     // Authors / Staff
     if (Array.isArray(item.info.staff) && item.info.staff.length) {
-      const primaryAuthor = item.info.staff.find((s) => /Story|Art|Author|Original/i.test(s.role)) || item.info.staff[0];
-      if (primaryAuthor && primaryAuthor.name) {
-        chips.push({ text: `${primaryAuthor.role || "Creator"}: ${primaryAuthor.name}`, class: "chip--author" });
+      const primaryAuthor = item.info.staff.find((s) => /Story|Art|Author|Original/i.test(s.role || "")) || item.info.staff[0];
+      if (primaryAuthor) {
+        const authorName = typeof primaryAuthor.name === "object" && primaryAuthor.name !== null
+          ? primaryAuthor.name.full || primaryAuthor.name.native
+          : primaryAuthor.name || primaryAuthor.role;
+        if (authorName) {
+          chips.push({ text: `${primaryAuthor.role || "Creator"}: ${authorName}`, class: "chip--author" });
+        }
       }
     }
 
@@ -558,7 +572,9 @@
 
         section.items.forEach((item) => {
           const cardEl = $(`[data-card="${item.id}"]`);
-          const staffNames = (item.info.staff || []).map((s) => `${s.role} ${s.name}`).join(" ");
+          const staffNames = (item.info.staff || [])
+            .map((s) => `${s.role || ""} ${typeof s.name === "object" && s.name ? `${s.name.full || ""} ${s.name.native || ""}` : s.name || ""}`)
+            .join(" ");
           const genres = (item.info.genres || []).join(" ");
           const searchCorpus = [
             item.title,
