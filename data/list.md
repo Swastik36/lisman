@@ -4,8 +4,8 @@
 > Last synchronized: Nov 2026
 
 ## Overview
-- **Total Chapters Read**: 8,810 chapters
-- **Completed Titles**: 110
+- **Total Chapters Read**: 11,351 chapters
+- **Total Titles**: 130
 - **Shelves**: 9 classifications across BL, BG, and Normal Manhua/Manhwa
 
 ---
@@ -245,9 +245,48 @@
 *(Empty shelf — titles coming soon)*
 
 ## 4. Completed BG Manhwa
-*completed romance and straight (BG) manhwa series*
+*completed romance and straight (BG) manhwa / manhua series*
 
-*(Empty shelf — titles coming soon)*
+1. **Flower and the Beast (jooreong)** (The Beast with a Flower in Its Mouth · 꽃을 문 짐승)
+   - Chapters: 120 · Status: COMPLETED
+2. **Upshot** (UPSHOT (H) · Szainx)
+   - Chapters: 20 · Status: COMPLETED
+3. **Kiss 6th Senses** (Sixth Sense Kiss · 키스 식스 센스)
+   - Chapters: 97 · Status: COMPLETED
+4. **If AI Rules the World** (If AI Ruled the World · AI가 세상을 지배한다면)
+   - Chapters: 52 · Status: COMPLETED
+5. **Actually, I Was the Real One** (I Am the Real One · 사실은 내가 진짜였다)
+   - Chapters: 160 · Status: COMPLETED
+6. **Who Made Me a Princess** (One Day I Became a Princess · 어느 날 공주가 되어버렸다)
+   - Chapters: 135 · Status: COMPLETED
+7. **Spicy Wife's Reborn World** (重生空间：豪门辣妻不好惹)
+   - Chapters: 441 · Status: COMPLETED
+8. **On Top of My CEO** (President Is Below Me · 总裁在下)
+   - Chapters: 150 · Status: COMPLETED
+9. **Miss Scum Slayer Reborn** (Scum-Abusing Queen · 重生之虐渣女王)
+   - Chapters: 117 · Status: COMPLETED
+10. **Naive Mr. Lu** (Pure Mr. Lu · 纯情陆少)
+   - Chapters: 256 · Status: COMPLETED
+11. **I Became the Villain's Wife** (Subdue My 'Villain' Hubby · 我成了反派大佬的小娇妻？！)
+   - Chapters: 103 · Status: COMPLETED
+12. **This Boy Got Me Falling Hard** (My Boyfriend Got Me Falling in Love · 年下男友套路深)
+   - Chapters: 74 · Status: COMPLETED
+13. **Queen Cecia's Shorts** (Empress Cesia Wears Knickerbockers · 여왕 쎄시아의 반바지)
+   - Chapters: 142 · Status: COMPLETED
+14. **Devil in the Suit** (The Devil in the Suit · 鬼上司はスーツを脱いでも凶暴でした。)
+   - Chapters: 21 · Status: COMPLETED
+15. **How to Hide the Emperor's Child** (황제의 아이를 숨기는 방법)
+   - Chapters: 129 · Status: COMPLETED
+16. **Daytime Star** (낮에 뜨는 별)
+   - Chapters: 77 · Status: COMPLETED
+17. **Betrayal of Dignity** (품격을 배반한다)
+   - Chapters: 81 · Status: COMPLETED
+18. **The Heavenly Demon Lord Who Doesn't Want to Level Up** (레벨업하기 싫은 천마님)
+   - Chapters: 100 · Status: COMPLETED
+19. **Father, I Don't Want to Get Married!** (Father, I Don't Want This Marriage · 아빠, 나 이 결혼 안 할래요!)
+   - Chapters: 131 · Status: COMPLETED
+20. **The Archvillain's Daughter-in-Law Has Limited Time** (The Archvillain's Daughter-In-Law · 시한부라서 흑막의 며느리가 되었는데)
+   - Chapters: 135 · Status: COMPLETED
 
 ## 5. Ongoing BG Manhwa
 *currently releasing romance and straight (BG) manhwa titles*

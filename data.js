@@ -4,12 +4,12 @@ window.__DATA__ = {
     "title": "Smi's Manga Shelf",
     "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "8,810 chapters read across 110 completed BL manhwa and manhua titles.",
+    "profile": "11,351 chapters read across 130 completed manhwa and manhua titles.",
     "timeNote": "Tracking completed, ongoing, and to-be-read BL, BG, and normal manhwa / manhua."
   },
   "heroStats": [
     {
-      "value": "8,810",
+      "value": "11,351",
       "label": "chapters read"
     },
     {
@@ -17,11 +17,11 @@ window.__DATA__ = {
       "label": "volumes"
     },
     {
-      "value": "110",
+      "value": "130",
       "label": "completed"
     },
     {
-      "value": "110",
+      "value": "130",
       "label": "titles"
     }
   ],
@@ -5761,10 +5761,1086 @@ window.__DATA__ = {
       "title": "Completed BG Manhwa",
       "category": "bg",
       "badge": "COMPLETED",
-      "tag": "0 entries",
+      "tag": "20 entries",
       "accent": "#ef9a78",
-      "subtitle": "completed romance and straight (BG) manhwa series",
-      "items": []
+      "subtitle": "completed romance and straight (BG) manhwa / manhua series",
+      "items": [
+        {
+          "id": "bg-flower-and-the-beast",
+          "media": "flower-and-the-beast",
+          "title": "Flower and the Beast (jooreong)",
+          "alt": "The Beast with a Flower in Its Mouth · 꽃을 문 짐승",
+          "badge": "COMPLETED",
+          "meta": "120 chapters · Completed",
+          "chaptersRead": 120,
+          "totalChapters": 120,
+          "progress": [
+            120,
+            120
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "\"Could this all perhaps be Hwayeon's dream? Or did Yeonu create this fantasy world in her head to escape her harsh reality?\"\nHwayeon Ryu, without knowing the cause, falls into a coma at the age of six. Then after 12 long years of her father, Chung Ryu's persistent attempts, she finally opens her eyes. As she wakens from her prolonged sleep, she realizes she not only has her memories but has the memories of someone else's life, Yeonu Lee. Though startled at first, as time passes, she manages to adjust to her new life. Then one day, in hope to have lunch with her father, she pays a visit to the palace. But she ends up taking the wrong turn and finds herself in front of the notorious beast, crown prince Muyeong...\nThe story unfolds then, when the soft and delicate flower Hwayeon meets the arrogant and fearless beast, Muyeong.",
+          "image": "assets/img/posters/flower-and-the-beast.webp",
+          "banner": "assets/img/banners/flower-and-the-beast.webp",
+          "emptyMark": "FA",
+          "emptyLabel": "Flower and the Beast (jooreong)",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 120,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 73,
+            "genres": [
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Reong Ju",
+                  "native": "주렁"
+                }
+              },
+              {
+                "name": {
+                  "full": "Solddam",
+                  "native": "솔땀"
+                }
+              }
+            ],
+            "romaji": "Kkocheul Mun Jimseung",
+            "english": "Flower and the Beast",
+            "native": "꽃을 문 짐승",
+            "siteUrl": "https://anilist.co/manga/111412"
+          }
+        },
+        {
+          "id": "bg-upshot",
+          "media": "upshot",
+          "title": "Upshot",
+          "alt": "UPSHOT (H) · Szainx",
+          "badge": "COMPLETED",
+          "meta": "20 chapters · Completed",
+          "chaptersRead": 20,
+          "totalChapters": 20,
+          "progress": [
+            20,
+            20
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "A romance and slice-of-life miniseries following two awkward characters with connected pasts who end up being forced to live together through random circumstances.",
+          "image": "assets/img/posters/upshot.webp",
+          "banner": "assets/img/banners/upshot.webp",
+          "emptyMark": "UP",
+          "emptyLabel": "Upshot",
+          "info": {
+            "format": "MANHWA",
+            "year": null,
+            "chapters": 20,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Szainx",
+                  "native": "Szainx"
+                }
+              }
+            ],
+            "romaji": "Upshot (H)",
+            "english": "Upshot",
+            "native": "Upshot",
+            "siteUrl": "https://webtoons.com"
+          }
+        },
+        {
+          "id": "bg-kiss-sixth-sense",
+          "media": "kiss-sixth-sense",
+          "title": "Kiss 6th Senses",
+          "alt": "Sixth Sense Kiss · 키스 식스 센스",
+          "badge": "COMPLETED",
+          "meta": "97 chapters · Completed",
+          "chaptersRead": 97,
+          "totalChapters": 97,
+          "progress": [
+            97,
+            97
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Ye-Sul Hong has a secret – when she kisses someone, she can see flashes of their future. It’s hard to believe she’s ever met the right guy when she can’t even see herself in their destiny. She doesn’t get much use out of her ability until one day, when she accidentally kisses her evil boss, Min-Hu Cha, who’s got a secret of his own. To her utter shock, she sees a vision of herself… in bed with him! As if that’s not confusing enough, she shows up to work the next day to find out that her first love has been hired to work in her department. Will she be able to survive working with the man she wished had been her destiny and the man she’s destined to be with?",
+          "image": "assets/img/posters/kiss-sixth-sense.webp",
+          "banner": "assets/img/banners/kiss-sixth-sense.webp",
+          "emptyMark": "K6",
+          "emptyLabel": "Kiss 6th Senses",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 97,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 71,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jocobong",
+                  "native": "조코봉"
+                }
+              },
+              {
+                "name": {
+                  "full": "Got W",
+                  "native": "갓녀"
+                }
+              }
+            ],
+            "romaji": "Kiss Sixth Sense",
+            "english": "Sixth Sense Kiss",
+            "native": "키스 식스 센스",
+            "siteUrl": "https://anilist.co/manga/136024"
+          }
+        },
+        {
+          "id": "bg-if-ai-ruled-the-world",
+          "media": "if-ai-ruled-the-world",
+          "title": "If AI Rules the World",
+          "alt": "If AI Ruled the World · AI가 세상을 지배한다면",
+          "badge": "COMPLETED",
+          "meta": "52 chapters · Completed",
+          "chaptersRead": 52,
+          "totalChapters": 52,
+          "progress": [
+            52,
+            52
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Welcome to a world where artificial intelligence can drive your car, look after you when you’re ill, and solve all of your problems. But all of this convenience comes at a price. AI can pose a threat when it no longer has humanity’s best interests at heart. Can humans learn to coexist with AI?",
+          "image": "assets/img/posters/if-ai-ruled-the-world.webp",
+          "banner": "assets/img/banners/if-ai-ruled-the-world.webp",
+          "emptyMark": "IA",
+          "emptyLabel": "If AI Rules the World",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 52,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 77,
+            "genres": [
+              "Drama",
+              "Sci-Fi"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "HOOPA",
+                  "native": "후파"
+                }
+              },
+              {
+                "name": {
+                  "full": "POGO",
+                  "native": "POGO"
+                }
+              }
+            ],
+            "romaji": "AIga Sesangeul Jibaehandamyeon",
+            "english": "If AI Ruled the World",
+            "native": "AI가 세상을 지배한다면",
+            "siteUrl": "https://anilist.co/manga/132705"
+          }
+        },
+        {
+          "id": "bg-actually-i-was-the-real-one",
+          "media": "actually-i-was-the-real-one",
+          "title": "Actually, I Was the Real One",
+          "alt": "I Am the Real One · 사실은 내가 진짜였다",
+          "badge": "COMPLETED",
+          "meta": "160 chapters · Completed",
+          "chaptersRead": 160,
+          "totalChapters": 160,
+          "progress": [
+            160,
+            160
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "A prophecy foretold that the Grand Duke would only have one water elementalist born from him. Though she lacks her father’s affection, Keira knows she’s destined for those powers. But after years of doing what was right and proper of a noble, she’s executed after the conniving Cosette appears, claiming to be the Grand Duke’s real daughter. But then—Keira wakes up with newfound purpose: make changes, allies, and even friends before it’s too late. Will it be enough before Cosette hatches her plot?",
+          "image": "assets/img/posters/actually-i-was-the-real-one.webp",
+          "banner": "assets/img/banners/actually-i-was-the-real-one.webp",
+          "emptyMark": "AI",
+          "emptyLabel": "Actually, I Was the Real One",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 160,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 74,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Dwaeji Cake",
+                  "native": "돼지케이크"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yuwoon",
+                  "native": "유운"
+                }
+              },
+              {
+                "name": {
+                  "full": "Samwol",
+                  "native": "삼월"
+                }
+              }
+            ],
+            "romaji": "Sasireun Naega Jinjjayeotda",
+            "english": "I Am the Real One",
+            "native": "사실은 내가 진짜였다",
+            "siteUrl": "https://anilist.co/manga/124783"
+          }
+        },
+        {
+          "id": "bg-who-made-me-a-princess",
+          "media": "who-made-me-a-princess",
+          "title": "Who Made Me a Princess",
+          "alt": "One Day I Became a Princess · 어느 날 공주가 되어버렸다",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "The story of Athanasia, forsaken princess of the Obelian Empire, ends with her execution at the hands of her own father—or does it? Her tragic tale is the plot of the novel The Lovely Princess. But now, a modern woman who read the book has just woken up as baby Athanasia herself, filled with her own memories and knowledge of the story she’s stuck in! Determined to survive her doomed fate, infant Athanasia embarks on this new life with a plan: avoid attention and hoard valuables to fund her escape. When her plan goes awry, she suddenly needs to charm her way into the good graces of her father, the beautiful tyrant emperor, so he doesn’t kill her again!",
+          "image": "assets/img/posters/who-made-me-a-princess.webp",
+          "banner": "assets/img/banners/who-made-me-a-princess.webp",
+          "emptyMark": "WM",
+          "emptyLabel": "Who Made Me a Princess",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 135,
+            "volumes": 9,
+            "status": "FINISHED",
+            "averageScore": 83,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Spoon",
+                  "native": "스푼"
+                }
+              },
+              {
+                "name": {
+                  "full": "Plutus",
+                  "native": "플루토스"
+                }
+              },
+              {
+                "name": {
+                  "full": "Carolina Hernández Mendoza",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Eoneu Nal Gongjuga Doeeobeoryeotda",
+            "english": "Who Made Me a Princess",
+            "native": "어느 날 공주가 되어버렸다",
+            "siteUrl": "https://anilist.co/manga/107521"
+          }
+        },
+        {
+          "id": "bg-spicy-wifes-reborn-world",
+          "media": "spicy-wifes-reborn-world",
+          "title": "Spicy Wife's Reborn World",
+          "alt": "重生空间：豪门辣妻不好惹",
+          "badge": "COMPLETED",
+          "meta": "441 chapters · Completed",
+          "chaptersRead": 441,
+          "totalChapters": 441,
+          "progress": [
+            441,
+            441
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "She was the successor to a great healer, yet her reincarnation is a meek shadow of a girl. Call her stupid? Her alchemy and medical skills will stun skeptics! Laugh at her misfortune? She'll deal with her vicious stepmother and sister with a wave of her hand! All she wants after her reincarnation is vengeance and to live her life, but little does she know that she has caught the attention of the most noble man in the country. Her kiss-and-run scheme is thwarted because she's been captured against her will. \"All actions have consequences, girl. Did no one teach you that?\"",
+          "image": "assets/img/posters/spicy-wifes-reborn-world.webp",
+          "banner": "assets/img/banners/spicy-wifes-reborn-world.webp",
+          "emptyMark": "SW",
+          "emptyLabel": "Spicy Wife's Reborn World",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 441,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 61,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "ICiyuan Dongman",
+                  "native": "iCiyuan动漫"
+                }
+              }
+            ],
+            "romaji": "Chongsheng Kongjian: Haomen La Qi Buhaore",
+            "english": "Spicy Wife's Reborn World",
+            "native": "重生空间：豪门辣妻不好惹",
+            "siteUrl": "https://anilist.co/manga/129181"
+          }
+        },
+        {
+          "id": "bg-on-top-of-my-ceo",
+          "media": "on-top-of-my-ceo",
+          "title": "On Top of My CEO",
+          "alt": "President Is Below Me · 总裁在下",
+          "badge": "COMPLETED",
+          "meta": "150 chapters · Completed",
+          "chaptersRead": 150,
+          "totalChapters": 150,
+          "progress": [
+            150,
+            150
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "A bold entertainment journalist vows to conquer both the showbiz world and her notoriously cold corporate CEO in this high-energy romance comedy manhua.",
+          "image": "assets/img/posters/on-top-of-my-ceo.webp",
+          "banner": "assets/img/banners/on-top-of-my-ceo.webp",
+          "emptyMark": "OT",
+          "emptyLabel": "On Top of My CEO",
+          "info": {
+            "format": "MANHUA",
+            "year": null,
+            "chapters": 150,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Tofu Manhua",
+                  "native": "豆腐漫画"
+                }
+              }
+            ],
+            "romaji": "Zongcai Zaixia",
+            "english": "On Top of My CEO",
+            "native": "总裁在下",
+            "siteUrl": "https://comix.to"
+          }
+        },
+        {
+          "id": "bg-miss-scum-slayer-reborn",
+          "media": "miss-scum-slayer-reborn",
+          "title": "Miss Scum Slayer Reborn",
+          "alt": "Scum-Abusing Queen · 重生之虐渣女王",
+          "badge": "COMPLETED",
+          "meta": "117 chapters · Completed",
+          "chaptersRead": 117,
+          "totalChapters": 117,
+          "progress": [
+            117,
+            117
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "What are you gonna do after getting reborn? Getting payback from my enemies, of course! Two-timer? Evil wench? I won't let anyone go! Handsome rich guy? I... won't let him go either!",
+          "image": "assets/img/posters/miss-scum-slayer-reborn.webp",
+          "banner": "assets/img/banners/miss-scum-slayer-reborn.webp",
+          "emptyMark": "MS",
+          "emptyLabel": "Miss Scum Slayer Reborn",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 117,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Chen Xiang",
+                  "native": "沉乡"
+                }
+              }
+            ],
+            "romaji": "Chongsheng Zhi Nüe Zha Nüwang",
+            "english": "Miss Scum Slayer Reborn",
+            "native": "重生之虐渣女王",
+            "siteUrl": "https://anilist.co/manga/142072"
+          }
+        },
+        {
+          "id": "bg-the-naive-mr-lu",
+          "media": "the-naive-mr-lu",
+          "title": "Naive Mr. Lu",
+          "alt": "Pure Mr. Lu · 纯情陆少",
+          "badge": "COMPLETED",
+          "meta": "256 chapters · Completed",
+          "chaptersRead": 256,
+          "totalChapters": 256,
+          "progress": [
+            256,
+            256
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Dressed as a man, she is a lady killer with a perfect smile. Her motto is \"Both women and men will fall for you as long as you work hard\". Women like her. Men are so obsessed with her that they are willing to be un-straight. The uncrowned king Zong Jize sees her as his bro, but tricks her onto his bed!",
+          "image": "assets/img/posters/the-naive-mr-lu.webp",
+          "banner": "assets/img/banners/the-naive-mr-lu.webp",
+          "emptyMark": "NM",
+          "emptyLabel": "Naive Mr. Lu",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 256,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 64,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ai Lu Mao",
+                  "native": "艾鲁猫"
+                }
+              },
+              {
+                "name": {
+                  "full": "Bo Yi Dongman",
+                  "native": "博易动漫"
+                }
+              }
+            ],
+            "romaji": "Chunqing Lushao",
+            "english": "The Naive Mr. Lu",
+            "native": "纯情陆少",
+            "siteUrl": "https://anilist.co/manga/115421"
+          }
+        },
+        {
+          "id": "bg-i-became-the-villains-wife",
+          "media": "i-became-the-villains-wife",
+          "title": "I Became the Villain's Wife",
+          "alt": "Subdue My 'Villain' Hubby · 我成了反派大佬的小娇妻？！",
+          "badge": "COMPLETED",
+          "meta": "103 chapters · Completed",
+          "chaptersRead": 103,
+          "totalChapters": 103,
+          "progress": [
+            103,
+            103
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "The dainty idol Chen Congong unluckily fell into a trap and awoke to a stunning naked man in her bed! Hahaha, I don't mind ending up with such a beautiful man?\nHang on...\nAre you telling me I've switched places with the toxic, evil, and manipulative side character who won’t even survive 20% of the plot?! No, I'm definitely not ready to die!! Watch as I keep on living my ideal life!",
+          "image": "assets/img/posters/i-became-the-villains-wife.webp",
+          "banner": "assets/img/banners/i-became-the-villains-wife.webp",
+          "emptyMark": "IB",
+          "emptyLabel": "I Became the Villain's Wife",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 103,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Da Mo Wang Manhua",
+                  "native": "大魔王漫画"
+                }
+              }
+            ],
+            "romaji": "Wo Cheng Le Fan Pai Da Lao De Xiao Jiao Qi?!",
+            "english": "Subdue My \"Villain\" Hubby",
+            "native": "我成了反派大佬的小娇妻？！",
+            "siteUrl": "https://anilist.co/manga/134278"
+          }
+        },
+        {
+          "id": "bg-this-boy-got-me-falling-hard",
+          "media": "this-boy-got-me-falling-hard",
+          "title": "This Boy Got Me Falling Hard",
+          "alt": "My Boyfriend Got Me Falling in Love · 年下男友套路深",
+          "badge": "COMPLETED",
+          "meta": "74 chapters · Completed",
+          "chaptersRead": 74,
+          "totalChapters": 74,
+          "progress": [
+            74,
+            74
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "A hot shot in the entertainment industry with a rookie actor? A greasy CEO and an internet celebrity falling in love? No, this is about the sweet love between a stunning lady boss and a popular up-and-coming actor!",
+          "image": "assets/img/posters/this-boy-got-me-falling-hard.webp",
+          "banner": "assets/img/banners/this-boy-got-me-falling-hard.webp",
+          "emptyMark": "TB",
+          "emptyLabel": "This Boy Got Me Falling Hard",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 74,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 63,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "La Mian",
+                  "native": "拉面"
+                }
+              },
+              {
+                "name": {
+                  "full": "Man Man Niang",
+                  "native": "满满酿"
+                }
+              }
+            ],
+            "romaji": "Nianxia Nanyou Taolu Shen",
+            "english": "My Boyfriend Got Me Falling in Love",
+            "native": "年下男友套路深",
+            "siteUrl": "https://anilist.co/manga/138692"
+          }
+        },
+        {
+          "id": "bg-queen-cecias-shorts",
+          "media": "queen-cecias-shorts",
+          "title": "Queen Cecia's Shorts",
+          "alt": "Empress Cesia Wears Knickerbockers · 여왕 쎄시아의 반바지",
+          "badge": "COMPLETED",
+          "meta": "142 chapters · Completed",
+          "chaptersRead": 142,
+          "totalChapters": 142,
+          "progress": [
+            142,
+            142
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "With 99 nations conquered and the cup of the ruler in her hands... you'd think she was off to a heroic conquest, but the great queen's Cecia's real concern was her uncomfortable corset?\n\nThe queen of Valencia suffered from complicated laces and heavy corsets, and thus ordered her trusted brother, Duke Ennon Lionheart to bring her a comfortable clothes. Meanwhile, Yuri, a clothing designer was killed in an accident after suffering from a small minimum wage at a medium-sized clothing company in Korea. She was reborn in a renaissance country ruled by Cecia.\n\nYuri vowed to revolutionize the outdated clothing dilemma, so she dressed up as a man and worked as a designer at the top of the continent's highest court to do easy business. But... what happens when Ennon discover's Yuri's true identity...?",
+          "image": "assets/img/posters/queen-cecias-shorts.webp",
+          "banner": "assets/img/banners/queen-cecias-shorts.webp",
+          "emptyMark": "QC",
+          "emptyLabel": "Queen Cecia's Shorts",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 142,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 75,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Saedeul",
+                  "native": "새들"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jaegyeom",
+                  "native": "재겸"
+                }
+              }
+            ],
+            "romaji": "Yeowang Cecia Banbaji",
+            "english": "Empress Cesia Wears Knickerbockers",
+            "native": "여왕 쎄시아의 반바지",
+            "siteUrl": "https://anilist.co/manga/122976"
+          }
+        },
+        {
+          "id": "bg-devil-in-the-suit",
+          "media": "devil-in-the-suit",
+          "title": "Devil in the Suit",
+          "alt": "The Devil in the Suit · 鬼上司はスーツを脱いでも凶暴でした。",
+          "badge": "COMPLETED",
+          "meta": "21 chapters · Completed",
+          "chaptersRead": 21,
+          "totalChapters": 21,
+          "progress": [
+            21,
+            21
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "\"That's an order. I'm going to make you cum right in front of him.\" My boss is stirring up my inside exactly in front of my sleeping coworker. The sounds of our love-making echo through the room... Oh my God... Is he gonna find out? | The story is about an evil boss, Mr. Kashiwagi who's over-strict to his subordinate Ms. Hidaka, even after someone advises him not to be that evil to her. His answer is: That's exactly how she should be handled.",
+          "image": "assets/img/posters/devil-in-the-suit.webp",
+          "banner": "assets/img/banners/devil-in-the-suit.webp",
+          "emptyMark": "DI",
+          "emptyLabel": "Devil in the Suit",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 21,
+            "volumes": 1,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Ecchi",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Rui Fujimori",
+                  "native": "藤森るい"
+                }
+              }
+            ],
+            "romaji": "Oni Joushi wa Suit wo Nuide mo Kyouboudeshita.",
+            "english": "The Devil in the Suit",
+            "native": "鬼上司はスーツを脱いでも凶暴でした。",
+            "siteUrl": "https://anilist.co/manga/120604"
+          }
+        },
+        {
+          "id": "bg-how-to-hide-the-emperors-child",
+          "media": "how-to-hide-the-emperors-child",
+          "title": "How to Hide the Emperor's Child",
+          "alt": "황제의 아이를 숨기는 방법",
+          "badge": "COMPLETED",
+          "meta": "129 chapters · Completed",
+          "chaptersRead": 129,
+          "totalChapters": 129,
+          "progress": [
+            129,
+            129
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Astelle, the empire's one-day empress brought with her a secret when she left the palace after the divorce: she was pregnant with Emperor Kaizen's child. Six years later, Astelle is living a peaceful life in the countryside with their son until the imperial guards come knocking. Kaizen requires Astelle's consent to receive the key territory of Meilen. With the empire still in turmoil from a rebellion, will Astelle be able to hide her son's identity from these threatening forces, and more importantly, from his father, the emperor?",
+          "image": "assets/img/posters/how-to-hide-the-emperors-child.webp",
+          "banner": "assets/img/banners/how-to-hide-the-emperors-child.webp",
+          "emptyMark": "HT",
+          "emptyLabel": "How to Hide the Emperor's Child",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 129,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 71,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Ssal",
+                  "native": "쌀"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yeon-Seon Lee",
+                  "native": "이연선"
+                }
+              },
+              {
+                "name": {
+                  "full": "26",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Hwangjeui Aireul Sumgineun Bangbeop",
+            "english": "How to Hide the Emperor’s Child",
+            "native": "황제의 아이를 숨기는 방법",
+            "siteUrl": "https://anilist.co/manga/145306"
+          }
+        },
+        {
+          "id": "bg-daytime-star",
+          "media": "daytime-star",
+          "title": "Daytime Star",
+          "alt": "낮에 뜨는 별",
+          "badge": "COMPLETED",
+          "meta": "77 chapters · Completed",
+          "chaptersRead": 77,
+          "totalChapters": 77,
+          "progress": [
+            77,
+            77
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "A struggling, no-name actress of seven years, Yu-Ra Hwang. She barely lands a minor role in a movie that’s bound to be a success. A celebrity’s celebrity, Seung-Hyeon Kang, keeps running into Yu-Ra, who always seems to be shedding tears every time he comes across her. As these two reunite in the new movie, “Time,” will Yu-Ra finally seize the moment to make her name known? And will Seung-Hyeon figure out why he can’t get Yu-Ra out of his mind? Only time will tell.",
+          "image": "assets/img/posters/daytime-star.webp",
+          "banner": "assets/img/banners/daytime-star.webp",
+          "emptyMark": "DS",
+          "emptyLabel": "Daytime Star",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 77,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 83,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Godago",
+                  "native": "고다고"
+                }
+              },
+              {
+                "name": {
+                  "full": "Chae-Eun",
+                  "native": "채은"
+                }
+              }
+            ],
+            "romaji": "Naje Tteuneun Byeol",
+            "english": "Daytime Star",
+            "native": "낮에 뜨는 별",
+            "siteUrl": "https://anilist.co/manga/143003"
+          }
+        },
+        {
+          "id": "bg-betrayal-of-dignity",
+          "media": "betrayal-of-dignity",
+          "title": "Betrayal of Dignity",
+          "alt": "품격을 배반한다",
+          "badge": "COMPLETED",
+          "meta": "81 chapters · Completed",
+          "chaptersRead": 81,
+          "totalChapters": 81,
+          "progress": [
+            81,
+            81
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Would you sacrifice your honor to marry a Duke?\n\nIn order to save her family from ruin, Chloe Verdier must find a groom for her sister, Alice. She soon runs into the handsome but arrogant Duke Tisse who makes a proposal that could save them. When Alice flees with a mysterious man, Chloe must seek out the Duke in the biggest gamble of her life.",
+          "image": "assets/img/posters/betrayal-of-dignity.webp",
+          "banner": "assets/img/banners/betrayal-of-dignity.webp",
+          "emptyMark": "BO",
+          "emptyLabel": "Betrayal of Dignity",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 81,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 72,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Kimpa",
+                  "native": "김빠"
+                }
+              },
+              {
+                "name": {
+                  "full": "Bo-Gyeong Gong",
+                  "native": "공보경"
+                }
+              },
+              {
+                "name": {
+                  "full": "Paran",
+                  "native": "파란"
+                }
+              }
+            ],
+            "romaji": "Pumgyeogeul Baebanhanda",
+            "english": "Betrayal of Dignity",
+            "native": "품격을 배반한다",
+            "siteUrl": "https://anilist.co/manga/165257"
+          }
+        },
+        {
+          "id": "bg-the-heavenly-demon-lord-who-doesnt-want-to-level-up",
+          "media": "the-heavenly-demon-lord-who-doesnt-want-to-level-up",
+          "title": "The Heavenly Demon Lord Who Doesn't Want to Level Up",
+          "alt": "레벨업하기 싫은 천마님",
+          "badge": "COMPLETED",
+          "meta": "100 chapters · Completed",
+          "chaptersRead": 100,
+          "totalChapters": 100,
+          "progress": [
+            100,
+            100
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Goryeo prince Jin Yuseong is a martial arts hero, but after losing his comrades, his loneliness drives him to walk through the palace's magic gate for a fresh start. Arriving in modern-day Seoul, he becomes an unexpected hero in a gate break mission, drawing the attention of the Safe Gate organization, who protect civilians from the gates. Eager to escape recruitment into SG, Yuseong disguises as the high school nephew of a former comrade, but will this be enough to outrun his fighter past?",
+          "image": "assets/img/posters/the-heavenly-demon-lord-who-doesnt-want-to-level-up.webp",
+          "banner": "assets/img/banners/the-heavenly-demon-lord-who-doesnt-want-to-level-up.webp",
+          "emptyMark": "TH",
+          "emptyLabel": "The Heavenly Demon Lord Who Doesn't Want to Level Up",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 100,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 64,
+            "genres": [
+              "Action",
+              "Fantasy"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Inkhead",
+                  "native": "잉크헤드"
+                }
+              },
+              {
+                "name": {
+                  "full": "Prodify",
+                  "native": "프로디파이"
+                }
+              },
+              {
+                "name": {
+                  "full": "Syainakeu",
+                  "native": "샤이나크"
+                }
+              }
+            ],
+            "romaji": "Level Up-agi Sileun Cheonmanim",
+            "english": "The Heavenly Demon Doesn't Want to Level Up",
+            "native": "레벨업하기 싫은 천마님",
+            "siteUrl": "https://anilist.co/manga/177134"
+          }
+        },
+        {
+          "id": "bg-father-i-dont-want-to-get-married",
+          "media": "father-i-dont-want-to-get-married",
+          "title": "Father, I Don't Want to Get Married!",
+          "alt": "Father, I Don't Want This Marriage · 아빠, 나 이 결혼 안 할래요!",
+          "badge": "COMPLETED",
+          "meta": "131 chapters · Completed",
+          "chaptersRead": 131,
+          "totalChapters": 131,
+          "progress": [
+            131,
+            131
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "Juvelian is a villainess so hated by everyone that even her lover and father leave her to die a pitiful death. Just as she’s about to face her fate, she gets the chance to change the course of her story. In order to avoid the tragic end she knows awaits her, she breaks up with her lover and gives up trying to win her father’s love. Instead, she focuses on using his wealth to enjoy her new life to its fullest! But while she prepares for her extravagant life as a lady, her father begins looking for her new suitor. Afraid that he’ll marry her off to the infamously unpredictable and stormy prince, she lands on a desperate solution: a dating contract. And the best candidate is none other than her father’s student.",
+          "image": "assets/img/posters/father-i-dont-want-to-get-married.webp",
+          "banner": "assets/img/banners/father-i-dont-want-to-get-married.webp",
+          "emptyMark": "FI",
+          "emptyLabel": "Father, I Don't Want to Get Married!",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 131,
+            "volumes": 8,
+            "status": "FINISHED",
+            "averageScore": 77,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Hee-Su Hong",
+                  "native": "홍희수"
+                }
+              },
+              {
+                "name": {
+                  "full": "Roal",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Yu-Ri",
+                  "native": "유리"
+                }
+              }
+            ],
+            "romaji": "Appa, Na I Gyeolhon An Hallaeyo!",
+            "english": "Father, I Don't Want this Marriage",
+            "native": "아빠, 나 이 결혼 안 할래요!",
+            "siteUrl": "https://anilist.co/manga/130300"
+          }
+        },
+        {
+          "id": "bg-the-archvillains-daughter-in-law-has-limited-time",
+          "media": "the-archvillains-daughter-in-law-has-limited-time",
+          "title": "The Archvillain's Daughter-in-Law Has Limited Time",
+          "alt": "The Archvillain's Daughter-In-Law · 시한부라서 흑막의 며느리가 되었는데",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bg",
+          "sectionTitle": "Completed BG Manhwa",
+          "accent": "#ef9a78",
+          "synopsis": "After losing her parents, Laria Losstree is saddled with a mountain of bills. Enter the archvillain, Duke Icardes, who agrees to pay off her debt, but only if she’ll marry his son, Evan. Cool and distant, he’s not exactly ideal husband material, but that’s okay, since Laria plans to secretly stash his money, then bounce! But when the duke starts acting suspiciously nice to her, Laria begins to wonder if he's on to her plan, and a battle of wits between archvillain and daughter-in-law begins!",
+          "image": "assets/img/posters/the-archvillains-daughter-in-law-has-limited-time.webp",
+          "banner": "assets/img/banners/the-archvillains-daughter-in-law-has-limited-time.webp",
+          "emptyMark": "TA",
+          "emptyLabel": "The Archvillain's Daughter-in-Law Has Limited Time",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 135,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 69,
+            "genres": [
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jjada",
+                  "native": "짜다"
+                }
+              },
+              {
+                "name": {
+                  "full": "Na-Jin Yu",
+                  "native": "유나진"
+                }
+              },
+              {
+                "name": {
+                  "full": "Basak",
+                  "native": "바삭"
+                }
+              }
+            ],
+            "romaji": "Sihanburaseo Heungmagui Myeoneuriga Doeeonneunde",
+            "english": "The Archvillain's Daughter-In-Law",
+            "native": "시한부라서 흑막의 며느리가 되었는데",
+            "siteUrl": "https://anilist.co/manga/145177"
+          }
+        }
+      ]
     },
     {
       "id": "ongoing-bg",
@@ -5843,8 +6919,8 @@ window.__DATA__ = {
       {
         "label": "Completed BG Manhwa",
         "sectionId": "completed-bg",
-        "chapters": 0,
-        "display": "0 ch",
+        "chapters": 2541,
+        "display": "2,541 ch",
         "accent": "#ef9a78"
       },
       {
@@ -5890,7 +6966,7 @@ window.__DATA__ = {
         "chapters": 8810,
         "display": "8,810 ch",
         "accent": "#e7b267",
-        "percentage": 100
+        "percentage": 77.6
       },
       {
         "label": "Ongoing BL Manhwa",
@@ -5911,10 +6987,10 @@ window.__DATA__ = {
       {
         "label": "Completed BG Manhwa",
         "sectionId": "completed-bg",
-        "chapters": 0,
-        "display": "0 ch",
+        "chapters": 2541,
+        "display": "2,541 ch",
         "accent": "#ef9a78",
-        "percentage": 0
+        "percentage": 22.4
       },
       {
         "label": "Ongoing BG Manhwa",
@@ -5963,6 +7039,6 @@ window.__DATA__ = {
     "no": [],
     "note": ""
   },
-  "builtAt": "2026-11-16T15:07:43.032Z"
+  "builtAt": "2026-11-16T15:16:16.936Z"
 };
 window.MANGA_DATA = window.__DATA__;

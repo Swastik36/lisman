@@ -3,7 +3,7 @@
     "title": "Smi's Manga Shelf",
     "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "8,810 chapters read across 110 completed BL manhwa and manhua titles.",
+    "profile": "11,351 chapters read across 130 completed manhwa and manhua titles.",
     "timeNote": "Tracking completed, ongoing, and to-be-read BL, BG, and normal manhwa / manhua."
   },
   "sections": [
@@ -1693,10 +1693,311 @@
       "title": "Completed BG Manhwa",
       "category": "bg",
       "badge": "COMPLETED",
-      "tag": "0 entries",
+      "tag": "20 entries",
       "accent": "#ef9a78",
-      "subtitle": "completed romance and straight (BG) manhwa series",
-      "items": []
+      "subtitle": "completed romance and straight (BG) manhwa / manhua series",
+      "items": [
+        {
+          "id": "bg-flower-and-the-beast",
+          "media": "flower-and-the-beast",
+          "title": "Flower and the Beast (jooreong)",
+          "alt": "The Beast with a Flower in Its Mouth · 꽃을 문 짐승",
+          "badge": "COMPLETED",
+          "meta": "120 chapters · Completed",
+          "chaptersRead": 120,
+          "totalChapters": 120,
+          "progress": [
+            120,
+            120
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-upshot",
+          "media": "upshot",
+          "title": "Upshot",
+          "alt": "UPSHOT (H) · Szainx",
+          "badge": "COMPLETED",
+          "meta": "20 chapters · Completed",
+          "chaptersRead": 20,
+          "totalChapters": 20,
+          "progress": [
+            20,
+            20
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-kiss-sixth-sense",
+          "media": "kiss-sixth-sense",
+          "title": "Kiss 6th Senses",
+          "alt": "Sixth Sense Kiss · 키스 식스 센스",
+          "badge": "COMPLETED",
+          "meta": "97 chapters · Completed",
+          "chaptersRead": 97,
+          "totalChapters": 97,
+          "progress": [
+            97,
+            97
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-if-ai-ruled-the-world",
+          "media": "if-ai-ruled-the-world",
+          "title": "If AI Rules the World",
+          "alt": "If AI Ruled the World · AI가 세상을 지배한다면",
+          "badge": "COMPLETED",
+          "meta": "52 chapters · Completed",
+          "chaptersRead": 52,
+          "totalChapters": 52,
+          "progress": [
+            52,
+            52
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-actually-i-was-the-real-one",
+          "media": "actually-i-was-the-real-one",
+          "title": "Actually, I Was the Real One",
+          "alt": "I Am the Real One · 사실은 내가 진짜였다",
+          "badge": "COMPLETED",
+          "meta": "160 chapters · Completed",
+          "chaptersRead": 160,
+          "totalChapters": 160,
+          "progress": [
+            160,
+            160
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-who-made-me-a-princess",
+          "media": "who-made-me-a-princess",
+          "title": "Who Made Me a Princess",
+          "alt": "One Day I Became a Princess · 어느 날 공주가 되어버렸다",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-spicy-wifes-reborn-world",
+          "media": "spicy-wifes-reborn-world",
+          "title": "Spicy Wife's Reborn World",
+          "alt": "重生空间：豪门辣妻不好惹",
+          "badge": "COMPLETED",
+          "meta": "441 chapters · Completed",
+          "chaptersRead": 441,
+          "totalChapters": 441,
+          "progress": [
+            441,
+            441
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-on-top-of-my-ceo",
+          "media": "on-top-of-my-ceo",
+          "title": "On Top of My CEO",
+          "alt": "President Is Below Me · 总裁在下",
+          "badge": "COMPLETED",
+          "meta": "150 chapters · Completed",
+          "chaptersRead": 150,
+          "totalChapters": 150,
+          "progress": [
+            150,
+            150
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-miss-scum-slayer-reborn",
+          "media": "miss-scum-slayer-reborn",
+          "title": "Miss Scum Slayer Reborn",
+          "alt": "Scum-Abusing Queen · 重生之虐渣女王",
+          "badge": "COMPLETED",
+          "meta": "117 chapters · Completed",
+          "chaptersRead": 117,
+          "totalChapters": 117,
+          "progress": [
+            117,
+            117
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-the-naive-mr-lu",
+          "media": "the-naive-mr-lu",
+          "title": "Naive Mr. Lu",
+          "alt": "Pure Mr. Lu · 纯情陆少",
+          "badge": "COMPLETED",
+          "meta": "256 chapters · Completed",
+          "chaptersRead": 256,
+          "totalChapters": 256,
+          "progress": [
+            256,
+            256
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-i-became-the-villains-wife",
+          "media": "i-became-the-villains-wife",
+          "title": "I Became the Villain's Wife",
+          "alt": "Subdue My 'Villain' Hubby · 我成了反派大佬的小娇妻？！",
+          "badge": "COMPLETED",
+          "meta": "103 chapters · Completed",
+          "chaptersRead": 103,
+          "totalChapters": 103,
+          "progress": [
+            103,
+            103
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-this-boy-got-me-falling-hard",
+          "media": "this-boy-got-me-falling-hard",
+          "title": "This Boy Got Me Falling Hard",
+          "alt": "My Boyfriend Got Me Falling in Love · 年下男友套路深",
+          "badge": "COMPLETED",
+          "meta": "74 chapters · Completed",
+          "chaptersRead": 74,
+          "totalChapters": 74,
+          "progress": [
+            74,
+            74
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-queen-cecias-shorts",
+          "media": "queen-cecias-shorts",
+          "title": "Queen Cecia's Shorts",
+          "alt": "Empress Cesia Wears Knickerbockers · 여왕 쎄시아의 반바지",
+          "badge": "COMPLETED",
+          "meta": "142 chapters · Completed",
+          "chaptersRead": 142,
+          "totalChapters": 142,
+          "progress": [
+            142,
+            142
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-devil-in-the-suit",
+          "media": "devil-in-the-suit",
+          "title": "Devil in the Suit",
+          "alt": "The Devil in the Suit · 鬼上司はスーツを脱いでも凶暴でした。",
+          "badge": "COMPLETED",
+          "meta": "21 chapters · Completed",
+          "chaptersRead": 21,
+          "totalChapters": 21,
+          "progress": [
+            21,
+            21
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-how-to-hide-the-emperors-child",
+          "media": "how-to-hide-the-emperors-child",
+          "title": "How to Hide the Emperor's Child",
+          "alt": "황제의 아이를 숨기는 방법",
+          "badge": "COMPLETED",
+          "meta": "129 chapters · Completed",
+          "chaptersRead": 129,
+          "totalChapters": 129,
+          "progress": [
+            129,
+            129
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-daytime-star",
+          "media": "daytime-star",
+          "title": "Daytime Star",
+          "alt": "낮에 뜨는 별",
+          "badge": "COMPLETED",
+          "meta": "77 chapters · Completed",
+          "chaptersRead": 77,
+          "totalChapters": 77,
+          "progress": [
+            77,
+            77
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-betrayal-of-dignity",
+          "media": "betrayal-of-dignity",
+          "title": "Betrayal of Dignity",
+          "alt": "품격을 배반한다",
+          "badge": "COMPLETED",
+          "meta": "81 chapters · Completed",
+          "chaptersRead": 81,
+          "totalChapters": 81,
+          "progress": [
+            81,
+            81
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-the-heavenly-demon-lord-who-doesnt-want-to-level-up",
+          "media": "the-heavenly-demon-lord-who-doesnt-want-to-level-up",
+          "title": "The Heavenly Demon Lord Who Doesn't Want to Level Up",
+          "alt": "레벨업하기 싫은 천마님",
+          "badge": "COMPLETED",
+          "meta": "100 chapters · Completed",
+          "chaptersRead": 100,
+          "totalChapters": 100,
+          "progress": [
+            100,
+            100
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-father-i-dont-want-to-get-married",
+          "media": "father-i-dont-want-to-get-married",
+          "title": "Father, I Don't Want to Get Married!",
+          "alt": "Father, I Don't Want This Marriage · 아빠, 나 이 결혼 안 할래요!",
+          "badge": "COMPLETED",
+          "meta": "131 chapters · Completed",
+          "chaptersRead": 131,
+          "totalChapters": 131,
+          "progress": [
+            131,
+            131
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "bg-the-archvillains-daughter-in-law-has-limited-time",
+          "media": "the-archvillains-daughter-in-law-has-limited-time",
+          "title": "The Archvillain's Daughter-in-Law Has Limited Time",
+          "alt": "The Archvillain's Daughter-In-Law · 시한부라서 흑막의 며느리가 되었는데",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED"
+        }
+      ]
     },
     {
       "id": "ongoing-bg",

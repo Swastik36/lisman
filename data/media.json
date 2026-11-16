@@ -4857,5 +4857,836 @@
     "color": "#b09bea",
     "poster": "assets/img/posters/be-watched-by-my-ex.webp",
     "banner": "assets/img/banners/be-watched-by-my-ex.webp"
+  },
+  "flower-and-the-beast": {
+    "id": 111412,
+    "anilistId": 111412,
+    "title": {
+      "english": "Flower and the Beast",
+      "romaji": "Kkocheul Mun Jimseung",
+      "native": "꽃을 문 짐승"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 120,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 73,
+    "description": "\"Could this all perhaps be Hwayeon's dream? Or did Yeonu create this fantasy world in her head to escape her harsh reality?\"\nHwayeon Ryu, without knowing the cause, falls into a coma at the age of six. Then after 12 long years of her father, Chung Ryu's persistent attempts, she finally opens her eyes. As she wakens from her prolonged sleep, she realizes she not only has her memories but has the memories of someone else's life, Yeonu Lee. Though startled at first, as time passes, she manages to adjust to her new life. Then one day, in hope to have lunch with her father, she pays a visit to the palace. But she ends up taking the wrong turn and finds herself in front of the notorious beast, crown prince Muyeong...\nThe story unfolds then, when the soft and delicate flower Hwayeon meets the arrogant and fearless beast, Muyeong.\n\n(Source: Pocket Comics)\n\nNote: Includes 32 extra chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Reong Ju",
+          "native": "주렁"
+        }
+      },
+      {
+        "name": {
+          "full": "Solddam",
+          "native": "솔땀"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/flower-and-the-beast.webp",
+      "banner": "assets/img/banners/flower-and-the-beast.webp"
+    },
+    "poster": "assets/img/posters/flower-and-the-beast.webp",
+    "banner": "assets/img/banners/flower-and-the-beast.webp",
+    "siteUrl": "https://anilist.co/manga/111412"
+  },
+  "kiss-sixth-sense": {
+    "id": 136024,
+    "anilistId": 136024,
+    "title": {
+      "english": "Sixth Sense Kiss",
+      "romaji": "Kiss Sixth Sense",
+      "native": "키스 식스 센스"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 97,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 71,
+    "description": "Ye-Sul Hong has a secret – when she kisses someone, she can see flashes of their future. It’s hard to believe she’s ever met the right guy when she can’t even see herself in their destiny. She doesn’t get much use out of her ability until one day, when she accidentally kisses her evil boss, Min-Hu Cha, who’s got a secret of his own. To her utter shock, she sees a vision of herself… in bed with him! As if that’s not confusing enough, she shows up to work the next day to find out that her first love has been hired to work in her department. Will she be able to survive working with the man she wished had been her destiny and the man she’s destined to be with?\n(Source: WEBTOONS)",
+    "staff": [
+      {
+        "name": {
+          "full": "Jocobong",
+          "native": "조코봉"
+        }
+      },
+      {
+        "name": {
+          "full": "Got W",
+          "native": "갓녀"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/kiss-sixth-sense.webp",
+      "banner": "assets/img/banners/kiss-sixth-sense.webp"
+    },
+    "poster": "assets/img/posters/kiss-sixth-sense.webp",
+    "banner": "assets/img/banners/kiss-sixth-sense.webp",
+    "siteUrl": "https://anilist.co/manga/136024"
+  },
+  "if-ai-ruled-the-world": {
+    "id": 132705,
+    "anilistId": 132705,
+    "title": {
+      "english": "If AI Ruled the World",
+      "romaji": "AIga Sesangeul Jibaehandamyeon",
+      "native": "AI가 세상을 지배한다면"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 52,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageScore": 77,
+    "description": "Welcome to a world where artificial intelligence can drive your car, look after you when you’re ill, and solve all of your problems. But all of this convenience comes at a price. AI can pose a threat when it no longer has humanity’s best interests at heart. Can humans learn to coexist with AI?\n\n(Source: WEBTOONS)\n\nNote: Includes one extra chapter.",
+    "staff": [
+      {
+        "name": {
+          "full": "HOOPA",
+          "native": "후파"
+        }
+      },
+      {
+        "name": {
+          "full": "POGO",
+          "native": "POGO"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/if-ai-ruled-the-world.webp",
+      "banner": "assets/img/banners/if-ai-ruled-the-world.webp"
+    },
+    "poster": "assets/img/posters/if-ai-ruled-the-world.webp",
+    "banner": "assets/img/banners/if-ai-ruled-the-world.webp",
+    "siteUrl": "https://anilist.co/manga/132705"
+  },
+  "actually-i-was-the-real-one": {
+    "id": 124783,
+    "anilistId": 124783,
+    "title": {
+      "english": "I Am the Real One",
+      "romaji": "Sasireun Naega Jinjjayeotda",
+      "native": "사실은 내가 진짜였다"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 160,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 74,
+    "description": "A prophecy foretold that the Grand Duke would only have one water elementalist born from him. Though she lacks her father’s affection, Keira knows she’s destined for those powers. But after years of doing what was right and proper of a noble, she’s executed after the conniving Cosette appears, claiming to be the Grand Duke’s real daughter. But then—Keira wakes up with newfound purpose: make changes, allies, and even friends before it’s too late. Will it be enough before Cosette hatches her plot?\n\n(Source: Tapas)",
+    "staff": [
+      {
+        "name": {
+          "full": "Dwaeji Cake",
+          "native": "돼지케이크"
+        }
+      },
+      {
+        "name": {
+          "full": "Yuwoon",
+          "native": "유운"
+        }
+      },
+      {
+        "name": {
+          "full": "Samwol",
+          "native": "삼월"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/actually-i-was-the-real-one.webp",
+      "banner": "assets/img/banners/actually-i-was-the-real-one.webp"
+    },
+    "poster": "assets/img/posters/actually-i-was-the-real-one.webp",
+    "banner": "assets/img/banners/actually-i-was-the-real-one.webp",
+    "siteUrl": "https://anilist.co/manga/124783"
+  },
+  "who-made-me-a-princess": {
+    "id": 107521,
+    "anilistId": 107521,
+    "title": {
+      "english": "Who Made Me a Princess",
+      "romaji": "Eoneu Nal Gongjuga Doeeobeoryeotda",
+      "native": "어느 날 공주가 되어버렸다"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 135,
+    "volumes": 9,
+    "status": "FINISHED",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 83,
+    "description": "The story of Athanasia, forsaken princess of the Obelian Empire, ends with her execution at the hands of her own father—or does it? Her tragic tale is the plot of the novel The Lovely Princess. But now, a modern woman who read the book has just woken up as baby Athanasia herself, filled with her own memories and knowledge of the story she’s stuck in! Determined to survive her doomed fate, infant Athanasia embarks on this new life with a plan: avoid attention and hoard valuables to fund her escape. When her plan goes awry, she suddenly needs to charm her way into the good graces of her father, the beautiful tyrant emperor, so he doesn’t kill her again!\n\n(Source: Seven Seas Entertainment)\nNote: Includes 10 extra chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Spoon",
+          "native": "스푼"
+        }
+      },
+      {
+        "name": {
+          "full": "Plutus",
+          "native": "플루토스"
+        }
+      },
+      {
+        "name": {
+          "full": "Carolina Hernández Mendoza",
+          "native": null
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/who-made-me-a-princess.webp",
+      "banner": "assets/img/banners/who-made-me-a-princess.webp"
+    },
+    "poster": "assets/img/posters/who-made-me-a-princess.webp",
+    "banner": "assets/img/banners/who-made-me-a-princess.webp",
+    "siteUrl": "https://anilist.co/manga/107521"
+  },
+  "spicy-wifes-reborn-world": {
+    "id": 129181,
+    "anilistId": 129181,
+    "title": {
+      "english": "Spicy Wife's Reborn World",
+      "romaji": "Chongsheng Kongjian: Haomen La Qi Buhaore",
+      "native": "重生空间：豪门辣妻不好惹"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "chapters": 441,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 61,
+    "description": "She was the successor to a great healer, yet her reincarnation is a meek shadow of a girl. Call her stupid? Her alchemy and medical skills will stun skeptics! Laugh at her misfortune? She'll deal with her vicious stepmother and sister with a wave of her hand! All she wants after her reincarnation is vengeance and to live her life, but little does she know that she has caught the attention of the most noble man in the country. Her kiss-and-run scheme is thwarted because she's been captured against her will. \"All actions have consequences, girl. Did no one teach you that?\"\n\n(Source: Bilibili Comics)",
+    "staff": [
+      {
+        "name": {
+          "full": "ICiyuan Dongman",
+          "native": "iCiyuan动漫"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/spicy-wifes-reborn-world.webp",
+      "banner": "assets/img/banners/spicy-wifes-reborn-world.webp"
+    },
+    "poster": "assets/img/posters/spicy-wifes-reborn-world.webp",
+    "banner": "assets/img/banners/spicy-wifes-reborn-world.webp",
+    "siteUrl": "https://anilist.co/manga/129181"
+  },
+  "miss-scum-slayer-reborn": {
+    "id": 142072,
+    "anilistId": 142072,
+    "title": {
+      "english": "Miss Scum Slayer Reborn",
+      "romaji": "Chongsheng Zhi Nüe Zha Nüwang",
+      "native": "重生之虐渣女王"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "chapters": 117,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": null,
+    "description": "What are you gonna do after getting reborn? Getting payback from my enemies, of course! Two-timer? Evil wench? I won't let anyone go! Handsome rich guy? I... won't let him go either!\n\n(Source: Webcomics)",
+    "staff": [
+      {
+        "name": {
+          "full": "Chen Xiang",
+          "native": "沉乡"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/miss-scum-slayer-reborn.webp",
+      "banner": "assets/img/banners/miss-scum-slayer-reborn.webp"
+    },
+    "poster": "assets/img/posters/miss-scum-slayer-reborn.webp",
+    "banner": "assets/img/banners/miss-scum-slayer-reborn.webp",
+    "siteUrl": "https://anilist.co/manga/142072"
+  },
+  "the-naive-mr-lu": {
+    "id": 115421,
+    "anilistId": 115421,
+    "title": {
+      "english": "The Naive Mr. Lu",
+      "romaji": "Chunqing Lushao",
+      "native": "纯情陆少"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "chapters": 256,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageScore": 64,
+    "description": "Dressed as a man, she is a lady killer with a perfect smile. Her motto is \"Both women and men will fall for you as long as you work hard\". Women like her. Men are so obsessed with her that they are willing to be un-straight. The uncrowned king Zong Jize sees her as his bro, but tricks her onto his bed!\n\n(Source: WebComics)",
+    "staff": [
+      {
+        "name": {
+          "full": "Ai Lu Mao",
+          "native": "艾鲁猫"
+        }
+      },
+      {
+        "name": {
+          "full": "Bo Yi Dongman",
+          "native": "博易动漫"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/the-naive-mr-lu.webp",
+      "banner": "assets/img/banners/the-naive-mr-lu.webp"
+    },
+    "poster": "assets/img/posters/the-naive-mr-lu.webp",
+    "banner": "assets/img/banners/the-naive-mr-lu.webp",
+    "siteUrl": "https://anilist.co/manga/115421"
+  },
+  "i-became-the-villains-wife": {
+    "id": 134278,
+    "anilistId": 134278,
+    "title": {
+      "english": "Subdue My \"Villain\" Hubby",
+      "romaji": "Wo Cheng Le Fan Pai Da Lao De Xiao Jiao Qi?!",
+      "native": "我成了反派大佬的小娇妻？！"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "chapters": 103,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": null,
+    "description": "The dainty idol Chen Congong unluckily fell into a trap and awoke to a stunning naked man in her bed! Hahaha, I don't mind ending up with such a beautiful man?\nHang on...\nAre you telling me I've switched places with the toxic, evil, and manipulative side character who won’t even survive 20% of the plot?! No, I'm definitely not ready to die!! Watch as I keep on living my ideal life!\n\n(Source: QQ, translated)",
+    "staff": [
+      {
+        "name": {
+          "full": "Da Mo Wang Manhua",
+          "native": "大魔王漫画"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/i-became-the-villains-wife.webp",
+      "banner": "assets/img/banners/i-became-the-villains-wife.webp"
+    },
+    "poster": "assets/img/posters/i-became-the-villains-wife.webp",
+    "banner": "assets/img/banners/i-became-the-villains-wife.webp",
+    "siteUrl": "https://anilist.co/manga/134278"
+  },
+  "this-boy-got-me-falling-hard": {
+    "id": 138692,
+    "anilistId": 138692,
+    "title": {
+      "english": "My Boyfriend Got Me Falling in Love",
+      "romaji": "Nianxia Nanyou Taolu Shen",
+      "native": "年下男友套路深"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "CN",
+    "chapters": 74,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 63,
+    "description": "A hot shot in the entertainment industry with a rookie actor? A greasy CEO and an internet celebrity falling in love? No, this is about the sweet love between a stunning lady boss and a popular up-and-coming actor!\n\n(Source: Bilibili Comics)",
+    "staff": [
+      {
+        "name": {
+          "full": "La Mian",
+          "native": "拉面"
+        }
+      },
+      {
+        "name": {
+          "full": "Man Man Niang",
+          "native": "满满酿"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/this-boy-got-me-falling-hard.webp",
+      "banner": "assets/img/banners/this-boy-got-me-falling-hard.webp"
+    },
+    "poster": "assets/img/posters/this-boy-got-me-falling-hard.webp",
+    "banner": "assets/img/banners/this-boy-got-me-falling-hard.webp",
+    "siteUrl": "https://anilist.co/manga/138692"
+  },
+  "queen-cecias-shorts": {
+    "id": 122976,
+    "anilistId": 122976,
+    "title": {
+      "english": "Empress Cesia Wears Knickerbockers",
+      "romaji": "Yeowang Cecia Banbaji",
+      "native": "여왕 쎄시아의 반바지"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 142,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 75,
+    "description": "With 99 nations conquered and the cup of the ruler in her hands... you'd think she was off to a heroic conquest, but the great queen's Cecia's real concern was her uncomfortable corset?\n\nThe queen of Valencia suffered from complicated laces and heavy corsets, and thus ordered her trusted brother, Duke Ennon Lionheart to bring her a comfortable clothes. Meanwhile, Yuri, a clothing designer was killed in an accident after suffering from a small minimum wage at a medium-sized clothing company in Korea. She was reborn in a renaissance country ruled by Cecia.\n\nYuri vowed to revolutionize the outdated clothing dilemma, so she dressed up as a man and worked as a designer at the top of the continent's highest court to do easy business. But... what happens when Ennon discover's Yuri's true identity...?\n\n(Source: Comico, translated)",
+    "staff": [
+      {
+        "name": {
+          "full": "Saedeul",
+          "native": "새들"
+        }
+      },
+      {
+        "name": {
+          "full": "Jaegyeom",
+          "native": "재겸"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/queen-cecias-shorts.webp",
+      "banner": "assets/img/banners/queen-cecias-shorts.webp"
+    },
+    "poster": "assets/img/posters/queen-cecias-shorts.webp",
+    "banner": "assets/img/banners/queen-cecias-shorts.webp",
+    "siteUrl": "https://anilist.co/manga/122976"
+  },
+  "devil-in-the-suit": {
+    "id": 120604,
+    "anilistId": 120604,
+    "title": {
+      "english": "The Devil in the Suit",
+      "romaji": "Oni Joushi wa Suit wo Nuide mo Kyouboudeshita.",
+      "native": "鬼上司はスーツを脱いでも凶暴でした。"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "JP",
+    "chapters": 21,
+    "volumes": 1,
+    "status": "FINISHED",
+    "genres": [
+      "Ecchi",
+      "Romance"
+    ],
+    "averageScore": null,
+    "description": "\"That's an order. I'm going to make you cum right in front of him.\" My boss is stirring up my inside exactly in front of my sleeping coworker. The sounds of our love-making echo through the room... Oh my God... Is he gonna find out? | The story is about an evil boss, Mr. Kashiwagi who's over-strict to his subordinate Ms. Hidaka, even after someone advises him not to be that evil to her. His answer is: That's exactly how she should be handled.\n\n(Source: Renta!)\n\nNote: Originally released as a long-strip comic, the manga was later compiled into 7 traditional chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Rui Fujimori",
+          "native": "藤森るい"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/devil-in-the-suit.webp",
+      "banner": "assets/img/banners/devil-in-the-suit.webp"
+    },
+    "poster": "assets/img/posters/devil-in-the-suit.webp",
+    "banner": "assets/img/banners/devil-in-the-suit.webp",
+    "siteUrl": "https://anilist.co/manga/120604"
+  },
+  "how-to-hide-the-emperors-child": {
+    "id": 145306,
+    "anilistId": 145306,
+    "title": {
+      "english": "How to Hide the Emperor’s Child",
+      "romaji": "Hwangjeui Aireul Sumgineun Bangbeop",
+      "native": "황제의 아이를 숨기는 방법"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 129,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 71,
+    "description": "Astelle, the empire's one-day empress brought with her a secret when she left the palace after the divorce: she was pregnant with Emperor Kaizen's child. Six years later, Astelle is living a peaceful life in the countryside with their son until the imperial guards come knocking. Kaizen requires Astelle's consent to receive the key territory of Meilen. With the empire still in turmoil from a rebellion, will Astelle be able to hide her son's identity from these threatening forces, and more importantly, from his father, the emperor? \n \n(Source: Tapas)\n\nNote: Includes 16 extra chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Ssal",
+          "native": "쌀"
+        }
+      },
+      {
+        "name": {
+          "full": "Yeon-Seon Lee",
+          "native": "이연선"
+        }
+      },
+      {
+        "name": {
+          "full": "26",
+          "native": null
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/how-to-hide-the-emperors-child.webp",
+      "banner": "assets/img/banners/how-to-hide-the-emperors-child.webp"
+    },
+    "poster": "assets/img/posters/how-to-hide-the-emperors-child.webp",
+    "banner": "assets/img/banners/how-to-hide-the-emperors-child.webp",
+    "siteUrl": "https://anilist.co/manga/145306"
+  },
+  "daytime-star": {
+    "id": 143003,
+    "anilistId": 143003,
+    "title": {
+      "english": "Daytime Star",
+      "romaji": "Naje Tteuneun Byeol",
+      "native": "낮에 뜨는 별"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 77,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 83,
+    "description": "A struggling, no-name actress of seven years, Yu-Ra Hwang. She barely lands a minor role in a movie that’s bound to be a success. A celebrity’s celebrity, Seung-Hyeon Kang, keeps running into Yu-Ra, who always seems to be shedding tears every time he comes across her. As these two reunite in the new movie, “Time,” will Yu-Ra finally seize the moment to make her name known? And will Seung-Hyeon figure out why he can’t get Yu-Ra out of his mind? Only time will tell.\n(Source: WEBTOON, edited)\nNote: Includes five extra chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Godago",
+          "native": "고다고"
+        }
+      },
+      {
+        "name": {
+          "full": "Chae-Eun",
+          "native": "채은"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/daytime-star.webp",
+      "banner": "assets/img/banners/daytime-star.webp"
+    },
+    "poster": "assets/img/posters/daytime-star.webp",
+    "banner": "assets/img/banners/daytime-star.webp",
+    "siteUrl": "https://anilist.co/manga/143003"
+  },
+  "betrayal-of-dignity": {
+    "id": 165257,
+    "anilistId": 165257,
+    "title": {
+      "english": "Betrayal of Dignity",
+      "romaji": "Pumgyeogeul Baebanhanda",
+      "native": "품격을 배반한다"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 81,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 72,
+    "description": "Would you sacrifice your honor to marry a Duke?\n\nIn order to save her family from ruin, Chloe Verdier must find a groom for her sister, Alice. She soon runs into the handsome but arrogant Duke Tisse who makes a proposal that could save them. When Alice flees with a mysterious man, Chloe must seek out the Duke in the biggest gamble of her life.\n\n(Source: Manta)",
+    "staff": [
+      {
+        "name": {
+          "full": "Kimpa",
+          "native": "김빠"
+        }
+      },
+      {
+        "name": {
+          "full": "Bo-Gyeong Gong",
+          "native": "공보경"
+        }
+      },
+      {
+        "name": {
+          "full": "Paran",
+          "native": "파란"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/betrayal-of-dignity.webp",
+      "banner": "assets/img/banners/betrayal-of-dignity.webp"
+    },
+    "poster": "assets/img/posters/betrayal-of-dignity.webp",
+    "banner": "assets/img/banners/betrayal-of-dignity.webp",
+    "siteUrl": "https://anilist.co/manga/165257"
+  },
+  "the-heavenly-demon-lord-who-doesnt-want-to-level-up": {
+    "id": 177134,
+    "anilistId": 177134,
+    "title": {
+      "english": "The Heavenly Demon Doesn't Want to Level Up",
+      "romaji": "Level Up-agi Sileun Cheonmanim",
+      "native": "레벨업하기 싫은 천마님"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 100,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 64,
+    "description": "Goryeo prince Jin Yuseong is a martial arts hero, but after losing his comrades, his loneliness drives him to walk through the palace's magic gate for a fresh start. Arriving in modern-day Seoul, he becomes an unexpected hero in a gate break mission, drawing the attention of the Safe Gate organization, who protect civilians from the gates. Eager to escape recruitment into SG, Yuseong disguises as the high school nephew of a former comrade, but will this be enough to outrun his fighter past?(Source: Tapas)",
+    "staff": [
+      {
+        "name": {
+          "full": "Inkhead",
+          "native": "잉크헤드"
+        }
+      },
+      {
+        "name": {
+          "full": "Prodify",
+          "native": "프로디파이"
+        }
+      },
+      {
+        "name": {
+          "full": "Syainakeu",
+          "native": "샤이나크"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/the-heavenly-demon-lord-who-doesnt-want-to-level-up.webp",
+      "banner": "assets/img/banners/the-heavenly-demon-lord-who-doesnt-want-to-level-up.webp"
+    },
+    "poster": "assets/img/posters/the-heavenly-demon-lord-who-doesnt-want-to-level-up.webp",
+    "banner": "assets/img/banners/the-heavenly-demon-lord-who-doesnt-want-to-level-up.webp",
+    "siteUrl": "https://anilist.co/manga/177134"
+  },
+  "father-i-dont-want-to-get-married": {
+    "id": 130300,
+    "anilistId": 130300,
+    "title": {
+      "english": "Father, I Don't Want this Marriage",
+      "romaji": "Appa, Na I Gyeolhon An Hallaeyo!",
+      "native": "아빠, 나 이 결혼 안 할래요!"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 131,
+    "volumes": 8,
+    "status": "FINISHED",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 77,
+    "description": "Juvelian is a villainess so hated by everyone that even her lover and father leave her to die a pitiful death. Just as she’s about to face her fate, she gets the chance to change the course of her story. In order to avoid the tragic end she knows awaits her, she breaks up with her lover and gives up trying to win her father’s love. Instead, she focuses on using his wealth to enjoy her new life to its fullest! But while she prepares for her extravagant life as a lady, her father begins looking for her new suitor. Afraid that he’ll marry her off to the infamously unpredictable and stormy prince, she lands on a desperate solution: a dating contract. And the best candidate is none other than her father’s student. \n(Source: Tappytoon)\nNote: Includes eight extra chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Hee-Su Hong",
+          "native": "홍희수"
+        }
+      },
+      {
+        "name": {
+          "full": "Roal",
+          "native": null
+        }
+      },
+      {
+        "name": {
+          "full": "Yu-Ri",
+          "native": "유리"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/father-i-dont-want-to-get-married.webp",
+      "banner": "assets/img/banners/father-i-dont-want-to-get-married.webp"
+    },
+    "poster": "assets/img/posters/father-i-dont-want-to-get-married.webp",
+    "banner": "assets/img/banners/father-i-dont-want-to-get-married.webp",
+    "siteUrl": "https://anilist.co/manga/130300"
+  },
+  "the-archvillains-daughter-in-law-has-limited-time": {
+    "id": 145177,
+    "anilistId": 145177,
+    "title": {
+      "english": "The Archvillain's Daughter-In-Law",
+      "romaji": "Sihanburaseo Heungmagui Myeoneuriga Doeeonneunde",
+      "native": "시한부라서 흑막의 며느리가 되었는데"
+    },
+    "format": "MANGA",
+    "countryOfOrigin": "KR",
+    "chapters": 135,
+    "volumes": null,
+    "status": "FINISHED",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 69,
+    "description": "After losing her parents, Laria Losstree is saddled with a mountain of bills. Enter the archvillain, Duke Icardes, who agrees to pay off her debt, but only if she’ll marry his son, Evan. Cool and distant, he’s not exactly ideal husband material, but that’s okay, since Laria plans to secretly stash his money, then bounce! But when the duke starts acting suspiciously nice to her, Laria begins to wonder if he's on to her plan, and a battle of wits between archvillain and daughter-in-law begins!\n\n(Source: Tapas)\nNote: Includes 19 extra chapters.",
+    "staff": [
+      {
+        "name": {
+          "full": "Jjada",
+          "native": "짜다"
+        }
+      },
+      {
+        "name": {
+          "full": "Na-Jin Yu",
+          "native": "유나진"
+        }
+      },
+      {
+        "name": {
+          "full": "Basak",
+          "native": "바삭"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/the-archvillains-daughter-in-law-has-limited-time.webp",
+      "banner": "assets/img/banners/the-archvillains-daughter-in-law-has-limited-time.webp"
+    },
+    "poster": "assets/img/posters/the-archvillains-daughter-in-law-has-limited-time.webp",
+    "banner": "assets/img/banners/the-archvillains-daughter-in-law-has-limited-time.webp",
+    "siteUrl": "https://anilist.co/manga/145177"
+  },
+  "upshot": {
+    "id": "upshot",
+    "anilistId": null,
+    "title": {
+      "english": "Upshot",
+      "romaji": "Upshot (H)",
+      "native": "Upshot"
+    },
+    "format": "MANHWA",
+    "countryOfOrigin": "KR",
+    "chapters": 20,
+    "status": "FINISHED",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": "A romance and slice-of-life miniseries following two awkward characters with connected pasts who end up being forced to live together through random circumstances.",
+    "staff": [
+      {
+        "name": {
+          "full": "Szainx",
+          "native": "Szainx"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/upshot.webp",
+      "banner": "assets/img/banners/upshot.webp"
+    },
+    "poster": "assets/img/posters/upshot.webp",
+    "banner": "assets/img/banners/upshot.webp",
+    "siteUrl": "https://webtoons.com"
+  },
+  "on-top-of-my-ceo": {
+    "id": "on-top-of-my-ceo",
+    "anilistId": null,
+    "title": {
+      "english": "On Top of My CEO",
+      "romaji": "Zongcai Zaixia",
+      "native": "总裁在下"
+    },
+    "format": "MANHUA",
+    "countryOfOrigin": "CN",
+    "chapters": 150,
+    "status": "FINISHED",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "description": "A bold entertainment journalist vows to conquer both the showbiz world and her notoriously cold corporate CEO in this high-energy romance comedy manhua.",
+    "staff": [
+      {
+        "name": {
+          "full": "Tofu Manhua",
+          "native": "豆腐漫画"
+        }
+      }
+    ],
+    "images": {
+      "poster": "assets/img/posters/on-top-of-my-ceo.webp",
+      "banner": "assets/img/banners/on-top-of-my-ceo.webp"
+    },
+    "poster": "assets/img/posters/on-top-of-my-ceo.webp",
+    "banner": "assets/img/banners/on-top-of-my-ceo.webp",
+    "siteUrl": "https://comix.to"
   }
 }
