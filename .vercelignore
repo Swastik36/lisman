@@ -1,7 +1,2 @@
-# Build inputs and local tooling are not part of the published site.
-data/
-scripts/
-README.md
-.env.local
-.env*.local
-.vercel/
+.env*
+.DS_Store

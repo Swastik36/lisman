@@ -9814,6 +9814,6 @@ window.__DATA__ = {
     "no": [],
     "note": ""
   },
-  "builtAt": "2026-11-16T15:30:26.929Z"
+  "builtAt": "2026-11-16T15:45:33.582Z"
 };
 window.MANGA_DATA = window.__DATA__;
