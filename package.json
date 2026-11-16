@@ -1,0 +1,13 @@
+{
+  "name": "manga-shelf",
+  "version": "1.0.0",
+  "description": "High-performance, offline-first, static Manga Watch/Read List web application",
+  "type": "module",
+  "scripts": {
+    "fetch-media": "node scripts/fetch-media.mjs",
+    "build": "node scripts/build-data.mjs",
+    "serve": "python3 -m http.server 8000"
+  },
+  "author": "Swastik",
+  "license": "MIT"
+}

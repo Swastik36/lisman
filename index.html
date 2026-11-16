@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0c10">
+  <meta name="description" content="Swastik's Manga Shelf — high-performance, offline-first reading list for manga, manhwa, and light novels.">
+  <link rel="canonical" href="https://manga-shelf.vercel.app/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Swastik's Manga Shelf">
+  <meta property="og:title" content="Swastik's Manga Shelf">
+  <meta property="og:description" content="Personal reading log tracking chapters read, tankobon volumes, reading speed, and ratings.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Swastik's Manga Shelf">
+  <meta name="twitter:description" content="Personal reading log tracking chapters read, tankobon volumes, reading speed, and ratings.">
+  <title>Swastik's Manga Shelf</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to reading list</a>
+
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-top">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> Personal reading log</p>
+        <p class="hero-file">~/Documents/manga-list.md · <span id="hero-date">Nov 2026</span></p>
+      </div>
+
+      <div class="hero-copy">
+        <h1>Swastik's<br><em>Manga</em> Shelf</h1>
+        <p class="hero-lede" id="profile"></p>
+      </div>
+
+      <div class="hero-stats" id="hero-stats" aria-label="Reading totals"></div>
+
+      <div class="hero-stacked-bar-container" id="hero-stacked-container">
+        <div class="hero-stacked-bar-head">
+          <span>Hours by shelf distribution</span>
+          <span id="hero-stacked-total"></span>
+        </div>
+        <div class="hero-stacked-bar" id="hero-stacked-bar" role="progressbar" aria-label="Reading hours distributed across shelves"></div>
+        <div class="hero-stacked-legend" id="hero-stacked-legend"></div>
+      </div>
+
+      <p class="time-note" id="time-note"></p>
+    </div>
+  </header>
+
+  <nav class="nav" aria-label="List shelves and search">
+    <div class="wrap nav-container">
+      <div class="nav-inner" id="nav"></div>
+      <div class="search-box">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="Search title, author, genre..."
+          aria-label="Filter manga series"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <span class="search-shortcut" id="search-shortcut" aria-hidden="true">/</span>
+        <button type="button" id="search-clear" class="search-clear" aria-label="Clear search filter" hidden>&times;</button>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main" class="wrap">
+    <div class="search-status" id="search-status" hidden>
+      <span id="search-status-text"></span>
+      <button type="button" id="search-reset">Reset search</button>
+    </div>
+
+    <div id="sections"></div>
+
+    <div class="empty-state" id="empty-search" hidden>
+      <h3>No manga found</h3>
+      <p>No titles match your current search query. Try searching by Romaji, English, author, or genre.</p>
+      <button type="button" id="empty-reset-btn" class="modal-btn" style="width: auto; height: auto; border-radius: 999px; padding: 8px 16px; font-size: 12px; margin: 0 auto;">Clear filter</button>
+    </div>
+
+    <section class="info-section" id="totals" aria-labelledby="totals-title">
+      <header class="section-head">
+        <div class="section-kicker">The receipts</div>
+        <div class="section-heading">
+          <h2 id="totals-title">Totals</h2>
+          <p>Everything counted once — chapters, tankobon volumes, and reading hours.</p>
+        </div>
+      </header>
+      <div class="stat-grid" id="total-stats"></div>
+      <div class="bars-panel">
+        <div class="bars-head">
+          <h3>Hours by shelf</h3>
+          <span id="bars-total">~134 hours total</span>
+        </div>
+        <div class="bars" id="bars"></div>
+      </div>
+      <details class="method">
+        <summary>Recount &amp; method notes</summary>
+        <ul id="total-notes"></ul>
+      </details>
+    </section>
+
+    <section class="info-section" id="taste" aria-labelledby="taste-title">
+      <header class="section-head">
+        <div class="section-kicker">The pattern</div>
+        <div class="section-heading">
+          <h2 id="taste-title">Taste Notes</h2>
+          <p>Observed tendencies, not rules — override anytime.</p>
+        </div>
+      </header>
+      <div class="taste-grid">
+        <div class="taste-card taste-yes">
+          <h3>Yes</h3>
+          <ul id="taste-yes"></ul>
+        </div>
+        <div class="taste-card taste-no">
+          <h3>No</h3>
+          <ul id="taste-no"></ul>
+        </div>
+      </div>
+      <p class="taste-note" id="taste-note"></p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <p>Built from <span>~/Documents/manga-list.md</span>. Posters and key art cached locally in WebP.</p>
+      <p>Click any cover for notes, synopsis, author credits, and full art.</p>
+    </div>
+  </footer>
+
+  <!-- Tactile Detail Modal -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1">
+      
+      <div class="modal-controls">
+        <button class="modal-btn" id="modal-prev" type="button" aria-label="Previous series (Left arrow)" title="Previous (Left arrow)">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
+        <button class="modal-btn" id="modal-next" type="button" aria-label="Next series (Right arrow)" title="Next (Right arrow)">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="9 18 15 12 9 6"></polyline></svg>
+        </button>
+        <button class="modal-btn" id="modal-close" type="button" data-close aria-label="Close details (Esc)" title="Close (Esc)">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+
+      <div class="modal-hero" id="modal-hero">
+        <img id="modal-banner" alt="">
+        <div class="modal-hero-empty" id="modal-hero-empty" aria-hidden="true"></div>
+        <div class="modal-hero-fade"></div>
+      </div>
+
+      <div class="modal-content">
+        <div class="modal-intro">
+          <div class="modal-poster" id="modal-poster"></div>
+          <div class="modal-heading">
+            <p class="modal-eyebrow" id="modal-section"></p>
+            <h2 id="modal-title"></h2>
+            <p class="modal-alt" id="modal-alt"></p>
+            <div class="chips" id="modal-chips"></div>
+          </div>
+        </div>
+
+        <div class="modal-note" id="modal-note">
+          <span class="note-label">Your Reading Note &amp; Review</span>
+          <p id="modal-note-text"></p>
+        </div>
+
+        <div class="modal-about" id="modal-about">
+          <h3>Synopsis</h3>
+          <p id="modal-synopsis"></p>
+        </div>
+
+        <div class="modal-gallery" id="modal-gallery">
+          <h3>Artwork &amp; Covers</h3>
+          <div class="gallery-grid" id="gallery-grid"></div>
+        </div>
+
+        <div class="modal-foot" id="modal-foot"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
