@@ -20,16 +20,11 @@
   }
 
   const navLabels = {
-    "currently-reading": "Reading",
-    "perfect-10": "Peak 10",
-    "top-95": "Top 9.5",
-    "loved-9": "Loved 9",
-    "liked-8": "Liked 8",
-    "mid": "Mid",
-    "dropped": "Dropped",
-    "queue": "Queue",
-    "totals": "Totals",
-    "taste": "Taste"
+    completed: "Completed",
+    ongoing: "Ongoing",
+    "to-read": "To Read",
+    totals: "Totals",
+    taste: "Taste"
   };
 
   const allCards = new Map();

@@ -3,64 +3,616 @@
     "title": "Smi's Manga Shelf",
     "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "0 chapters read · 0 volumes across shelves. Awaiting reading list.",
-    "timeNote": "Tracking manga, manhwa, and light novel chapters across personal shelves."
+    "profile": "2,603 chapters read across 39 completed BL manhwa and manhua titles.",
+    "timeNote": "Tracking completed, ongoing, and to-be-read BL manhwa & manhua."
   },
   "sections": [
     {
-      "id": "currently-reading",
-      "title": "Currently Reading",
-      "subtitle": "active serializations, weekly releases, or ongoing arcs",
+      "id": "completed",
+      "title": "Completed BL Manhwa / Manhua",
+      "subtitle": "finished serializations, concluded stories, and side stories",
+      "tag": "39 entries",
+      "accent": "#7ec9a8",
+      "items": [
+        {
+          "id": "c-blood-link",
+          "media": "blood-link",
+          "title": "Blood Link",
+          "alt": "Blood Link",
+          "badge": "COMPLETED",
+          "meta": "135 chapters · Completed",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-taming-the-tiger",
+          "media": "taming-the-tiger",
+          "title": "Taming the Tiger",
+          "alt": "Eyes Clouded by Tiger · Nune Beomi Seorida",
+          "badge": "COMPLETED",
+          "meta": "80 chapters · Completed",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-smyrna-and-capri",
+          "media": "smyrna-and-capri",
+          "title": "Smyrna and Capri",
+          "alt": "Smyrna & Capri",
+          "badge": "COMPLETED",
+          "meta": "70 chapters · Completed",
+          "chaptersRead": 70,
+          "totalChapters": 70,
+          "progress": [
+            70,
+            70
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-roses-and-champagne",
+          "media": "roses-and-champagne",
+          "title": "Roses and Champagne",
+          "alt": "Jangmiwa Champagne",
+          "badge": "COMPLETED",
+          "meta": "90 chapters · Completed",
+          "chaptersRead": 90,
+          "totalChapters": 90,
+          "progress": [
+            90,
+            90
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-kiss-me-liar",
+          "media": "kiss-me-liar",
+          "title": "Kiss Me, Liar",
+          "alt": "Kiss Me, Liar",
+          "badge": "COMPLETED",
+          "meta": "48 chapters · Completed",
+          "chaptersRead": 48,
+          "totalChapters": 48,
+          "progress": [
+            48,
+            48
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-yandere-top-father",
+          "media": "yandere-top-father",
+          "title": "The Yandere Top Father is Being Teased",
+          "alt": "Jipchakgwanggongui Appaga Kkosim Danghaneun Jung",
+          "badge": "COMPLETED",
+          "meta": "73 chapters · Completed",
+          "chaptersRead": 73,
+          "totalChapters": 73,
+          "progress": [
+            73,
+            73
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-forget-my-wife-try-me",
+          "media": "forget-my-wife-try-me",
+          "title": "Forget My Wife, Try Me",
+          "alt": "What About Me, Besides My Wife · Buin Malgo Naneun Eottae",
+          "badge": "COMPLETED",
+          "meta": "7 chapters · Completed",
+          "chaptersRead": 7,
+          "totalChapters": 7,
+          "progress": [
+            7,
+            7
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-non-refundable-alpha",
+          "media": "non-refundable-alpha",
+          "title": "Non-refundable Alpha",
+          "alt": "Hwanbulbulga Alpha",
+          "badge": "COMPLETED",
+          "meta": "7 chapters · Completed",
+          "chaptersRead": 7,
+          "totalChapters": 7,
+          "progress": [
+            7,
+            7
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-no-littering",
+          "media": "no-littering",
+          "title": "No Littering",
+          "alt": "A Killer Love Story · Sseuregi Bangsaenggeumji",
+          "badge": "COMPLETED",
+          "meta": "11 chapters · Completed",
+          "chaptersRead": 11,
+          "totalChapters": 11,
+          "progress": [
+            11,
+            11
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-struggle",
+          "media": "struggle",
+          "title": "Struggle",
+          "alt": "Finding the Way · Buntugi",
+          "badge": "COMPLETED",
+          "meta": "45 chapters · Completed",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-dirty-desire",
+          "media": "dirty-desire",
+          "title": "Dirty Desire",
+          "alt": "Mine To Ruin · Deoreoun Yongmang",
+          "badge": "COMPLETED",
+          "meta": "11 chapters · Completed",
+          "chaptersRead": 11,
+          "totalChapters": 11,
+          "progress": [
+            11,
+            11
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-history-negligence",
+          "media": "love-history-negligence",
+          "title": "Love History Caused by Willful Negligence",
+          "alt": "Mipiljeok Gouie Uihan Yeonaesa",
+          "badge": "COMPLETED",
+          "meta": "108 chapters · Completed",
+          "chaptersRead": 108,
+          "totalChapters": 108,
+          "progress": [
+            108,
+            108
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-on-hold",
+          "media": "love-on-hold",
+          "title": "Love on Hold",
+          "alt": "Moduege Chinjeolhan Neoneun Wae",
+          "badge": "COMPLETED",
+          "meta": "72 chapters · Completed",
+          "chaptersRead": 72,
+          "totalChapters": 72,
+          "progress": [
+            72,
+            72
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-payback",
+          "media": "payback",
+          "title": "Payback",
+          "alt": "Payback",
+          "badge": "COMPLETED",
+          "meta": "110 chapters · Completed",
+          "chaptersRead": 110,
+          "totalChapters": 110,
+          "progress": [
+            110,
+            110
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-deadman-switch",
+          "media": "deadman-switch",
+          "title": "Deadman Switch",
+          "alt": "Dead Man's Switch",
+          "badge": "COMPLETED",
+          "meta": "67 chapters · Completed",
+          "chaptersRead": 67,
+          "totalChapters": 67,
+          "progress": [
+            67,
+            67
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-netkama-punch",
+          "media": "netkama-punch",
+          "title": "Netkama Punch",
+          "alt": "Netkama PUNCH!!!",
+          "badge": "COMPLETED",
+          "meta": "81 chapters · Completed",
+          "chaptersRead": 81,
+          "totalChapters": 81,
+          "progress": [
+            81,
+            81
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-can-a-gangster-leave",
+          "media": "can-a-gangster-leave",
+          "title": "Can a Gangster Leave a Gang?",
+          "alt": "Jopokdo Toesaga Doenayo?",
+          "badge": "COMPLETED",
+          "meta": "4 chapters · Completed",
+          "chaptersRead": 4,
+          "totalChapters": 4,
+          "progress": [
+            4,
+            4
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-raising-beta",
+          "media": "raising-beta",
+          "title": "Raising Beta",
+          "alt": "Beta Gyoyuk · 베타 키우기",
+          "badge": "COMPLETED",
+          "meta": "27 chapters · Completed",
+          "chaptersRead": 27,
+          "totalChapters": 27,
+          "progress": [
+            27,
+            27
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-me-not",
+          "media": "love-me-not",
+          "title": "Love Me Not",
+          "alt": "Even If You Don't Love Me · Nareul Saranghaji Anado",
+          "badge": "COMPLETED",
+          "meta": "119 chapters · Completed",
+          "chaptersRead": 119,
+          "totalChapters": 119,
+          "progress": [
+            119,
+            119
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-bye-bye",
+          "media": "bye-bye",
+          "title": "Bye Bye",
+          "alt": "Bye Bye",
+          "badge": "COMPLETED",
+          "meta": "42 chapters · Completed",
+          "chaptersRead": 42,
+          "totalChapters": 42,
+          "progress": [
+            42,
+            42
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-exotic-love",
+          "media": "exotic-love",
+          "title": "Exotic Love",
+          "alt": "Odd Love · Oesarang",
+          "badge": "COMPLETED",
+          "meta": "74 chapters · Completed",
+          "chaptersRead": 74,
+          "totalChapters": 74,
+          "progress": [
+            74,
+            74
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-origin-of-species",
+          "media": "origin-of-species",
+          "title": "Origin of Species",
+          "alt": "The Origin of Species · Jongui Giwon",
+          "badge": "COMPLETED",
+          "meta": "80 chapters · Completed",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-how-to-snag-an-alpha",
+          "media": "how-to-snag-an-alpha",
+          "title": "How to Snag an Alpha",
+          "alt": "Geu Alpha-reul Kkosineun Beop",
+          "badge": "COMPLETED",
+          "meta": "107 chapters · Completed",
+          "chaptersRead": 107,
+          "totalChapters": 107,
+          "progress": [
+            107,
+            107
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-whos-your-daddy",
+          "media": "whos-your-daddy",
+          "title": "Who's Your Daddy?",
+          "alt": "Who's Your Daddy?",
+          "badge": "COMPLETED",
+          "meta": "50 chapters · Completed",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-my-bias-appeared",
+          "media": "my-bias-appeared",
+          "title": "My Bias Appeared?",
+          "alt": "My Bias Is Showing?! · Choeaega Natanassda?!",
+          "badge": "COMPLETED",
+          "meta": "49 chapters · Completed",
+          "chaptersRead": 49,
+          "totalChapters": 49,
+          "progress": [
+            49,
+            49
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-murderous-lewellyn",
+          "media": "murderous-lewellyn",
+          "title": "Murderous Lewellyn's Candlelit Dinner",
+          "alt": "Sarinma Lewellyn-ssi-ui Nangmanjeogin Jeongchan",
+          "badge": "COMPLETED",
+          "meta": "90 chapters · Completed",
+          "chaptersRead": 90,
+          "totalChapters": 90,
+          "progress": [
+            90,
+            90
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-its-my-baby",
+          "media": "its-my-baby",
+          "title": "It's My Baby",
+          "alt": "He's Definitely My Baby! · Je Aiimnidaman!",
+          "badge": "COMPLETED",
+          "meta": "55 chapters · Completed",
+          "chaptersRead": 55,
+          "totalChapters": 55,
+          "progress": [
+            55,
+            55
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-my-boss-is-a-goddess",
+          "media": "my-boss-is-a-goddess",
+          "title": "My Boss is a Goddess",
+          "alt": "Boss Daren Shi Nüshen",
+          "badge": "COMPLETED",
+          "meta": "77 chapters · Completed",
+          "chaptersRead": 77,
+          "totalChapters": 77,
+          "progress": [
+            77,
+            77
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-low-tide-in-twilight",
+          "media": "low-tide-in-twilight",
+          "title": "Low Tide in Twilight",
+          "alt": "Mulgaui Bam · Night by the Water",
+          "badge": "COMPLETED",
+          "meta": "117 chapters · Completed",
+          "chaptersRead": 117,
+          "totalChapters": 117,
+          "progress": [
+            117,
+            117
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-is-an-illusion",
+          "media": "love-is-an-illusion",
+          "title": "Love is an Illusion",
+          "alt": "Sarangeun Hwansang!",
+          "badge": "COMPLETED",
+          "meta": "116 chapters · Completed",
+          "chaptersRead": 116,
+          "totalChapters": 116,
+          "progress": [
+            116,
+            116
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-is-an-illusion-superstar",
+          "media": "love-is-an-illusion-superstar",
+          "title": "Love is an Illusion - Superstar",
+          "alt": "Sarangeun Hwansang! Superstar",
+          "badge": "COMPLETED",
+          "meta": "51 chapters · Completed",
+          "chaptersRead": 51,
+          "totalChapters": 51,
+          "progress": [
+            51,
+            51
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-is-an-illusion-queen",
+          "media": "love-is-an-illusion-queen",
+          "title": "Love is an Illusion - Queen",
+          "alt": "Sarangeun Hwansang!: The Queen",
+          "badge": "COMPLETED",
+          "meta": "31 chapters · Completed",
+          "chaptersRead": 31,
+          "totalChapters": 31,
+          "progress": [
+            31,
+            31
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-dangerous-convenience-store",
+          "media": "dangerous-convenience-store",
+          "title": "Dangerous Convenience Store",
+          "alt": "The Dangerous Convenience Store · Wiheomhan Pyeonuijeom",
+          "badge": "COMPLETED",
+          "meta": "92 chapters · Completed",
+          "chaptersRead": 92,
+          "totalChapters": 92,
+          "progress": [
+            92,
+            92
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-be-watched-by-my-ex",
+          "media": "be-watched-by-my-ex",
+          "title": "Be Watched by My Ex Again",
+          "alt": "Being Watched by My Ex Again · 再次被前任盯上",
+          "badge": "COMPLETED",
+          "meta": "60 chapters · Completed",
+          "chaptersRead": 60,
+          "totalChapters": 60,
+          "progress": [
+            60,
+            60
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-social-temperature",
+          "media": "social-temperature",
+          "title": "Social Temperature",
+          "alt": "Social Outcast · 社交温度 · Shejiao Wendu",
+          "badge": "COMPLETED",
+          "meta": "75 chapters · Completed",
+          "chaptersRead": 75,
+          "totalChapters": 75,
+          "progress": [
+            75,
+            75
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-love-you-is-my-fault",
+          "media": "love-you-is-my-fault",
+          "title": "Love You is My Fault",
+          "alt": "Wan Wu Sang Zhi · 爱你是我犯的错",
+          "badge": "COMPLETED",
+          "meta": "52 chapters · Completed",
+          "chaptersRead": 52,
+          "totalChapters": 52,
+          "progress": [
+            52,
+            52
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-unilaterally-married",
+          "media": "unilaterally-married",
+          "title": "Unilaterally Married",
+          "alt": "单方面已婚 · Dan Fang Mian Yi Hun",
+          "badge": "COMPLETED",
+          "meta": "65 chapters · Completed",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-princes-first-love",
+          "media": "princes-first-love",
+          "title": "Prince's First Love",
+          "alt": "The Royal Prince's First Love · 皇太子的初恋",
+          "badge": "COMPLETED",
+          "meta": "70 chapters · Completed",
+          "chaptersRead": 70,
+          "totalChapters": 70,
+          "progress": [
+            70,
+            70
+          ],
+          "status": "COMPLETED"
+        },
+        {
+          "id": "c-ex-husband-wants-to-marry-again",
+          "media": "ex-husband-wants-to-marry-again",
+          "title": "Ex Husband Wants to Marry Again",
+          "alt": "前夫又又又想复婚了 · Qianfu You You You Xiang Fuhunle",
+          "badge": "COMPLETED",
+          "meta": "85 chapters · Completed",
+          "chaptersRead": 85,
+          "totalChapters": 85,
+          "progress": [
+            85,
+            85
+          ],
+          "status": "COMPLETED"
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "title": "Ongoing BL Manhwa",
+      "subtitle": "active releases, weekly chapters, and season breaks",
       "tag": "0 entries",
       "accent": "#e7b267",
       "items": []
     },
     {
-      "id": "perfect-10",
-      "title": "Peak / Masterpiece 10",
-      "subtitle": "unrivaled artistic zenith, flawless thematic resonance, and immortal sequential art",
-      "tag": "0 entries",
-      "accent": "#ef9a78",
-      "feature": true,
-      "items": []
-    },
-    {
-      "id": "top-95",
-      "title": "Top Tier 9.5",
-      "subtitle": "exceptional craft, gripping psychological depth, and visual excellence",
-      "tag": "0 entries",
-      "accent": "#b09bea",
-      "items": []
-    },
-    {
-      "id": "loved-9",
-      "title": "Loved 9",
-      "subtitle": "absorbing narratives, memorable character dynamics, and unforgettable themes",
-      "tag": "0 entries",
-      "accent": "#7ec9a8",
-      "items": []
-    },
-    {
-      "id": "liked-8",
-      "title": "Liked 8–8.5",
-      "subtitle": "high entertainment, inventive battles, and great execution",
-      "tag": "0 entries",
-      "accent": "#82bcdc",
-      "items": []
-    },
-    {
-      "id": "mid",
-      "title": "Mid / Dropped",
-      "subtitle": "abandoned or fell flat in execution",
-      "tag": "0 entries",
-      "accent": "#d98080",
-      "muted": true,
-      "items": []
-    },
-    {
-      "id": "queue",
-      "title": "Queue / Plan to Read",
-      "subtitle": "queued on the shelf to start next",
+      "id": "to-read",
+      "title": "To Be Read BL Manhwa",
+      "subtitle": "queued on the shelf, recommended, or planning to read next",
       "tag": "0 entries",
       "accent": "#7fa8d9",
       "items": []
@@ -69,30 +621,61 @@
   "totals": {
     "stats": [
       {
-        "value": "0",
+        "value": "2,603",
         "label": "chapters read"
       },
       {
-        "value": "0",
-        "label": "volumes"
-      },
-      {
-        "value": "0",
+        "value": "39",
         "label": "completed"
       },
       {
         "value": "0",
-        "label": "curated titles"
+        "label": "ongoing"
+      },
+      {
+        "value": "39",
+        "label": "total titles"
       }
     ],
-    "bars": [],
+    "bars": [
+      {
+        "label": "Completed BL Manhwa",
+        "sectionId": "completed",
+        "chapters": 2603,
+        "display": "2,603 ch",
+        "accent": "#7ec9a8"
+      },
+      {
+        "label": "Ongoing BL Manhwa",
+        "sectionId": "ongoing",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#e7b267"
+      },
+      {
+        "label": "To Be Read BL Manhwa",
+        "sectionId": "to-read",
+        "chapters": 0,
+        "display": "0 ch",
+        "accent": "#7fa8d9"
+      }
+    ],
     "notes": [
-      "Awaiting reading list import into data/source.json or data/list.md."
+      "Total chapters read: 2,603 chapters across 39 completed series.",
+      "Shelves structured into Completed BL Manhwa, Ongoing BL Manhwa, and To Be Read BL Manhwa.",
+      "Ongoing and To Be Read sections ready to receive next batches of series."
     ]
   },
   "taste": {
-    "yes": [],
-    "no": [],
-    "note": "Observed tendencies, not rules — override anytime."
+    "yes": [
+      "Well-developed character dynamics, emotional intimacy, and captivating romance.",
+      "Engaging omegaverse, urban drama, psychological depth, and high-tension narrative arcs.",
+      "Auteur art styles, expressive character designs, and polished full-color webtoon scroll format."
+    ],
+    "no": [
+      "Senseless plot contrivances with zero communication or dragged-out misunderstandings.",
+      "Rushed endings without proper emotional resolution."
+    ],
+    "note": "Curated personal reading collection for BL manhwa and manhua."
   }
 }

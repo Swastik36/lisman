@@ -398,5 +398,1330 @@
     "color": "#e4c943",
     "poster": "assets/img/posters/20th-century-boys.webp",
     "banner": "assets/img/banners/20th-century-boys.webp"
+  },
+  "roses-and-champagne": {
+    "id": 139463,
+    "key": "roses-and-champagne",
+    "title": {
+      "romaji": "Jangmiwa Champagne",
+      "english": "Roses and Champagne",
+      "native": "장미와 샴페인"
+    },
+    "description": "Lee-Won, who works as a poor lawyer in Russia, visits City Councilor Zdanov, who is in conflict over Nikolai's commission, and there he meets the mafia boss, Caesar. Behind City Councilor Zdanov, there was a mafia involved. The meeting between the two is extraordinary.<br><br>(Source: Lezhin US, edited)\n<br><br>\n<i>Note: Includes 38 extra chapters.<i>",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 90,
+    "volumes": 7,
+    "status": "FINISHED",
+    "averageScore": 71,
+    "siteUrl": "https://anilist.co/manga/139463",
+    "staff": [
+      {
+        "role": "Original Story",
+        "name": "ZIG"
+      },
+      {
+        "role": "Story & Art",
+        "name": "Ttung-Gae"
+      },
+      {
+        "role": "Lettering (English)",
+        "name": "Yumi Sagara"
+      }
+    ],
+    "color": "#a10000",
+    "poster": "assets/img/posters/roses-and-champagne.webp",
+    "banner": "assets/img/banners/roses-and-champagne.webp"
+  },
+  "blood-link": {
+    "id": 107392,
+    "key": "blood-link",
+    "title": {
+      "romaji": "Blood Link",
+      "english": "Blood Link",
+      "native": "블러드 링크"
+    },
+    "description": "A human, lycan, or a vampire - what am I?! Completely unaware of the existence of these predators, Hwa-Gok goes about his everyday life... That is, until Lee-Bin turns his life upside down by biting him on the neck, setting off a whirlwind of events neither of them could foresee.\n<br><br>\n(Source: Lezhin US)",
+    "genres": [
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "MANGA",
+    "year": 2018,
+    "chapters": 135,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 73,
+    "siteUrl": "https://anilist.co/manga/107392",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Oneulman Saneun Hyeongje"
+      }
+    ],
+    "color": "#ffc993",
+    "poster": "assets/img/posters/blood-link.webp",
+    "banner": "assets/img/banners/blood-link.webp"
+  },
+  "taming-the-tiger": {
+    "id": 136092,
+    "key": "taming-the-tiger",
+    "title": {
+      "romaji": "Nune Beomi Seorida",
+      "english": "Taming the Tiger",
+      "native": "눈에 범이 서리다"
+    },
+    "description": "Ahn Geum-hoo needs a butcher to provide fresh animal blood for his sickly brother’s medicine. While most of the butchers seem reluctant to provide him with what he needs, Nobody is willing to do Geum-hoo’s bidding. With striking features and a strong build, Nobody has quite a reputation amongst the village folk. Yet, Geum-hoo finds a way to tame this wild tiger. First, he gives him a name—Beom. Then, he invites him to a world that this nobody’s never experienced...\n<br><br>\n(Source: Lezhin US)\n<br><br>\n<i>Note: Includes 10 extra chapters.<i>",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 80,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 81,
+    "siteUrl": "https://anilist.co/manga/136092",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Oneulman Saneun Hyeongje"
+      },
+      {
+        "role": "Translator (German)",
+        "name": "Vivien Neumann"
+      }
+    ],
+    "color": "#f12850",
+    "poster": "assets/img/posters/taming-the-tiger.webp",
+    "banner": "assets/img/banners/taming-the-tiger.webp"
+  },
+  "yandere-top-father": {
+    "id": 170485,
+    "key": "yandere-top-father",
+    "title": {
+      "romaji": "Jipchakgwanggongui Appaga Kkosim Danghaneun Jung",
+      "english": null,
+      "native": "집착광공의 아빠가 꼬심 당하는 중"
+    },
+    "description": "<i>“What role did I play in this novel? I want to know what kind of relationship I had with Chae Seung-Yeon.”</i><br><br>\nSeung-Yeon is possessed by the father of the obsessive maniac in the run-down BL novel written by his younger sister. Woo-Jin, the father of the main character, saves Seung-Yeon when he is in danger of death. Seung-Yeon realizes that he and Woo-Jin are in-laws, but as time passes, their relationship somehow flows differently from the original story…<br><br>(Source: Kakaopage, translated)",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2023,
+    "chapters": 73,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 59,
+    "siteUrl": "https://anilist.co/manga/170485",
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Bo-Ra Hye"
+      },
+      {
+        "role": "Original Story",
+        "name": "Rekong"
+      }
+    ],
+    "color": "#e4c95d",
+    "poster": "assets/img/posters/yandere-top-father.webp",
+    "banner": "assets/img/banners/yandere-top-father.webp"
+  },
+  "smyrna-and-capri": {
+    "id": 153726,
+    "key": "smyrna-and-capri",
+    "title": {
+      "romaji": "Smyrna and Capri",
+      "english": "Smyrna and Capri",
+      "native": "스미르나 앤 카프리"
+    },
+    "description": "What if your sworn enemy holds the key to your future? Theo Peserus: an alpha of the mighty Peserus clan, called forth to provide the clan with a child. For a tree to bear fruit, a worthy Capri must be chosen to inseminate him. Seram Marita: a revolutionary army soldier hailing from the Langeres clan. Having escaped from his imprisonment, he now weaves through the maze-like halls of the Peserus castle, looking for a way out. But a tempting odor permeates the air and leads Seram straight to the enemy. Intoxicated on pheromones, the two adversaries are now engaged, not in a battle for their lives, but in a war of lust... What fruit will come to bear when these foes, this Smyrna and this Capri, become entangled in a decadence that they both cannot resist…?\n<br><br>\n(Source: Lezhin US)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2022,
+    "chapters": 70,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 82,
+    "siteUrl": "https://anilist.co/manga/153726",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Oneulman Saneun Hyeongje"
+      }
+    ],
+    "color": "#d6931a",
+    "poster": "assets/img/posters/smyrna-and-capri.webp",
+    "banner": "assets/img/banners/smyrna-and-capri.webp"
+  },
+  "no-littering": {
+    "id": 203173,
+    "key": "no-littering",
+    "title": {
+      "romaji": "Sseuregi Bangsaenggeumji",
+      "english": "A Killer Love Story",
+      "native": "쓰레기 방생금지"
+    },
+    "description": "Kwon Ji-Hyeok, a good-for-nothing who’s lived his whole life relying solely on the handsome face he inherited from his parents, finds himself kicked out of his girlfriend’s house with nowhere else to go. While wandering in search of his next place to freeload, he stumbles upon a mansion with its door left open and decides to sneak in. But inside, he’s greeted by the horrifying sight of a dismembered corpse. Sensing imminent doom, he tries to escape, only for the missing homeowner to appear right then and there.\nOne look is all it takes for Ji-Hyeok to realize it: this guy definitely has the face of a serial killer.\n<Br><Br>\nFor someone who’s always coasted through life on his looks, this is the biggest crisis he’s ever faced. To survive, Ji-Hyeok might have to pull his most desperate move yet, using his charm to seduce this psychopathic killer. Because if he fails, it won’t just be his pride that gets pierced.<br><br>(Source: Lezhin US)<br><br>\n<i>Note: Includes five extra chapters.</i>",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2024,
+    "chapters": 11,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 62,
+    "siteUrl": "https://anilist.co/manga/203173",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Sarangdopi"
+      }
+    ],
+    "color": "#e4c943",
+    "poster": "assets/img/posters/no-littering.webp",
+    "banner": "assets/img/banners/no-littering.webp"
+  },
+  "kiss-me-liar": {
+    "id": 125657,
+    "key": "kiss-me-liar",
+    "title": {
+      "romaji": "Kiss me, Liar",
+      "english": "Kiss me, Liar",
+      "native": "키스 미, 라이어"
+    },
+    "description": "Yeonwoo is a perfectly competent secretary. However, he’s secretly in love with his boss, an extreme alpha named Keith, who has zero interest in male omegas. After a traumatic incident leaves Yeonwoo fearful of all alphas but Keith, he resigns to hide at home. Keith, inconvenienced by the absence of his trusty secretary, takes on the task of helping Yeonwoo recover. Will proximity and pheromones cause love to blossom in this working relationship?\n<br><br>\n(Source: Tapas)",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2019,
+    "chapters": 48,
+    "volumes": 6,
+    "status": "FINISHED",
+    "averageScore": 64,
+    "siteUrl": "https://anilist.co/manga/125657",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Kongbaek"
+      },
+      {
+        "role": "Original Story",
+        "name": "ZIG"
+      }
+    ],
+    "color": "#e4aea1",
+    "poster": "assets/img/posters/kiss-me-liar.webp",
+    "banner": "assets/img/banners/kiss-me-liar.webp"
+  },
+  "struggle": {
+    "id": 124638,
+    "key": "struggle",
+    "title": {
+      "romaji": "Buntugi",
+      "english": "Finding the Way",
+      "native": "분투기"
+    },
+    "description": "What if one little misunderstanding led to the biggest mistake of your life? Lee Kang, dominant alpha and the heir to the Se-ryong foundation, first helps out Yeo Juheon because he feels sorry for him. But the more he gets to know him and the closer they get, Kang starts to fall for the beta for real. They could be a thing, or so Kang thought… His whole world comes crumbling down when he finds out Juheon is already someone else’s. That’s already 7 years ago now, but Kang’s still reeling from the hurt… until he figures out maybe he was in the wrong after all. After years of hurt and misunderstanding, can Kang find his way back to the love of his life?\n<br><br>\n(Source: Lezhin US)",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 45,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 62,
+    "siteUrl": "https://anilist.co/manga/124638",
+    "staff": [
+      {
+        "role": "Art",
+        "name": "Go To"
+      },
+      {
+        "role": "Story",
+        "name": "Ninja Kim"
+      }
+    ],
+    "color": null,
+    "poster": "assets/img/posters/struggle.webp",
+    "banner": "assets/img/banners/struggle.webp"
+  },
+  "non-refundable-alpha": {
+    "id": 168935,
+    "key": "non-refundable-alpha",
+    "title": {
+      "romaji": "Hwanbulbulga Alpha",
+      "english": "Non-refundable Alpha",
+      "native": "환불불가 알파"
+    },
+    "description": "Choi Jae-Won was living a carefree life abroad, surrounded by playful alphas and chasing nothing but pleasure. But when his father lures him back to Korea, he’s blindsided by a wedding—his own. The groom turns out to be Yang Joon-Hee, a childhood friend who’s grown into everything Jae-Won’s ever wanted. And before he can make sense of it, the vows are already said. Joon-Hee insists they once made a promise. Jae-Won doesn’t remember it... but something in him starts to respond anyway.<br><br>(Source: Lezhin US)",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2023,
+    "chapters": 7,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 66,
+    "siteUrl": "https://anilist.co/manga/168935",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Do-Yeon Oh"
+      }
+    ],
+    "color": "#e4bbae",
+    "poster": "assets/img/posters/non-refundable-alpha.webp",
+    "banner": "assets/img/banners/non-refundable-alpha.webp"
+  },
+  "dirty-desire": {
+    "id": 192889,
+    "key": "dirty-desire",
+    "title": {
+      "romaji": "Deoreoun Yongmang",
+      "english": "Mine To Ruin",
+      "native": "더러운 욕망"
+    },
+    "description": "Seong-Yul has spent years pining for his older brother’s friend, Seung-Won. But as a beta from a humble background, he knows a future with the elite alpha is impossible. When a sudden secondary gender manifestation turns Seong-Yul into an omega, his life spirals. Desperate for cash and heartbroken by news of Seung-Won’s engagement, he makes a reckless choice to enter the underground adult industry. His first night is a nightmare...until his very first client turns out to be Seung-Won himself.<br><br>(Source: Lezhin US)<bR><bR>\n<i>Note: Include one extra chapter.</i>",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2025,
+    "chapters": 11,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 52,
+    "siteUrl": "https://anilist.co/manga/192889",
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Jaehae"
+      },
+      {
+        "role": "Original Story",
+        "name": "I-Kkeu Park"
+      },
+      {
+        "role": "Art",
+        "name": "Ttungnichi"
+      }
+    ],
+    "color": "#e4c9ae",
+    "poster": "assets/img/posters/dirty-desire.webp",
+    "banner": "assets/img/banners/dirty-desire.webp"
+  },
+  "forget-my-wife-try-me": {
+    "id": 195944,
+    "key": "forget-my-wife-try-me",
+    "title": {
+      "romaji": "Buin Malgo Naneun Eottae",
+      "english": "Forget My Wife, Try Me",
+      "native": "부인 말고 나는 어때"
+    },
+    "description": "Yin Tae-Rim, CEO of a failing company, turns to Seo Yi-Rin, a powerful executive with a reputation for sponsoring the lovers she takes a liking to. Desperate to save his business, he makes his move, but Yi-Rin already has a new “puppy” to play with and shows no interest. Instead, she passes him along. Not to a colleague. Not to a rival. To her husband.<br><br>\nThat’s how Tae-Rim ends up in front of Jin Ha-Kyung, the cold and unreadable head of a major company. Ha-Kyung listens, watching him squirm through an awkward explanation. Then, with a slow smile tugging at his lips, he makes a proposal that stops Tae-Rim cold.<br><br><i>\n\"Forget my wife. Try me.\"</i><br><br>(Source: Lezhin US)",
+    "genres": [
+      "Comedy"
+    ],
+    "format": "MANGA",
+    "year": 2024,
+    "chapters": 7,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 55,
+    "siteUrl": "https://anilist.co/manga/195944",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Yeon-Ho Baek"
+      }
+    ],
+    "color": "#f1286b",
+    "poster": "assets/img/posters/forget-my-wife-try-me.webp",
+    "banner": "assets/img/banners/forget-my-wife-try-me.webp"
+  },
+  "love-on-hold": {
+    "id": 165677,
+    "key": "love-on-hold",
+    "title": {
+      "romaji": "Moduege Chinjeolhan Neoneun Wae",
+      "english": "Love on Hold",
+      "native": "모두에게 친절한 너는 왜"
+    },
+    "description": "Jeong-Yoon has harbored a crush on Chae-Heon all through high school and now college. Despite ‘fate’ always bringing them together, Jeong-Yoon hasn’t been able to become close to Chae-Heon, much less tell the latter about his feelings. This is mainly because he is convinced that Chae-Heon doesn’t like him. But unbeknownst to Jeong-Yoon, Chae-Heon is not without his own complaints. Will the two resolve ever their misunderstandings and will love, which has been put on hold for so long, finally begin?\n<br><br>\n(Source: Lezhin US)",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2023,
+    "chapters": 72,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 69,
+    "siteUrl": "https://anilist.co/manga/165677",
+    "staff": [
+      {
+        "role": "Original Story",
+        "name": "Mllinkkot"
+      },
+      {
+        "role": "Story & Art",
+        "name": "Dalmeong"
+      }
+    ],
+    "color": "#e4e45d",
+    "poster": "assets/img/posters/love-on-hold.webp",
+    "banner": "assets/img/banners/love-on-hold.webp"
+  },
+  "netkama-punch": {
+    "id": 157073,
+    "key": "netkama-punch",
+    "title": {
+      "romaji": "Netkama Punch!!!",
+      "english": "Netkama PUNCH!!!",
+      "native": "넷카마 펀치!!!"
+    },
+    "description": "Netkama – a male who portrays himself as female online. This is what Kim Seyeong decides to become after reencountering Shin Heejae, the guy who destroyed Seyeong’s gaming career in “Arcadia” a year prior. His plan is to pretend to be a girl in the game, get Heejae to fall for him, and then make the big reveal to everyone so that his archnemesis will also be humiliated out of “Arcadia” forever. But being a dude trying to become the girlfriend of your worst enemy is no easy feat, especially more so when said worst enemy starts to show a bit too much interest in you. Will Seyeong come out the victor of this scheme? Or will he find himself losing to Heejae all over again?\n<br><br>\n(Source: Tappytoon)",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2022,
+    "chapters": 81,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 78,
+    "siteUrl": "https://anilist.co/manga/157073",
+    "staff": [
+      {
+        "role": "Original Story",
+        "name": "CHIMA"
+      },
+      {
+        "role": "Story",
+        "name": "Mijjo"
+      },
+      {
+        "role": "Art",
+        "name": "Gongben"
+      }
+    ],
+    "color": "#50aefe",
+    "poster": "assets/img/posters/netkama-punch.webp",
+    "banner": "assets/img/banners/netkama-punch.webp"
+  },
+  "can-a-gangster-leave": {
+    "id": 142428,
+    "key": "can-a-gangster-leave",
+    "title": {
+      "romaji": "Jopokdo Toesaga Doenayo?",
+      "english": null,
+      "native": "조폭도 퇴사가 되나요?"
+    },
+    "description": "Hyeongwon, a member of the Viper Gang, decides to leave the gang and flee the country. He still has a long way to go, but in a weak moment, he ends up having a one-night stand with  Seongjin... But who is really Seongjin?",
+    "genres": [
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 4,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 64,
+    "siteUrl": "https://anilist.co/manga/142428",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Baekgong"
+      }
+    ],
+    "color": "#e4285d",
+    "poster": "assets/img/posters/can-a-gangster-leave.webp",
+    "banner": "assets/img/banners/can-a-gangster-leave.webp"
+  },
+  "love-history-negligence": {
+    "id": 141433,
+    "key": "love-history-negligence",
+    "title": {
+      "romaji": "Mipiljeok Gouie Uihan Yeonaesa",
+      "english": "Love History Caused by Willful Negligence",
+      "native": "미필적 고의에 의한 연애사"
+    },
+    "description": "Woo-Yeon is one of the brightest rising stars as a nationally beloved actor. Nobody is capable of hating such a talented and sweet man with his blessed looks. Or, well, that’s what people who don’t know the real Woo-Yeon think. In reality, Woo-Yeon is manipulative, cold-hearted, and dangerous. But his new manager In-Seob is his biggest fan, and he’s determined to stick by Woo-Yeon’s side no matter what. Except…remember how nobody in the know is capable of hating Woo-Yeon? Well, In-Seob just might know more than he lets on…\n<br><br>\n(Source: Lezhin US)",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 108,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 68,
+    "siteUrl": "https://anilist.co/manga/141433",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Ginjyo"
+      },
+      {
+        "role": "Original Story",
+        "name": "Ujutokkaeng"
+      }
+    ],
+    "color": null,
+    "poster": "assets/img/posters/love-history-negligence.webp",
+    "banner": "assets/img/banners/love-history-negligence.webp"
+  },
+  "payback": {
+    "id": 136177,
+    "key": "payback",
+    "title": {
+      "romaji": "Payback",
+      "english": "Payback",
+      "native": "Payback"
+    },
+    "description": "While other students were preparing to take their CSAT exams, Lee Yu-Han was swept up in an exhilarating lifestyle of crime and debauchery. While working for a loan shark, karma catches up to him when a family member dies from an act of revenge against him. After years of repenting for his sins and trying to turn over a new leaf, he meets a man in the entertainment industry who gives him the opportunity to get his revenge…\n<br><br>\n(Source: Lezhin US, edited)\n<br><br>\n<i>Note: Includes 15 extra chapters.</i>",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 110,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 79,
+    "siteUrl": "https://anilist.co/manga/136177",
+    "staff": [
+      {
+        "role": "Art",
+        "name": "Fujoking"
+      },
+      {
+        "role": "Original Story",
+        "name": "samk"
+      }
+    ],
+    "color": "#1a436b",
+    "poster": "assets/img/posters/payback.webp",
+    "banner": "assets/img/banners/payback.webp"
+  },
+  "love-me-not": {
+    "id": 126345,
+    "key": "love-me-not",
+    "title": {
+      "romaji": "Nareul Saranghaji Anado",
+      "english": "Love Me Not",
+      "native": "나를 사랑하지 않아도"
+    },
+    "description": "Ji-Wook’s more than used to poverty’s myriad of miseries. All his life he’s had to deal with debt, so he’s used to barely getting by. Now he’s determined to get out of this financial hell hole and when he gets into Dae-Han High school, things look like they’re taking a turn for the better. This prestigious school usually only welcomes the wealthy, but Ji-Wook managed to get in by pure grit. Now there’s nothing stopping him from his hike toward success…or is there? On his first day back to school, he somehow grabs the attention of Ju Seung-Eon, who is everything that Ji-Wook isn’t. Despite their differences, Seung-Eon starts to take a special interest in Ji-Wook. Little do they know what consequences a little curiosity will bring...\n<br><br>\n(Source: Lezhin US)\n<br><br>\n<i>Note: Includes nine extra chapters.<i>",
+    "genres": [
+      "Drama",
+      "Hentai",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 119,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 62,
+    "siteUrl": "https://anilist.co/manga/126345",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Pando"
+      }
+    ],
+    "color": "#a10000",
+    "poster": "assets/img/posters/love-me-not.webp",
+    "banner": "assets/img/banners/love-me-not.webp"
+  },
+  "deadman-switch": {
+    "id": 157250,
+    "key": "deadman-switch",
+    "title": {
+      "romaji": "DEAD MAN SWITCH",
+      "english": "Dead Man's Switch",
+      "native": "데드맨 스위치"
+    },
+    "description": "We’ve all had that nightmare where we’re late for a test, right? How about the one where your teacher’s trying to kill you?! Just me, huh? Guess it’s only fair then that I woke up in an actual zombie-infested nightmare! Almost everyone on my campus has become a creepy, flesh-eating monster! Except for this one ax-wielding badass named Youngwon Ki. He seems perfectly fine with all the chaos. I’m glad he’s here, but I don’t get why he acts like we’re close!\n<br><br>\n(Source: Tapas)",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "MANGA",
+    "year": 2022,
+    "chapters": 67,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 73,
+    "siteUrl": "https://anilist.co/manga/157250",
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Jeong-In"
+      },
+      {
+        "role": "Original Story",
+        "name": "Aije"
+      },
+      {
+        "role": "Art",
+        "name": "Gunbam"
+      }
+    ],
+    "color": "#4378e4",
+    "poster": "assets/img/posters/deadman-switch.webp",
+    "banner": "assets/img/banners/deadman-switch.webp"
+  },
+  "bye-bye": {
+    "id": 143976,
+    "key": "bye-bye",
+    "title": {
+      "romaji": "Bye Bye",
+      "english": "Bye Bye",
+      "native": "바이바이"
+    },
+    "description": "Seoyu is an extremely recessive omega who can’t believe his luck when he meets an extremely dominant alpha named Sunghoon Choi. This alpha has it all, even if he might be a gang leader! Seoyu intends to enjoy their fling for as long as he can because that’s all it is, right? Sunghoon can’t possibly be interested in being Seoyu’s boyfriend. However, he does boyfriend-like things, like having meals delivered to Seoyu’s apartment and constantly worrying that Seoyu is too cold… but surely this is just temporary!\n<br><br>\n(Source: Tapas)\n\nNote: Chapter count includes 3 side story.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 42,
+    "volumes": 4,
+    "status": "FINISHED",
+    "averageScore": 68,
+    "siteUrl": "https://anilist.co/manga/143976",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Ppukon Kang"
+      },
+      {
+        "role": "Original Story",
+        "name": "Sorim"
+      }
+    ],
+    "color": "#43aef1",
+    "poster": "assets/img/posters/bye-bye.webp",
+    "banner": "assets/img/banners/bye-bye.webp"
+  },
+  "exotic-love": {
+    "id": 129256,
+    "key": "exotic-love",
+    "title": {
+      "romaji": "Oesarang",
+      "english": "Odd Love",
+      "native": "외사랑"
+    },
+    "description": "On the outside, Jeong Jaehan has it all. He’s a third-generation chaebol in charge of an incredibly successful film production company. Despite all the power and money, he’s been secretly suffering from a torturous ailment. After years of drugs and alcohol abuse, he’s lost the ability to orgasm- or so he thought. When someone from his past unexpectedly shows up, Jaehan experiences pleasure that he thought he’d lost forever...<br>\n<br>\n(Source: Lezhin US)<br><bR>\n<i>Note: Includes 29 extra chapters.</i>",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 74,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 69,
+    "siteUrl": "https://anilist.co/manga/129256",
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Gyong Lee"
+      },
+      {
+        "role": "Art",
+        "name": "Geumgi"
+      },
+      {
+        "role": "Original Story",
+        "name": "TR"
+      }
+    ],
+    "color": "#e42835",
+    "poster": "assets/img/posters/exotic-love.webp",
+    "banner": "assets/img/banners/exotic-love.webp"
+  },
+  "origin-of-species": {
+    "id": 133972,
+    "key": "origin-of-species",
+    "title": {
+      "romaji": "Jongui Giwon",
+      "english": "The Origin of Species",
+      "native": "종의 기원"
+    },
+    "description": "Lee Young-Jin has never been like other Omegas. Rather than being physically superior to humans like the rest of his species, Young-Jin is a gifted hacker. But when his talent leads him to an ill-fated heist mission, Young-Jin finds himself trapped in the clutches of a powerful Alpha businessman named Seo Seung-Hyun. Now, he must do anything he can to guarantee safety for himself and his colleagues - even if it means sleeping with the enemy. But as the business deal between Young-Jin and Seung-Hyun quickly becomes more personal, will they be able to see eye to eye? Or will their differences be too much to overcome? Set in the Omegaverse.\n<br><br>\n(Source: Tappytoon)",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 80,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 70,
+    "siteUrl": "https://anilist.co/manga/133972",
+    "staff": [
+      {
+        "role": "Original Story",
+        "name": "Harusari"
+      },
+      {
+        "role": "Art",
+        "name": "AshK"
+      },
+      {
+        "role": "Story",
+        "name": "Tanseom"
+      }
+    ],
+    "color": null,
+    "poster": "assets/img/posters/origin-of-species.webp",
+    "banner": "assets/img/banners/origin-of-species.webp"
+  },
+  "whos-your-daddy": {
+    "id": 126995,
+    "key": "whos-your-daddy",
+    "title": {
+      "romaji": "Who's Your Daddy?",
+      "english": "Who's Your Daddy?",
+      "native": "후즈 유어 대디"
+    },
+    "description": "Louis, a captain of the 2nd Guard, has been on the hunt. A hunt for the serial killer who has thrown the capital into a state of chaos for months. Having run himself ragged attempting to come up with a suspect, he ends up in the hospital. What was thought to be a simple case of being overworked, has turned out to be something else. Louis is four months pregnant. But that could only happen if a man is impregnated by one with strong royal ancestry. Four months ago was the date of the imperial ball and also when these murders started happening… But Louis can’t remember a thing… Who is behind these murders and just who the hell did he spend the night with the night of the ball?<br>\n<br>\n(Source: Lezhin US)<br>\n<br>\n<i>Note: Includes three extras. </i>",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 50,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 64,
+    "siteUrl": "https://anilist.co/manga/126995",
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Anco"
+      },
+      {
+        "role": "Art",
+        "name": "Gyeongta"
+      },
+      {
+        "role": "Original Story",
+        "name": "Jang-Ryang"
+      }
+    ],
+    "color": "#c9d6f1",
+    "poster": "assets/img/posters/whos-your-daddy.webp",
+    "banner": "assets/img/banners/whos-your-daddy.webp"
+  },
+  "murderous-lewellyn": {
+    "id": 130158,
+    "key": "murderous-lewellyn",
+    "title": {
+      "romaji": "Sarinma Lewellyn-ssi-ui Nangmanjeogin Jeongchan",
+      "english": "Murderous Lewellyn’s Candlelit Dinner",
+      "native": "살인마 르웰린 씨의 낭만적인 정찬"
+    },
+    "description": "Life on rough, rundown Ira Street isn’t easy at the best of times, but a recent string of murders has left the residents traumatized. Not Shavonne, though. He’s too busy trying to get by to worry about some murderer. However, that all changes when he meets his peculiar new neighbor. Lewellyn is young and handsome, yet eccentric. Why does he spend all day peeling onions on the apartment stairs until his eyes are red-raw? And what’s with those filthy black fingernails? Nevertheless, Shavonne reluctantly accepts a dinner invitation at his neighbor’s place. But after he makes a gruesome discovery during the candlelit meal, suddenly the murders feel a lot closer to home…<br>\n<br>\n(Source: Lezhin US)",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 90,
+    "volumes": 6,
+    "status": "FINISHED",
+    "averageScore": 82,
+    "siteUrl": "https://anilist.co/manga/130158",
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Ri-Teo Yeong"
+      },
+      {
+        "role": "Art",
+        "name": "Muk-Bu"
+      },
+      {
+        "role": "Original Story",
+        "name": "Sumnagi"
+      }
+    ],
+    "color": "#e4c9a1",
+    "poster": "assets/img/posters/murderous-lewellyn.webp",
+    "banner": "assets/img/banners/murderous-lewellyn.webp"
+  },
+  "my-bias-appeared": {
+    "id": 130308,
+    "key": "my-bias-appeared",
+    "title": {
+      "romaji": "Choeaega Natanassda?!",
+      "english": "My Bias Is Showing?!",
+      "native": "최애가 나타났다?!"
+    },
+    "description": "When high school teacher Na Aejoon shows up for work on an ordinary day, he never expects to bump into his favorite celebrity in the hallway. But when his school becomes a filming location for a show starring Choi Siyeol, his bias from the idol group A-One, that’s exactly what happens! <br><br>\n\nIf that’s not enough to give a fanboy a heart attack, Siyeol takes an interest in Aejoon and asks him to join the show as his “co-teacher.” Desperate to keep his fan life a secret, Aejoon is forced to put his acting skills to the test, and not just on camera. But as he spends more and more time with Siyeol, the deception becomes harder to keep up. Not to mention, he might not be the only one keeping secrets…<br><br>\n\n(Source: Tappytoon)<br><br>\n\n<i>Note: Includes nine extra chapters.</i>",
+    "genres": [
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 49,
+    "volumes": 3,
+    "status": "FINISHED",
+    "averageScore": 71,
+    "siteUrl": "https://anilist.co/manga/130308",
+    "staff": [
+      {
+        "role": "Art",
+        "name": "cereal"
+      },
+      {
+        "role": "Story",
+        "name": "Nabit"
+      }
+    ],
+    "color": "#f1505d",
+    "poster": "assets/img/posters/my-bias-appeared.webp",
+    "banner": "assets/img/banners/my-bias-appeared.webp"
+  },
+  "my-boss-is-a-goddess": {
+    "id": 137627,
+    "key": "my-boss-is-a-goddess",
+    "title": {
+      "romaji": "Boss Daren Shi Nüshen",
+      "english": "My Boss Is A Goddess",
+      "native": "boss大人是女神"
+    },
+    "description": "In this world, there are many special, unique, and glamorous people. However, there are those who play a supporting role in these relationship dynamics. Lin Mu was one such character, where he played the role of a wallflower.\n<br><br>\n(Source: Bilibili Comics)",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 77,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 63,
+    "siteUrl": "https://anilist.co/manga/137627",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "A Tai"
+      }
+    ],
+    "color": "#aec9e4",
+    "poster": "assets/img/posters/my-boss-is-a-goddess.webp",
+    "banner": "assets/img/banners/my-boss-is-a-goddess.webp"
+  },
+  "its-my-baby": {
+    "id": 143484,
+    "key": "its-my-baby",
+    "title": {
+      "romaji": "Je Aiimnidaman!",
+      "english": null,
+      "native": "제 아이입니다만!"
+    },
+    "description": "'I had a one night stand with the first person I met, but I got pregnant.'<br><br>\n\nEverytime this omega had a boyfriend, the relationship always ended up with him being cheated on and in the end, he even got crushed by hearing the words, “You are an omega, but I’m not attracted to you\". Hae-Su, who was chugging alcohol while raging to his friend who comforted him, got wasted on a drug, and to make matters worse, his heat cycle started. Alpha Do-Geon, who was in the same pub, notices Hae-Su's condition and tries to help Haesoo and get him away from the place but he is seduced by Hae-Su's pheromones and they end up spending the night together.<br><br>\n\nIn the morning, as soon as he wakes up, Hae-Su hastily ran away and finds out that he is pregnant 4 weeks later. Hae-Su decides to raise and make the child happy by himself. After 4 years, Hae-Su and Do-Geon are reunited...<br><br>\n\n<i>Note: Chapter count includes 3 extras.</i>\n<br><br>\n(Source: Lezhin, translated)",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 55,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 61,
+    "siteUrl": "https://anilist.co/manga/143484",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Sa-Gong"
+      }
+    ],
+    "color": "#e4bb35",
+    "poster": "assets/img/posters/its-my-baby.webp",
+    "banner": "assets/img/banners/its-my-baby.webp"
+  },
+  "love-is-an-illusion": {
+    "id": 101172,
+    "key": "love-is-an-illusion",
+    "title": {
+      "romaji": "Sarangeun Hwansang!",
+      "english": "Love is an Illusion!",
+      "native": "사랑은 환상!"
+    },
+    "description": "Hye-sung spent his entire life believing he was an alpha, the jackpot of the genetic lottery. His world is flipped upside down when he learns that he isn’t a dominating alpha, but a submissive omega instead! His frustration redlines whenever he crosses paths with the handsome Dojin, a true alpha. Supposedly, Dojin can’t stand omegas, but sparks fly when he butts heads with Hye-sung, and their explosive arguments set off an unexpectedly spicy relationship. Is their sizzling chemistry truly just pheromones?!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2018,
+    "chapters": 116,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 70,
+    "siteUrl": "https://anilist.co/manga/101172",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Fargo"
+      },
+      {
+        "role": "Lettering (English)",
+        "name": "Karis Page"
+      }
+    ],
+    "color": "#e45d50",
+    "poster": "assets/img/posters/love-is-an-illusion.webp",
+    "banner": "assets/img/banners/love-is-an-illusion.webp"
+  },
+  "how-to-snag-an-alpha": {
+    "id": 124613,
+    "key": "how-to-snag-an-alpha",
+    "title": {
+      "romaji": "Geu Alpha-reul Kkosineun Beop",
+      "english": "How to Snag an Alpha",
+      "native": "그 알파를 꼬시는 법"
+    },
+    "description": "Born into a family of handsome, wealthy, and well-educated alphas, Woo-Young always expected he would be the same. Come to find out, he was the odd man out as the lone omega, and not even a perfect one at that. To compensate, Woo-Young goes through life pretending to be a beta, but when he begins to experience hormone imbalances, irregular heat cycles, and a distinct lack of control over his impulses, his lowly recessive omega status becomes impossible to ignore. That’s when he meets Kyung-Ju, a powerful and successful dominant alpha who can turn him into a true omega, and also makes him weak in the knees. Now, Woo-Young must use every tactic there is to court Kyung-Ju and make the brooding alpha his very own.\n<br><br>\n(Source: Tappytoon)<br>\n<br>\n<i>Note: Chapter count includes a prologue and 23 side story chapters. </i>",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2019,
+    "chapters": 107,
+    "volumes": 6,
+    "status": "FINISHED",
+    "averageScore": 73,
+    "siteUrl": "https://anilist.co/manga/124613",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Nyeong Kim"
+      }
+    ],
+    "color": "#e44343",
+    "poster": "assets/img/posters/how-to-snag-an-alpha.webp",
+    "banner": "assets/img/banners/how-to-snag-an-alpha.webp"
+  },
+  "low-tide-in-twilight": {
+    "id": 144209,
+    "key": "low-tide-in-twilight",
+    "title": {
+      "romaji": "Mulgaui Bam",
+      "english": "Low Tide in Twilight",
+      "native": "물가의 밤"
+    },
+    "description": "Kim Eui-Hyun is an omega at his limit. After living a life of troubles and owing an unpayable debt that isn’t even his, he’s ready to give up. Hoping to spare himself and his little brother a life of more pain, he opts to walk into the cold depths of the sea. With his escape in reach, it seems like everything will be over soon—until someone catches him. Yeo Tae-Ju, a sadistic alpha who seems to take pleasure in other’s pain, gives Eui-Hyun the choice to pay off his debt with his body but when the omega refuses, Tae-Ju proves he has no other choice.\n<br><br>\nStill desperate for escape, Eui-Hyun tries to plan his next attempt while doing restaurant work. But with a sorry paycheck that barely covers his interests and his little brother to care for, will Eui-Hyun have to sell his body after all just to survive? And, is it even worth surviving if this is what his life is meant to be?\n<br><br>\n(Source: Seven Seas Entertainment, edited)<br><br>\n<i>Note: Includes 17 extra chapters.</i>",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2021,
+    "chapters": 117,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 76,
+    "siteUrl": "https://anilist.co/manga/144209",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Euja"
+      }
+    ],
+    "color": "#78281a",
+    "poster": "assets/img/posters/low-tide-in-twilight.webp",
+    "banner": "assets/img/banners/low-tide-in-twilight.webp"
+  },
+  "love-is-an-illusion-superstar": {
+    "id": 186312,
+    "key": "love-is-an-illusion-superstar",
+    "title": {
+      "romaji": "Sarangeun Hwansang! Superstar",
+      "english": "Love is an Illusion! - Superstar",
+      "native": "사랑은 환상! ~슈퍼스타~"
+    },
+    "description": "Byul, a popular alpha and a first-year high school student, once trained to be an idol but has since left that path to attend school like a regular kid. His world takes an unexpected turn with the sudden birth of a younger sibling, introducing new challenges to his daily routine. Byul's childhood friend, Siwoo, has secretly harbored feelings for him for years. However, both being alphas, Siwoo has kept his emotions hidden.\n<BR><BR>\nAs the two navigate their growing closeness after a period of time apart, Byul faces adolescence head-on, grappling with friendships, family relationships, and his sense of identity. Along the way, he rediscovers his passion for music and begins to mature through these transformative experiences.\n<BR><BR>\n(Source: Lezhin US)<br><br>\n<i>Note: Includes 13 extra chapters.<i>",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2024,
+    "chapters": 51,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 71,
+    "siteUrl": "https://anilist.co/manga/186312",
+    "staff": [
+      {
+        "role": "",
+        "name": "Fargo"
+      }
+    ],
+    "color": "#a1fe50",
+    "poster": "assets/img/posters/love-is-an-illusion-superstar.webp",
+    "banner": "assets/img/banners/love-is-an-illusion-superstar.webp"
+  },
+  "dangerous-convenience-store": {
+    "id": 128642,
+    "key": "dangerous-convenience-store",
+    "title": {
+      "romaji": "Wiheomhan Pyeonuijeom",
+      "english": "The Dangerous Convenience Store",
+      "native": "위험한 편의점"
+    },
+    "description": "Danger can come in many shapes and sizes, and the kind of danger Yeo Eui-joon has to deal with comes in the form of buff, brash, belligerent gangsters. He knew that working nights in a shifty neighborhood wouldn’t be the safest job on the planet, but reality sure does exceed expectations. However, Eui-joon’s days as the neighborhood punching bag look like they’re coming to a close when Gunwoo steps into this small store. Gunwoo, gruff as he is, genuinely seems to care about Eui-joon’s well-being, so it doesn't take long for Eui-joon to fall for this charismatic giant.\n<br><br>\n(Source: Lezhin US)<br>\n<br>\n<i>Note: Includes four extra chapters.</i>",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2020,
+    "chapters": 92,
+    "volumes": 6,
+    "status": "FINISHED",
+    "averageScore": 80,
+    "siteUrl": "https://anilist.co/manga/128642",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "945"
+      },
+      {
+        "role": "Lettering (English)",
+        "name": "Karis Page"
+      },
+      {
+        "role": "Translator (English)",
+        "name": "Su-a Min"
+      }
+    ],
+    "color": "#e4bba1",
+    "poster": "assets/img/posters/dangerous-convenience-store.webp",
+    "banner": "assets/img/banners/dangerous-convenience-store.webp"
+  },
+  "love-is-an-illusion-queen": {
+    "id": 145171,
+    "key": "love-is-an-illusion-queen",
+    "title": {
+      "romaji": "Sarangeun Hwansang!: The Queen",
+      "english": "Love is an Illusion! - The Queen",
+      "native": "사랑은 환상! ~더 퀸~"
+    },
+    "description": "Free-spirited Alpha Do-Gyeom has finally decided to put her promiscuous past behind her and settle down. As a 39-year-old woman, however, her options for marriage partners have dwindled. Luckily she has her beleaguered Omega secretary, Seung-Ah, to do most of the work of finding a suitable match for her. It shouldn’t be a problem, even if Seung-Ah and Do-Gyeom have harbored secret feelings for each other for years. In fact, arranging Do-Gyeom’s marriage may just be the catalyst for the two of them to finally admit their attraction…unless another Alpha gets in the way!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Note: Chapter count includes 4 side stories.</i>",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "MANGA",
+    "year": 2022,
+    "chapters": 31,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": 57,
+    "siteUrl": "https://anilist.co/manga/145171",
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Fargo"
+      }
+    ],
+    "color": "#ffd6bb",
+    "poster": "assets/img/posters/love-is-an-illusion-queen.webp",
+    "banner": "assets/img/banners/love-is-an-illusion-queen.webp"
+  },
+  "raising-beta": {
+    "id": null,
+    "key": "raising-beta",
+    "title": {
+      "romaji": "Baeta Kiugi",
+      "english": "Raising Beta",
+      "native": "베타 키우기"
+    },
+    "description": "A fragile Beta finds himself surrounded by dominant Alphas in an unpredictable omegaverse relationship.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Omegaverse",
+      "BL"
+    ],
+    "format": "MANHWA",
+    "year": 2022,
+    "chapters": 27,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Shin Yuri"
+      }
+    ],
+    "color": "#e7b267",
+    "poster": null,
+    "banner": null
+  },
+  "be-watched-by-my-ex": {
+    "id": null,
+    "key": "be-watched-by-my-ex",
+    "title": {
+      "romaji": "Zai Ci Bei Qian Ren Ding Shang",
+      "english": "Be Watched by My Ex Again",
+      "native": "再次被前任盯上"
+    },
+    "description": "An unexpected reunion between former lovers sparks lingering obsessions and complicated feelings in this high-tension urban romance.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "BL"
+    ],
+    "format": "MANHUA",
+    "year": 2022,
+    "chapters": 60,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Jumaogege"
+      },
+      {
+        "role": "Art",
+        "name": "Shu Dan Wang"
+      }
+    ],
+    "color": "#b09bea",
+    "poster": null,
+    "banner": null
+  },
+  "social-temperature": {
+    "id": null,
+    "key": "social-temperature",
+    "title": {
+      "romaji": "Shejiao Wendu",
+      "english": "Social Temperature",
+      "native": "社交温度"
+    },
+    "description": "Song Yuanxun, an indifferent student with biases, accidentally matches on a dating app with Fang Zhaomu—someone he heavily disliked. To his surprise, Fang Zhaomu turns out to be unexpectedly endearing and persistent.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "School Life",
+      "BL"
+    ],
+    "format": "MANHUA",
+    "year": 2021,
+    "chapters": 75,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Original Story",
+        "name": "Ka Bi Qiu (卡比丘)"
+      },
+      {
+        "role": "Art",
+        "name": "Fairy Club"
+      }
+    ],
+    "color": "#7ec9a8",
+    "poster": null,
+    "banner": null
+  },
+  "love-you-is-my-fault": {
+    "id": null,
+    "key": "love-you-is-my-fault",
+    "title": {
+      "romaji": "Wan Wu Sang Zhi",
+      "english": "Love You Is My Fault",
+      "native": "爱你是我犯的错"
+    },
+    "description": "A heart-wrenching webtoon tracing the painful sacrifices and deep emotional entanglements between two people bound by destiny.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "BL"
+    ],
+    "format": "MANHUA",
+    "year": 2022,
+    "chapters": 52,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Changpei Literature"
+      }
+    ],
+    "color": "#82bcdc",
+    "poster": null,
+    "banner": null
+  },
+  "unilaterally-married": {
+    "id": null,
+    "key": "unilaterally-married",
+    "title": {
+      "romaji": "Dan Fang Mian Yi Hun",
+      "english": "Unilaterally Married",
+      "native": "单方面已婚"
+    },
+    "description": "Popular celebrity Li Yuze shocks the entire entertainment world by announcing right after his debut that he is already married to a man, sparking an intense mystery around his spouse He Zhiqiu.",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Showbiz",
+      "BL"
+    ],
+    "format": "MANHUA",
+    "year": 2023,
+    "chapters": 65,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Changpei"
+      }
+    ],
+    "color": "#ef9a78",
+    "poster": null,
+    "banner": null
+  },
+  "princes-first-love": {
+    "id": null,
+    "key": "princes-first-love",
+    "title": {
+      "romaji": "Huang Taizi De Chulian",
+      "english": "The Royal Prince's First Love",
+      "native": "皇太子的初恋"
+    },
+    "description": "Flawless royal prince Nazaire transfers schools to consolidate his status, only to clash fiercely with campus tyrant Cassius Li—leading to unexpected dreams and conflicting desires.",
+    "genres": [
+      "Romance",
+      "School Life",
+      "Fantasy",
+      "BL"
+    ],
+    "format": "MANHUA",
+    "year": 2022,
+    "chapters": 70,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Story",
+        "name": "Nan Zha Zha Zi"
+      },
+      {
+        "role": "Art",
+        "name": "Hao Le Shen Wen Hua"
+      }
+    ],
+    "color": "#e7b267",
+    "poster": null,
+    "banner": null
+  },
+  "ex-husband-wants-to-marry-again": {
+    "id": null,
+    "key": "ex-husband-wants-to-marry-again",
+    "title": {
+      "romaji": "Qianfu You You You Xiang Fuhunle",
+      "english": "Ex-Husband Wants to Marry Again",
+      "native": "前夫又又又想复婚了"
+    },
+    "description": "After enduring heartbreak and a messy divorce, Ji Ran leaves his regretful ex-husband Ye Linghan, who desperately chases after him to win back his heart.",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Omegaverse",
+      "BL"
+    ],
+    "format": "MANHUA",
+    "year": 2023,
+    "chapters": 85,
+    "volumes": null,
+    "status": "FINISHED",
+    "averageScore": null,
+    "siteUrl": null,
+    "staff": [
+      {
+        "role": "Story & Art",
+        "name": "Kuaikan Manhua"
+      }
+    ],
+    "color": "#d98080",
+    "poster": null,
+    "banner": null
   }
 }
