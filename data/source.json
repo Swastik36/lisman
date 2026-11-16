@@ -3,7 +3,7 @@
     "title": "Smi's Manga Shelf",
     "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "11,351 chapters read across 130 completed manhwa and manhua titles.",
+    "profile": "15,150 chapters read across 181 manhwa and manhua titles across 4 active shelves.",
     "timeNote": "Tracking completed, ongoing, and to-be-read BL, BG, and normal manhwa / manhua."
   },
   "sections": [
@@ -1673,10 +1673,491 @@
       "title": "Ongoing BL Manhwa",
       "category": "bl",
       "badge": "ONGOING",
-      "tag": "0 entries",
+      "tag": "32 entries",
       "accent": "#7ec9a8",
-      "subtitle": "actively releasing and updating Boys' Love manhwa titles",
-      "items": []
+      "subtitle": "actively releasing and updating Boys' Love manhwa & manhua titles",
+      "items": [
+        {
+          "id": "obl-the-tale-of-the-villain",
+          "media": "the-tale-of-the-villain",
+          "title": "The Tale of the Villain",
+          "alt": "Tale of a Villain · 악인담",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-killer-whale-protocol",
+          "media": "killer-whale-protocol",
+          "title": "Killer Whale Protocol",
+          "alt": "사건명 해일: 범고래 사냥법",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-dramatic-signal",
+          "media": "dramatic-signal",
+          "title": "Dramatic Signal",
+          "alt": "드라마틱 시그널",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-spring-finally-arrived",
+          "media": "spring-finally-arrived",
+          "title": "Spring Finally Arrived",
+          "alt": "Spring, at Last · 끝내 닿는 봄",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-the-thread-never-burned",
+          "media": "the-thread-never-burned",
+          "title": "The Thread Never Burned",
+          "alt": "신결",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-the-snake-that-swallowed-the-pomegranate",
+          "media": "the-snake-that-swallowed-the-pomegranate",
+          "title": "The Snake That Swallowed the Pomegranate",
+          "alt": "Devoured: The Serpent and the Pomegranate · 석류를 삼킨 뱀",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-desire-me-if-you-can",
+          "media": "desire-me-if-you-can",
+          "title": "Desire Me If You Can",
+          "alt": "디자이어 미 이프 유 캔",
+          "badge": "ONGOING",
+          "meta": "25 chapters · Ongoing",
+          "chaptersRead": 25,
+          "totalChapters": 25,
+          "progress": [
+            25,
+            25
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-office-hero",
+          "media": "office-hero",
+          "title": "Office Hero",
+          "alt": "신입사원 용사님",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-passion",
+          "media": "passion",
+          "title": "Passion",
+          "alt": "패션",
+          "badge": "ONGOING",
+          "meta": "31 chapters · Ongoing",
+          "chaptersRead": 31,
+          "totalChapters": 31,
+          "progress": [
+            31,
+            31
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-forced-strategy-10-percent",
+          "media": "forced-strategy-10-percent",
+          "title": "Forced Strategy 10%",
+          "alt": "Forced Strategy 100% · 被迫攻略100%",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-gig-of-the-day",
+          "media": "gig-of-the-day",
+          "title": "Gig of the Day",
+          "alt": "일간알바",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-he-hasnt-faded",
+          "media": "he-hasnt-faded",
+          "title": "He Hasn't Faded",
+          "alt": "Ain't Faded · 他未曾坠落",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-ring-dong-ye",
+          "media": "ring-dong-ye",
+          "title": "Ring",
+          "alt": "Ring - The History of Two Angels · 灵环",
+          "badge": "ONGOING",
+          "meta": "60 chapters · Ongoing",
+          "chaptersRead": 60,
+          "totalChapters": 60,
+          "progress": [
+            60,
+            60
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-regas",
+          "media": "regas",
+          "title": "Regas",
+          "alt": "레가스",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-heatstroke",
+          "media": "heatstroke",
+          "title": "Heatstroke",
+          "alt": "열사병",
+          "badge": "ONGOING",
+          "meta": "10 chapters · Ongoing",
+          "chaptersRead": 10,
+          "totalChapters": 10,
+          "progress": [
+            10,
+            10
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-quo-vadis-domine",
+          "media": "quo-vadis-domine",
+          "title": "Quo Vadis, Domine?",
+          "alt": "쿼바디스 도미네",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-wild-beast-warning",
+          "media": "wild-beast-warning",
+          "title": "Wild Beast Warning",
+          "alt": "He Might Bite! · 맹수주의보",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-degenerate-grain-in-ear",
+          "media": "degenerate-grain-in-ear",
+          "title": "Degenerate/ Grain in Ear",
+          "alt": "Degenerate · 망종",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-nerd-project",
+          "media": "nerd-project",
+          "title": "Nerd Project",
+          "alt": "Nerd Project · 너드 프로젝트",
+          "badge": "ONGOING",
+          "meta": "63 chapters · Ongoing",
+          "chaptersRead": 63,
+          "totalChapters": 63,
+          "progress": [
+            63,
+            63
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-kiss-me-if-you-can",
+          "media": "kiss-me-if-you-can",
+          "title": "Kiss Me If You Can",
+          "alt": "키스 미 이프 유 캔",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-kiss-the-scumbag",
+          "media": "kiss-the-scumbag",
+          "title": "Kiss the Scumbag",
+          "alt": "키스 더 스컴백",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-painter-of-the-night",
+          "media": "painter-of-the-night",
+          "title": "Painter of the Night",
+          "alt": "야화첩",
+          "badge": "ONGOING",
+          "meta": "130 chapters · Ongoing",
+          "chaptersRead": 130,
+          "totalChapters": 130,
+          "progress": [
+            130,
+            130
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-cherry-cake",
+          "media": "cherry-cake",
+          "title": "Cherry Cake",
+          "alt": "체리케이크",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-flower-of-aloshya",
+          "media": "flower-of-aloshya",
+          "title": "Flower of Aloshya",
+          "alt": "The Search for Alosha · 알로샤의 꽃",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-16647",
+          "media": "16647",
+          "title": "16647",
+          "alt": "16647",
+          "badge": "ONGOING",
+          "meta": "25 chapters · Ongoing",
+          "chaptersRead": 25,
+          "totalChapters": 25,
+          "progress": [
+            25,
+            25
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-the-story-of-kaii-and-asuka",
+          "media": "the-story-of-kaii-and-asuka",
+          "title": "The Story of Kaii and Asuka",
+          "alt": "Kaii-san to Asuka-kun no Ohanashi · 怪異さんと飛鳥くんのお話",
+          "badge": "ONGOING",
+          "meta": "20 chapters · Ongoing",
+          "chaptersRead": 20,
+          "totalChapters": 20,
+          "progress": [
+            20,
+            20
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-i-like-your-pheromones",
+          "media": "i-like-your-pheromones",
+          "title": "I Like Your Pheromones",
+          "alt": "我喜欢你的信息素",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-a-proper-relationship",
+          "media": "a-proper-relationship",
+          "title": "A Proper Relationship",
+          "alt": "The Right Relationship · 올바른 연애",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-living-life-over",
+          "media": "living-life-over",
+          "title": "Living Life Over",
+          "alt": "See You Never · 来生不见",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-my-hot-friend-is-glowing",
+          "media": "my-hot-friend-is-glowing",
+          "title": "My Hot Friend Is Glowing",
+          "alt": "내 친구는 잘생겼다",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-morbid-attachment",
+          "media": "morbid-attachment",
+          "title": "Morbid Attachment",
+          "alt": "诟病",
+          "badge": "ONGOING",
+          "meta": "106 chapters · Ongoing",
+          "chaptersRead": 106,
+          "totalChapters": 106,
+          "progress": [
+            106,
+            106
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "obl-the-spooky-love-tale-of-gongchan-seol",
+          "media": "the-spooky-love-tale-of-gongchan-seol",
+          "title": "The Spooky Love Tale of Gongchan Seol",
+          "alt": "설공찬전",
+          "badge": "ONGOING",
+          "meta": "65 chapters · Ongoing",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "RELEASING"
+        }
+      ]
     },
     {
       "id": "toread-bl",
@@ -2034,10 +2515,296 @@
       "title": "Ongoing Manhua",
       "category": "normal",
       "badge": "ONGOING",
-      "tag": "0 entries",
+      "tag": "19 entries",
       "accent": "#94d2bd",
-      "subtitle": "ongoing and actively releasing general manhua titles",
-      "items": []
+      "subtitle": "actively serializing and ongoing general manhwa & manhua series",
+      "items": [
+        {
+          "id": "onorm-how-to-reject-my-obsessive-ex-husband",
+          "media": "how-to-reject-my-obsessive-ex-husband",
+          "title": "How to Reject My Obsessive Ex Husband",
+          "alt": "How To Reject My Obsessive Ex-Husband · 전남편의 집착을 거절하는 법",
+          "badge": "ONGOING",
+          "meta": "100 chapters · Ongoing",
+          "chaptersRead": 100,
+          "totalChapters": 100,
+          "progress": [
+            100,
+            100
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-i-wont-accept-your-regrets",
+          "media": "i-wont-accept-your-regrets",
+          "title": "I Won't Accept Your Regrets",
+          "alt": "Your Regrets Mean Nothing to Me · 당신의 후회는 받지 않겠습니다",
+          "badge": "ONGOING",
+          "meta": "135 chapters · Ongoing",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-the-constellations-are-my-disciples",
+          "media": "the-constellations-are-my-disciples",
+          "title": "The Constellations Are My Disciples",
+          "alt": "성좌들이 내 제자",
+          "badge": "ONGOING",
+          "meta": "65 chapters · Ongoing",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-the-real-daughter-is-back",
+          "media": "the-real-daughter-is-back",
+          "title": "The Real Daughter Is Back",
+          "alt": "Revenge on the Real One · 진짜 딸이 돌아왔다",
+          "badge": "ONGOING",
+          "meta": "162 chapters · Ongoing",
+          "chaptersRead": 162,
+          "totalChapters": 162,
+          "progress": [
+            162,
+            162
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-death-is-the-only-ending-for-the-villainess",
+          "media": "death-is-the-only-ending-for-the-villainess",
+          "title": "Death Is the Only Ending for the Villainess",
+          "alt": "Villains Are Destined to Die · 악역의 엔딩은 죽음뿐",
+          "badge": "ONGOING",
+          "meta": "160 chapters · Ongoing",
+          "chaptersRead": 160,
+          "totalChapters": 160,
+          "progress": [
+            160,
+            160
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-forgotten-field",
+          "media": "forgotten-field",
+          "title": "Forgotten Field",
+          "alt": "잊혀진 들판",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-i-was-the-real-owner-of-elheim",
+          "media": "i-was-the-real-owner-of-elheim",
+          "title": "I Was the Real Owner of Elheim",
+          "alt": "I Was the Real Head of the House · 진짜 가주는 나였다",
+          "badge": "ONGOING",
+          "meta": "84 chapters · Ongoing",
+          "chaptersRead": 84,
+          "totalChapters": 84,
+          "progress": [
+            84,
+            84
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-i-was-rocked-to-the-worlds-richest-man-in-matchmaking-office",
+          "media": "i-was-rocked-to-the-worlds-richest-man-in-matchmaking-office",
+          "title": "I Was Rocked to the World's Richest Man in Matchmaking Office",
+          "alt": "我在婚配所摇到了世界首富",
+          "badge": "ONGOING",
+          "meta": "249 chapters · Ongoing",
+          "chaptersRead": 249,
+          "totalChapters": 249,
+          "progress": [
+            249,
+            249
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-perfect-secret-love",
+          "media": "perfect-secret-love",
+          "title": "Perfect Secret Love",
+          "alt": "恰似寒光遇骄阳",
+          "badge": "ONGOING",
+          "meta": "592 chapters · Ongoing",
+          "chaptersRead": 592,
+          "totalChapters": 592,
+          "progress": [
+            592,
+            592
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-revenge-of-iron-blooded-sword-hound",
+          "media": "revenge-of-iron-blooded-sword-hound",
+          "title": "Revenge of Iron Blooded Sword Hound",
+          "alt": "Revenge of the Baskerville Bloodhound · 철혈검가 사냥개의 회귀",
+          "badge": "ONGOING",
+          "meta": "80 chapters · Ongoing",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-everyone-was-obsessed-with-me-after-i-became-the-youngest-princesss-favourite",
+          "media": "everyone-was-obsessed-with-me-after-i-became-the-youngest-princesss-favourite",
+          "title": "Everyone Was Obsessed with Me After I Became the Youngest Princess's Favourite",
+          "alt": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-no-place-for-fake-princess",
+          "media": "no-place-for-fake-princess",
+          "title": "No Place for Fake Princess",
+          "alt": "Philomel the Fake · 가짜를 위한 장소는 없다",
+          "badge": "ONGOING",
+          "meta": "75 chapters · Ongoing",
+          "chaptersRead": 75,
+          "totalChapters": 75,
+          "progress": [
+            75,
+            75
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-father-i-wont-do-anything",
+          "media": "father-i-wont-do-anything",
+          "title": "Father, I Won't Do Anything",
+          "alt": "아빠, 저는 아무것도 하지 않을게요",
+          "badge": "ONGOING",
+          "meta": "1 chapters · Ongoing",
+          "chaptersRead": 1,
+          "totalChapters": 1,
+          "progress": [
+            1,
+            1
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-the-villainess-who-reverses-the-hourglass",
+          "media": "the-villainess-who-reverses-the-hourglass",
+          "title": "The Villainess Who Reverses the Hourglass",
+          "alt": "The Villainess Turns the Hourglass · 악녀는 모래시계를 되돌린다",
+          "badge": "ONGOING",
+          "meta": "125 chapters · Ongoing",
+          "chaptersRead": 125,
+          "totalChapters": 125,
+          "progress": [
+            125,
+            125
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-do-snake-eat-flowers",
+          "media": "do-snake-eat-flowers",
+          "title": "Do Snake Eat Flowers?",
+          "alt": "The Snake and the Flower · 뱀은 꽃을 먹는가",
+          "badge": "ONGOING",
+          "meta": "86 chapters · Ongoing",
+          "chaptersRead": 86,
+          "totalChapters": 86,
+          "progress": [
+            86,
+            86
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-study-group",
+          "media": "study-group",
+          "title": "Study Group",
+          "alt": "스터디그룹",
+          "badge": "ONGOING",
+          "meta": "240 chapters · Ongoing",
+          "chaptersRead": 240,
+          "totalChapters": 240,
+          "progress": [
+            240,
+            240
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-killer-peter",
+          "media": "killer-peter",
+          "title": "Killer Peter",
+          "alt": "킬러 배드로",
+          "badge": "ONGOING",
+          "meta": "60 chapters · Ongoing",
+          "chaptersRead": 60,
+          "totalChapters": 60,
+          "progress": [
+            60,
+            60
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-academys-genius-swordmaster",
+          "media": "academys-genius-swordmaster",
+          "title": "Academy's Genius Swordmaster",
+          "alt": "The Academy's Genius Swordsman · 아카데미의 천재칼잡이",
+          "badge": "ONGOING",
+          "meta": "55 chapters · Ongoing",
+          "chaptersRead": 55,
+          "totalChapters": 55,
+          "progress": [
+            55,
+            55
+          ],
+          "status": "RELEASING"
+        },
+        {
+          "id": "onorm-the-archmages-restaurant",
+          "media": "the-archmages-restaurant",
+          "title": "The Archmage's Restaurant",
+          "alt": "The Archmage’s Restaurant · 어느 마법사의 식당",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING"
+        }
+      ]
     },
     {
       "id": "toread-normal",

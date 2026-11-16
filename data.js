@@ -4,12 +4,12 @@ window.__DATA__ = {
     "title": "Smi's Manga Shelf",
     "owner": "Smi",
     "date": "Nov 2026",
-    "profile": "11,351 chapters read across 130 completed manhwa and manhua titles.",
+    "profile": "15,150 chapters read across 181 manhwa and manhua titles across 4 active shelves.",
     "timeNote": "Tracking completed, ongoing, and to-be-read BL, BG, and normal manhwa / manhua."
   },
   "heroStats": [
     {
-      "value": "11,351",
+      "value": "15,150",
       "label": "chapters read"
     },
     {
@@ -17,11 +17,11 @@ window.__DATA__ = {
       "label": "volumes"
     },
     {
-      "value": "130",
+      "value": "181",
       "label": "completed"
     },
     {
-      "value": "130",
+      "value": "181",
       "label": "titles"
     }
   ],
@@ -5741,10 +5741,1684 @@ window.__DATA__ = {
       "title": "Ongoing BL Manhwa",
       "category": "bl",
       "badge": "ONGOING",
-      "tag": "0 entries",
+      "tag": "32 entries",
       "accent": "#7ec9a8",
-      "subtitle": "actively releasing and updating Boys' Love manhwa titles",
-      "items": []
+      "subtitle": "actively releasing and updating Boys' Love manhwa & manhua titles",
+      "items": [
+        {
+          "id": "obl-the-tale-of-the-villain",
+          "media": "the-tale-of-the-villain",
+          "title": "The Tale of the Villain",
+          "alt": "Tale of a Villain · 악인담",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "At Dowonhyang, a secret luxury retreat for the elite, Cheong-Woo works as a server when he catches the eye of Won-Jae, a man of power and influence who always gets what he wants. Unfortunately for Cheong-Woo, what Won-Jae wants is him. Though Cheong-Woo tries to escape, the trap has already been set, pulling him into a dark, consuming spiral of desire and obsession he never saw coming.",
+          "image": "assets/img/posters/the-tale-of-the-villain.webp",
+          "banner": "assets/img/banners/the-tale-of-the-villain.webp",
+          "emptyMark": "TT",
+          "emptyLabel": "The Tale of the Villain",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 40,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Psychological"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Sagwassi",
+                  "native": "사과씨"
+                }
+              },
+              {
+                "name": {
+                  "full": "Dangmil",
+                  "native": "당밀"
+                }
+              }
+            ],
+            "romaji": "Agindam",
+            "english": "Tale of a Villain",
+            "native": "악인담",
+            "siteUrl": "https://anilist.co/manga/196411"
+          }
+        },
+        {
+          "id": "obl-killer-whale-protocol",
+          "media": "killer-whale-protocol",
+          "title": "Killer Whale Protocol",
+          "alt": "사건명 해일: 범고래 사냥법",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "As an intern at a marine research institute, Hyo-Seo finds himself overworked and overlooked. He's given the job no one else wants: caring for the aggressive orca everyone else fears. Hyo-Seo finds quiet comfort in the beast's presence, but after he starts speaking to it, strange things begin happening at the facility...",
+          "image": "assets/img/posters/killer-whale-protocol.webp",
+          "banner": "assets/img/banners/killer-whale-protocol.webp",
+          "emptyMark": "KW",
+          "emptyLabel": "Killer Whale Protocol",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 35,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural",
+              "Thriller"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Gongsam",
+                  "native": "공삼"
+                }
+              }
+            ],
+            "romaji": "Sageonmyeong Haeil: Beomgorae Sanyangbeop",
+            "english": "Killer Whale Protocol",
+            "native": "사건명 해일: 범고래 사냥법",
+            "siteUrl": "https://anilist.co/manga/196409"
+          }
+        },
+        {
+          "id": "obl-dramatic-signal",
+          "media": "dramatic-signal",
+          "title": "Dramatic Signal",
+          "alt": "드라마틱 시그널",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "When Jin-Woo Do's idol career fails, he pivots into acting. His first big break? A drama with top stars Se-Hyun Lim and I-Tae Choi. Jin-Woo is admired by I-Tae, but is awkward around Se-Hyun due to their shared past and the secrets that lie there. Can these three keep the drama from spilling off-screen?",
+          "image": "assets/img/posters/dramatic-signal.webp",
+          "banner": "assets/img/banners/dramatic-signal.webp",
+          "emptyMark": "DS",
+          "emptyLabel": "Dramatic Signal",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 45,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Oyo",
+                  "native": "오요"
+                }
+              }
+            ],
+            "romaji": "Dramatic Signal",
+            "english": "Dramatic Signal",
+            "native": "드라마틱 시그널",
+            "siteUrl": "https://anilist.co/manga/169444"
+          }
+        },
+        {
+          "id": "obl-spring-finally-arrived",
+          "media": "spring-finally-arrived",
+          "title": "Spring Finally Arrived",
+          "alt": "Spring, at Last · 끝내 닿는 봄",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "One winter evening brings Se-Won and college senior Woo-Hyun together — and a night of passion leaves the omega with a secret child. Six years later, Woo-Hyun returns, unaware of the truth. As old feelings resurface, Se-Won must protect his son... even if it means pushing away the alpha he never forgot.",
+          "image": "assets/img/posters/spring-finally-arrived.webp",
+          "banner": "assets/img/banners/spring-finally-arrived.webp",
+          "emptyMark": "SF",
+          "emptyLabel": "Spring Finally Arrived",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Cheoljungi",
+                  "native": "철중이"
+                }
+              },
+              {
+                "name": {
+                  "full": "Pageon",
+                  "native": "파건"
+                }
+              },
+              {
+                "name": {
+                  "full": "Pia A",
+                  "native": "피아A"
+                }
+              }
+            ],
+            "romaji": "Kkeunnae Danneun Bom",
+            "english": "Spring, at Last",
+            "native": "끝내 닿는 봄",
+            "siteUrl": "https://anilist.co/manga/200824"
+          }
+        },
+        {
+          "id": "obl-the-thread-never-burned",
+          "media": "the-thread-never-burned",
+          "title": "The Thread Never Burned",
+          "alt": "신결",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Jo Ji-Won is just your average college kid—well, except for the part where he scams people by pretending to be a shaman. Thanks to his silver tongue and some lucky guesses, he gains a reputation as a spiritual powerhouse. Unfortunately, word gets around… all the way to Jeong Tae-Oh, a superstitious mob boss who actually believes in that stuff. When Tae-Oh shows up demanding help, Ji-Won pretends to take the job—then immediately tries to run. Too bad he gets caught.\n\nHe wakes up in a sketchy motel, staring death in the face. Thinking fast, Ji-Won blurts out: \"Y-you need me as a talisman! To stay alive, we have to… sleep together!\"\nHe’s sure a tough guy like Tae-Oh would bolt at the thought. Instead, Tae-Oh just shrugs.\n\"You should’ve said so earlier. Is once enough or do we need more?\"",
+          "image": "assets/img/posters/the-thread-never-burned.webp",
+          "banner": "assets/img/banners/the-thread-never-burned.webp",
+          "emptyMark": "TT",
+          "emptyLabel": "The Thread Never Burned",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 67,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Monnyang",
+                  "native": "몬냥"
+                }
+              },
+              {
+                "name": {
+                  "full": "Gun-Maen",
+                  "native": "굿맨"
+                }
+              }
+            ],
+            "romaji": "Singyeol",
+            "english": "The Thread Never Burned",
+            "native": "신결",
+            "siteUrl": "https://anilist.co/manga/195530"
+          }
+        },
+        {
+          "id": "obl-the-snake-that-swallowed-the-pomegranate",
+          "media": "the-snake-that-swallowed-the-pomegranate",
+          "title": "The Snake That Swallowed the Pomegranate",
+          "alt": "Devoured: The Serpent and the Pomegranate · 석류를 삼킨 뱀",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "In the blessed land of Trastasa, Na-in is the cherished companion of Amon, the great and omnipotent god. Though Amon treats him with apparent tenderness, his cruel and indifferent ways haunt Na-in's every moment. When a striking servant with rare pink features called Rhan Gwen arrives, Na-in expects to lose Amon's attention. Instead, he discovers something unsettling… Rhan Gwen shows no interest in Amon, only in Na-in himself. As this mysterious yet beautiful man offers the gentle understanding Na-in has always craved, he faces an impossible choice between familiar darkness and uncertain warmth.",
+          "image": "assets/img/posters/the-snake-that-swallowed-the-pomegranate.webp",
+          "banner": "assets/img/banners/the-snake-that-swallowed-the-pomegranate.webp",
+          "emptyMark": "TS",
+          "emptyLabel": "The Snake That Swallowed the Pomegranate",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 35,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 63,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Eunren",
+                  "native": "은렌"
+                }
+              },
+              {
+                "name": {
+                  "full": "CarpeXD",
+                  "native": "카르페XD"
+                }
+              },
+              {
+                "name": {
+                  "full": "Gamjajeon",
+                  "native": "감자전"
+                }
+              }
+            ],
+            "romaji": "Seongnyureul Samkin Baem",
+            "english": "Devoured: The Serpent and the Pomegranate",
+            "native": "석류를 삼킨 뱀",
+            "siteUrl": "https://anilist.co/manga/195659"
+          }
+        },
+        {
+          "id": "obl-desire-me-if-you-can",
+          "media": "desire-me-if-you-can",
+          "title": "Desire Me If You Can",
+          "alt": "디자이어 미 이프 유 캔",
+          "badge": "ONGOING",
+          "meta": "25 chapters · Ongoing",
+          "chaptersRead": 25,
+          "totalChapters": 25,
+          "progress": [
+            25,
+            25
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Dominant Alpha Grayson Miller has one life goal: finding his one true love, and upon seeking a fortune teller’s advice, he is promised two things: they work with fire, and they have a chest that is out of this world. When Grayson passes out at a fiery accident from a dominant Omega’s pheromones, he wakes up convinced he’s finally found the one. Taking a job at the local fire station to track down his mystery match, his first day sparks an immediate, explosive rivalry with a fellow firefighter named Dane. Has Grayson met his match, or is he about to get burned?",
+          "image": "assets/img/posters/desire-me-if-you-can.webp",
+          "banner": "assets/img/banners/desire-me-if-you-can.webp",
+          "emptyMark": "DM",
+          "emptyLabel": "Desire Me If You Can",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 25,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 63,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "ZIG",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "YP",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Ondo",
+                  "native": "온도"
+                }
+              }
+            ],
+            "romaji": "Desire Me If You Can",
+            "english": "Desire Me If You Can",
+            "native": "디자이어 미 이프 유 캔",
+            "siteUrl": "https://anilist.co/manga/212389"
+          }
+        },
+        {
+          "id": "obl-office-hero",
+          "media": "office-hero",
+          "title": "Office Hero",
+          "alt": "신입사원 용사님",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Reborn in South Korea in 2026, former hero Yong Sa-Jun struggles to adjust to a world without magic or dragons. After surviving a brutal job market, he finally lands a position at a major corporation - only to come face to face with the man he once loved in his past life: the prince he failed to save. Haunted by memories of tragedy, Sa-Jun tries to keep his distance. But when he discovers that the prince has been cursed, Sa-Jun resolves to save him once again…even if it means juggling deadlines and danger alike!",
+          "image": "assets/img/posters/office-hero.webp",
+          "banner": "assets/img/banners/office-hero.webp",
+          "emptyMark": "OH",
+          "emptyLabel": "Office Hero",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 63,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "LattePanda",
+                  "native": "라떼팬더"
+                }
+              }
+            ],
+            "romaji": "Sinipsawon Yongsanim",
+            "english": "Office Hero",
+            "native": "신입사원 용사님",
+            "siteUrl": "https://anilist.co/manga/206800"
+          }
+        },
+        {
+          "id": "obl-passion",
+          "media": "passion",
+          "title": "Passion",
+          "alt": "패션",
+          "badge": "ONGOING",
+          "meta": "31 chapters · Ongoing",
+          "chaptersRead": 31,
+          "totalChapters": 31,
+          "progress": [
+            31,
+            31
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Struggling photographer Kim Soo-hyun is drowning his sorrows in the park one night when he finds himself confronted by a beautiful young woman insisting he allow her to model for him. Eventually, he accepts, but before long he comes to discover the dark secrets she is hiding…",
+          "image": "assets/img/posters/passion.webp",
+          "banner": "assets/img/banners/passion.webp",
+          "emptyMark": "PA",
+          "emptyLabel": "Passion",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 31,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Mystery",
+              "Psychological"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Seon Lee",
+                  "native": "이선"
+                }
+              }
+            ],
+            "romaji": "Passion",
+            "english": "Passion",
+            "native": "패션",
+            "siteUrl": "https://anilist.co/manga/125902"
+          }
+        },
+        {
+          "id": "obl-forced-strategy-10-percent",
+          "media": "forced-strategy-10-percent",
+          "title": "Forced Strategy 10%",
+          "alt": "Forced Strategy 100% · 被迫攻略100%",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "An unexpected accident binds two high school rivals into a comedic dating game where one becomes the player and the other becomes the game system.",
+          "image": "assets/img/posters/forced-strategy-10-percent.webp",
+          "banner": "assets/img/banners/forced-strategy-10-percent.webp",
+          "emptyMark": "FS",
+          "emptyLabel": "Forced Strategy 10%",
+          "info": {
+            "format": "MANHUA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Boys' Love",
+              "Comedy",
+              "School",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "MangaDex",
+                  "native": "漫画"
+                }
+              }
+            ],
+            "romaji": "Beipo Gonglve 100%",
+            "english": "Forced Strategy 100%",
+            "native": "被迫攻略100%",
+            "siteUrl": "https://mangadex.org"
+          }
+        },
+        {
+          "id": "obl-gig-of-the-day",
+          "media": "gig-of-the-day",
+          "title": "Gig of the Day",
+          "alt": "일간알바",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Joo Yeomin, a diligent college student burdened by an unjust debt, struggles to make ends meet through multiple odd jobs while evading persistent loan sharks. His wary nature around strangers is understandable, especially when he keeps encountering one in particular! Enter Yeon Tae-seo, the privileged chaebol heir. To Tae-seo, Yeomin appears at the most inconvenient times, sparking suspicions of paparazzi. Determined to put Yeomin in his place, Tae-seo initiates a high-stakes game of cat and mouse. But what happens when both players risk getting caught in their own trap?",
+          "image": "assets/img/posters/gig-of-the-day.webp",
+          "banner": "assets/img/banners/gig-of-the-day.webp",
+          "emptyMark": "GO",
+          "emptyLabel": "Gig of the Day",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 35,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 66,
+            "genres": [
+              "Romance",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Danbi",
+                  "native": "단비"
+                }
+              }
+            ],
+            "romaji": "Ilganalba",
+            "english": "Gig of the Day",
+            "native": "일간알바",
+            "siteUrl": "https://anilist.co/manga/174004"
+          }
+        },
+        {
+          "id": "obl-he-hasnt-faded",
+          "media": "he-hasnt-faded",
+          "title": "He Hasn't Faded",
+          "alt": "Ain't Faded · 他未曾坠落",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Top actor Lu Yi and rising star Gu Jiangyuan were known as rivals, until Lu Yi died in an accident. He wakes up 3 years later in the body of a shamed idol. Reborn, he discovers a shocking truth, Gu Jiangyuan has been in love with him all along.\nBut things take a darker turn when ghost-hunting missions begin, and Gu Jiangyuan, cloaked in shadows and secrets, might be the one keeping him alive… or trying to end him for good.",
+          "image": "assets/img/posters/he-hasnt-faded.webp",
+          "banner": "assets/img/banners/he-hasnt-faded.webp",
+          "emptyMark": "HH",
+          "emptyLabel": "He Hasn't Faded",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 40,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Luxi",
+                  "native": "鹿溪"
+                }
+              }
+            ],
+            "romaji": "Ta Weiceng Zhuiluo",
+            "english": "Ain't Faded",
+            "native": "他未曾坠落",
+            "siteUrl": "https://anilist.co/manga/191679"
+          }
+        },
+        {
+          "id": "obl-ring-dong-ye",
+          "media": "ring-dong-ye",
+          "title": "Ring",
+          "alt": "Ring - The History of Two Angels · 灵环",
+          "badge": "ONGOING",
+          "meta": "60 chapters · Ongoing",
+          "chaptersRead": 60,
+          "totalChapters": 60,
+          "progress": [
+            60,
+            60
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "A sweet and comedic supernatural web-manhua by Dong Ye centering around a curious little cherub named Taiya and a majestic archangel named Ring.",
+          "image": "assets/img/posters/ring-dong-ye.webp",
+          "banner": "assets/img/banners/ring-dong-ye.webp",
+          "emptyMark": "RI",
+          "emptyLabel": "Ring",
+          "info": {
+            "format": "MANHUA",
+            "year": null,
+            "chapters": 60,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Boys' Love",
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Dong Ye",
+                  "native": "東爺"
+                }
+              }
+            ],
+            "romaji": "Ling Huan",
+            "english": "Ring - The History of Two Angels",
+            "native": "灵环",
+            "siteUrl": "https://mangadex.org"
+          }
+        },
+        {
+          "id": "obl-regas",
+          "media": "regas",
+          "title": "Regas",
+          "alt": "레가스",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Blessed with dragon's blood, a royal is born every generation with the creature's legendary might. But with that might comes a dragon's cruelty. Thus, each royal is assigned a Regas, a dragon tamer capable of quelling the raging hearts of those with the dragon's blessing. Abel has been trained in the ways of a Regas, but can he withstand the lunacy of the latest blessed prince?",
+          "image": "assets/img/posters/regas.webp",
+          "banner": "assets/img/banners/regas.webp",
+          "emptyMark": "RE",
+          "emptyLabel": "Regas",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 45,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 78,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "samk",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Daengmeong",
+                  "native": "댕멍"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ikkeut",
+                  "native": "이끗"
+                }
+              }
+            ],
+            "romaji": "Regas",
+            "english": "Regas",
+            "native": "레가스",
+            "siteUrl": "https://anilist.co/manga/180964"
+          }
+        },
+        {
+          "id": "obl-heatstroke",
+          "media": "heatstroke",
+          "title": "Heatstroke",
+          "alt": "열사병",
+          "badge": "ONGOING",
+          "meta": "10 chapters · Ongoing",
+          "chaptersRead": 10,
+          "totalChapters": 10,
+          "progress": [
+            10,
+            10
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "A cram school dormitory in the height of summer. Before Gwang-Tae, who has turned his back on the world and is just getting by, appears Bo-Ae, a girl who longs to exist in this world. Amid the stifling heat in a corner of the dormitory, Gwang-Tae’s stagnant life begins to stir with the arrival of Bo-Ae.",
+          "image": "assets/img/posters/heatstroke.webp",
+          "banner": "assets/img/banners/heatstroke.webp",
+          "emptyMark": "HE",
+          "emptyLabel": "Heatstroke",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 10,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Seo-Hyeon Sang",
+                  "native": "상서현"
+                }
+              }
+            ],
+            "romaji": "Yeolsabyeong",
+            "english": "Yeolsabyeong",
+            "native": "열사병",
+            "siteUrl": "https://anilist.co/manga/210988"
+          }
+        },
+        {
+          "id": "obl-quo-vadis-domine",
+          "media": "quo-vadis-domine",
+          "title": "Quo Vadis, Domine?",
+          "alt": "쿼바디스 도미네",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "To pay off his parents’ debt, Hyeon-Do is sold into an arrangement as the fake fiancé of a powerful conglomerate heir. His supposed partner, Yi-Sak, is an infamous alpha known for his volatility, a man others call mad. Yet when Yi-Sak realizes his uncontrollable pheromones only calm in Hyeon-Do’s presence, their dangerous charade begins to blur into something else. As secrets pile up and emotions tangle, Hyeon-Do must keep his true identity hidden long enough to survive the wedding or risk being devoured by the man he’s bound to marry.",
+          "image": "assets/img/posters/quo-vadis-domine.webp",
+          "banner": "assets/img/banners/quo-vadis-domine.webp",
+          "emptyMark": "QV",
+          "emptyLabel": "Quo Vadis, Domine?",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Cheetamen",
+                  "native": "치타맨"
+                }
+              }
+            ],
+            "romaji": "Quo Vadis Domine",
+            "english": "Quo Vadis, Domine?",
+            "native": "쿼바디스 도미네",
+            "siteUrl": "https://anilist.co/manga/202699"
+          }
+        },
+        {
+          "id": "obl-wild-beast-warning",
+          "media": "wild-beast-warning",
+          "title": "Wild Beast Warning",
+          "alt": "He Might Bite! · 맹수주의보",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Black panther Pyo Yoontae returns to So Jeongseo’s small town with one objective: to find his first love who had fur as white as snow. Being the school outcast, Jeongseo decides to help Yoontae in the hopes of finally making a friend. Besides, Yoontae’s first love surely can’t be Jeongseo himself, since he’s a weasel with brown fur. But something about Yoontae feels awfully similar to a forgotten childhood playmate, and there is one secret Jeongseo is keeping from him. Every winter, Jeongseo actually sheds his fur and turns snow-white!",
+          "image": "assets/img/posters/wild-beast-warning.webp",
+          "banner": "assets/img/banners/wild-beast-warning.webp",
+          "emptyMark": "WB",
+          "emptyLabel": "Wild Beast Warning",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 35,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 74,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Galbi",
+                  "native": "갈비"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yeonmi",
+                  "native": "연미"
+                }
+              },
+              {
+                "name": {
+                  "full": "Eoreummeonji",
+                  "native": "얼음먼지"
+                }
+              }
+            ],
+            "romaji": "Maengsujuuibo",
+            "english": "He Might Bite!",
+            "native": "맹수주의보",
+            "siteUrl": "https://anilist.co/manga/202144"
+          }
+        },
+        {
+          "id": "obl-degenerate-grain-in-ear",
+          "media": "degenerate-grain-in-ear",
+          "title": "Degenerate/ Grain in Ear",
+          "alt": "Degenerate · 망종",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "While pursuing a case, Detective I-Eum Kim of the Violent Crimes Unit rescues a man collapsed on a mountain trail. Stricken with amnesia, the man believes himself to be a child... Thus begins I-Eum's dangerous cohabitation with a mysterious stranger.",
+          "image": "assets/img/posters/degenerate-grain-in-ear.webp",
+          "banner": "assets/img/banners/degenerate-grain-in-ear.webp",
+          "emptyMark": "DG",
+          "emptyLabel": "Degenerate/ Grain in Ear",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 40,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 66,
+            "genres": [
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Gyeja",
+                  "native": "계자"
+                }
+              },
+              {
+                "name": {
+                  "full": "HKMI",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Mangjong",
+            "english": "Degenerate",
+            "native": "망종",
+            "siteUrl": "https://anilist.co/manga/196161"
+          }
+        },
+        {
+          "id": "obl-nerd-project",
+          "media": "nerd-project",
+          "title": "Nerd Project",
+          "alt": "Nerd Project · 너드 프로젝트",
+          "badge": "ONGOING",
+          "meta": "63 chapters · Ongoing",
+          "chaptersRead": 63,
+          "totalChapters": 63,
+          "progress": [
+            63,
+            63
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Luke is having a rough time in college, and his breakup with his girlfriend Stacy is not helping. This is all because of that nerdy stud, Andrew! If only Stacy didn't obsess over Andrew's dorky charms, then Luke wouldn't have had to break their relationship off! To make matters worse, Luke is then forced to live in the same dorm room as Andrew! But with nowhere else to go and no money to his name, Luke resolves to make it his project to befriend Andrew, whether the nerd likes it or not!",
+          "image": "assets/img/posters/nerd-project.webp",
+          "banner": "assets/img/banners/nerd-project.webp",
+          "emptyMark": "NP",
+          "emptyLabel": "Nerd Project",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 63,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 80,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Geujyeo",
+                  "native": "그져"
+                }
+              }
+            ],
+            "romaji": "Nerd Project",
+            "english": "Nerd Project",
+            "native": "Nerd Project",
+            "siteUrl": "https://anilist.co/manga/165673"
+          }
+        },
+        {
+          "id": "obl-kiss-me-if-you-can",
+          "media": "kiss-me-if-you-can",
+          "title": "Kiss Me If You Can",
+          "alt": "키스 미 이프 유 캔",
+          "badge": "ONGOING",
+          "meta": "40 chapters · Ongoing",
+          "chaptersRead": 40,
+          "totalChapters": 40,
+          "progress": [
+            40,
+            40
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "\"Six months... Just six months, and it'll all be over.\"\nAfter a one-night stand Hollywood top star Chase Miller, Joshua finds out he’s pregnant. As a single father, Joshua raises their child in secrecy. But when he is forced to return to work as Chase’s bodyguard, the two are reunited in a cruel twist of fate. Relieved that Chase doesn’t seem to remember him, Josh’s comfort is short lived -  something primal, something desperate, yearns for the touch of his former lover, and every time he sees this beautifully twisted man, Josh’s heart races in spite of his mind. The more time passes, the more boundaries blur as instinct takes over… Will Joshua be able to resist the lips of his former lover? Or are the strings of fate too strong to resist?",
+          "image": "assets/img/posters/kiss-me-if-you-can.webp",
+          "banner": "assets/img/banners/kiss-me-if-you-can.webp",
+          "emptyMark": "KM",
+          "emptyLabel": "Kiss Me If You Can",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 40,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 78,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "ZIG",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Giho",
+                  "native": "기호"
+                }
+              },
+              {
+                "name": {
+                  "full": "Mano",
+                  "native": "마노"
+                }
+              }
+            ],
+            "romaji": "Kiss Me If You Can",
+            "english": "Kiss Me if You Can",
+            "native": "키스 미 이프 유 캔",
+            "siteUrl": "https://anilist.co/manga/188223"
+          }
+        },
+        {
+          "id": "obl-kiss-the-scumbag",
+          "media": "kiss-the-scumbag",
+          "title": "Kiss the Scumbag",
+          "alt": "키스 더 스컴백",
+          "badge": "ONGOING",
+          "meta": "35 chapters · Ongoing",
+          "chaptersRead": 35,
+          "totalChapters": 35,
+          "progress": [
+            35,
+            35
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Five years ago, Winston and Yu-Jin fell deeply and irrevocably in love at first sight. But their passionate relationship shattered when Winston discovered the unthinkable truth: Yu-Jin’s was having an affair with none other than his own father. Consumed by betrayal, Winston channeled the love he once cherished into resentment. Yet no matter how hard he tries, Winston cannot extinguish the pull he still feels. Now, reunited by fate and unresolved wounds, passion and scorn intertwine… But can either of them truly escape what they once meant to each other?",
+          "image": "assets/img/posters/kiss-the-scumbag.webp",
+          "banner": "assets/img/banners/kiss-the-scumbag.webp",
+          "emptyMark": "KT",
+          "emptyLabel": "Kiss the Scumbag",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 35,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "ZIG",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Gyulmeokgosipda",
+                  "native": "귤먹고싶다"
+                }
+              }
+            ],
+            "romaji": "KISS THE SCUMBAG",
+            "english": "Kiss the Scumbag",
+            "native": "키스 더 스컴백",
+            "siteUrl": "https://anilist.co/manga/204457"
+          }
+        },
+        {
+          "id": "obl-painter-of-the-night",
+          "media": "painter-of-the-night",
+          "title": "Painter of the Night",
+          "alt": "야화첩",
+          "badge": "ONGOING",
+          "meta": "130 chapters · Ongoing",
+          "chaptersRead": 130,
+          "totalChapters": 130,
+          "progress": [
+            130,
+            130
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Na-kyum is a talented artist who excels in painting beautiful gay erotica, though he does so under a pseudonym. Yet recently, he has given up painting, vowing never to create lewd art again. But the notoriously lust-driven nobleman Seungho Yoon didn’t get the memo—nor will he accept it—and forces Na-kyum to become his in-house painter, demanding the artist create his erotic works just for Seungho to enjoy. Can Na-kyum endure being Seungho’s personal painter of the night or will the late-night activities be too much for him?",
+          "image": "assets/img/posters/painter-of-the-night.webp",
+          "banner": "assets/img/banners/painter-of-the-night.webp",
+          "emptyMark": "PO",
+          "emptyLabel": "Painter of the Night",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 130,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 75,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "ByeonDuck",
+                  "native": "변덕"
+                }
+              },
+              {
+                "name": {
+                  "full": "Karis Page",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Yahwacheop",
+            "english": "Painter of the Night",
+            "native": "야화첩",
+            "siteUrl": "https://anilist.co/manga/111621"
+          }
+        },
+        {
+          "id": "obl-cherry-cake",
+          "media": "cherry-cake",
+          "title": "Cherry Cake",
+          "alt": "체리케이크",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Soo-Hyeon’s peaceful life in the countryside, running a quaint general store and tending a garden, is upended when rumors spread of a luxury hotel project—and the arrival of Tae-Yeon, a gruff yet oddly charming director from S.W. Construction who looks more like a mob boss than a businessman. Despite warnings from the village grandmas to steer clear, Soo-Hyeon isn’t intimidated, even as Tae-Yeon’s attempts to “bribe” him with sweet treats start melting his defenses. But when an unexpected moment reveals Soo-Hyeon’s biggest secret, what starts as a clash of personalities turns into a tangled mix of sweetness, spice, and chaos that neither of them saw coming.",
+          "image": "assets/img/posters/cherry-cake.webp",
+          "banner": "assets/img/banners/cherry-cake.webp",
+          "emptyMark": "CC",
+          "emptyLabel": "Cherry Cake",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 60,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Chayen",
+                  "native": "차옌"
+                }
+              },
+              {
+                "name": {
+                  "full": "Nocha",
+                  "native": "노차"
+                }
+              }
+            ],
+            "romaji": "Cherry Cake",
+            "english": "Cherry Cake",
+            "native": "체리케이크",
+            "siteUrl": "https://anilist.co/manga/189103"
+          }
+        },
+        {
+          "id": "obl-flower-of-aloshya",
+          "media": "flower-of-aloshya",
+          "title": "Flower of Aloshya",
+          "alt": "The Search for Alosha · 알로샤의 꽃",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Kay, the quiet deputy captain of the guard in a remote, impoverished village, leads a peaceful and uneventful life - until the arrival of the Grand Duke Zigril shatters his world. Zigril is in pursuit of the legendary Alosha, a rare and mysterious bloom rumored to grant pregnancy to anyone who consumes it, regardless of age or gender. Drawn to Kay in a fleeting moment of desire, the Duke expects their encounter to be no more than a brief indulgence. But as Zigril finds himself unable to shake thoughts of Kay, their connection deepens in unexpected ways. Soon, at the Duke's command, Kay is entrusted with the dangerous task of guiding him to the distant city of Edor. Along the way Kay begins to realize that there may be far more at stake than just the mythical flower. What will they discover on this perilous journey - and what does Zigril truly want?",
+          "image": "assets/img/posters/flower-of-aloshya.webp",
+          "banner": "assets/img/banners/flower-of-aloshya.webp",
+          "emptyMark": "FO",
+          "emptyLabel": "Flower of Aloshya",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 45,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 61,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Bapsot",
+                  "native": "밥솥"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jang-Ryang",
+                  "native": "장량"
+                }
+              }
+            ],
+            "romaji": "Allosyaui Kkot",
+            "english": "The Search for Alosha",
+            "native": "알로샤의 꽃",
+            "siteUrl": "https://anilist.co/manga/176612"
+          }
+        },
+        {
+          "id": "obl-16647",
+          "media": "16647",
+          "title": "16647",
+          "alt": "16647",
+          "badge": "ONGOING",
+          "meta": "25 chapters · Ongoing",
+          "chaptersRead": 25,
+          "totalChapters": 25,
+          "progress": [
+            25,
+            25
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "In the game, he plays as a strong character nearing the level cap. However, in real life, Lu Siqi is a highschooler with nothing left to live for. Only thinking about what is the meaning of being alive and death.\nOperating as a meek female character in the game, in reality, Shi Liu is a self proclaimed sentient beast who is finding his next interesting prey behind the monitor screen.\nThe new update in《Fantasy ONLINE》added many new high level equips in the medium difficulty instance \"Deville Labyrinth\", which attracted many players to form groups.\nJust like that, 647 who is planning to challege the instance, and Sixteen_16 who is looking for a new prey, met each other at the entrance of the instance—",
+          "image": "assets/img/posters/16647.webp",
+          "banner": "assets/img/banners/16647.webp",
+          "emptyMark": "16",
+          "emptyLabel": "16647",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 25,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 62,
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Xiaohe Shaonian Kawa",
+                  "native": "小河少年 Kawa"
+                }
+              }
+            ],
+            "romaji": "16647",
+            "english": "16647",
+            "native": "16647",
+            "siteUrl": "https://anilist.co/manga/188978"
+          }
+        },
+        {
+          "id": "obl-the-story-of-kaii-and-asuka",
+          "media": "the-story-of-kaii-and-asuka",
+          "title": "The Story of Kaii and Asuka",
+          "alt": "Kaii-san to Asuka-kun no Ohanashi · 怪異さんと飛鳥くんのお話",
+          "badge": "ONGOING",
+          "meta": "20 chapters · Ongoing",
+          "chaptersRead": 20,
+          "totalChapters": 20,
+          "progress": [
+            20,
+            20
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "\"...This is troubling. The more Asuka warms up to me, the cuter he looks—\"\n\nEver since the Kaii-san picked up Asuka-kun’s commuter pass, he ended up settling down at Asuka-kun’s house…!?  Eating meals together, trying out home gardening, spending Halloween together… Little by little, the distance between the two of them seems to be shrinking.",
+          "image": "assets/img/posters/the-story-of-kaii-and-asuka.webp",
+          "banner": "assets/img/banners/the-story-of-kaii-and-asuka.webp",
+          "emptyMark": "TS",
+          "emptyLabel": "The Story of Kaii and Asuka",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 20,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 70,
+            "genres": [
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Shizuma",
+                  "native": "シズマ"
+                }
+              }
+            ],
+            "romaji": "Kaii-san to Asuka-kun no Ohanashi",
+            "english": "Kaii-san to Asuka-kun no Ohanashi",
+            "native": "怪異さんと飛鳥くんのお話",
+            "siteUrl": "https://anilist.co/manga/188596"
+          }
+        },
+        {
+          "id": "obl-i-like-your-pheromones",
+          "media": "i-like-your-pheromones",
+          "title": "I Like Your Pheromones",
+          "alt": "我喜欢你的信息素",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "As a good-looking Beta boy from a good family, Duan Jiayan's life has been smooth sailing for many years, until he runs into Lu Xingci in high school. Lu Xingci's family is richer, he's taller, he's a better basketball player, and their grades aren't even close. Even his own friends can't help but praise Lu Xingci sometimes.\nWhat's worse, that girl Duan Jiayan had set his sights on admitted that she has had a crush on Lu Xingci for years. Ever since then, Duan Jiayan has disliked Lu Xingci. But during a medical exam, he was told that he is a late-blooming Omega, and because he became an Omega so late, it came with serious side-effects. Any Alpha who comes near him will feel a painful sensation and become violent. And Duan Jiayan is allergic to the pheromones of all Alphas, all except for Lu Xingci.",
+          "image": "assets/img/posters/i-like-your-pheromones.webp",
+          "banner": "assets/img/banners/i-like-your-pheromones.webp",
+          "emptyMark": "IL",
+          "emptyLabel": "I Like Your Pheromones",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 66,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jing Bu Gu",
+                  "native": "镜不咕"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yin Lu Xing",
+                  "native": "引路星"
+                }
+              },
+              {
+                "name": {
+                  "full": "memes",
+                  "native": "memes"
+                }
+              }
+            ],
+            "romaji": "Wo Xi Huan Ni De Xin Xi Su",
+            "english": "Wo Xi Huan Ni De Xin Xi Su",
+            "native": "我喜欢你的信息素",
+            "siteUrl": "https://anilist.co/manga/173530"
+          }
+        },
+        {
+          "id": "obl-a-proper-relationship",
+          "media": "a-proper-relationship",
+          "title": "A Proper Relationship",
+          "alt": "The Right Relationship · 올바른 연애",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "Han-Kyeol, a busybody studying to become a cop, is completely drawn to a part-timer Ji-Hoon at the newly opened dessert shop these days. He only tries to help Ji-Hoon who is the clumsiest on the face of the earth at the beginning. Nevertheless, Han-Kyeol becomes mesmerized by Ji-Hoon’s sweet, gorgeous face hiding behind the glasses and entirely falls for it. Keeping horrible scars on his body, probably from being bullied, Ji-Hoon seems vulnerable to Han-Kyeol. Ji-Hoon always thanks him for his help with a beaming smile that makes Han-Kyeol’s heart race out of control. Hank-Keol tries to convince himself and everyone else that it is only for the sake of humanity, but is that really the case? Fate has made two people from opposite poles run into each other! Let’s fall in love in the “right” relationship!",
+          "image": "assets/img/posters/a-proper-relationship.webp",
+          "banner": "assets/img/banners/a-proper-relationship.webp",
+          "emptyMark": "AP",
+          "emptyLabel": "A Proper Relationship",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 67,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Cheetamen",
+                  "native": "치타맨"
+                }
+              }
+            ],
+            "romaji": "All-bareun Yeonae",
+            "english": "The Right Relationship",
+            "native": "올바른 연애",
+            "siteUrl": "https://anilist.co/manga/135928"
+          }
+        },
+        {
+          "id": "obl-living-life-over",
+          "media": "living-life-over",
+          "title": "Living Life Over",
+          "alt": "See You Never · 来生不见",
+          "badge": "ONGOING",
+          "meta": "45 chapters · Ongoing",
+          "chaptersRead": 45,
+          "totalChapters": 45,
+          "progress": [
+            45,
+            45
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "In his previous life, Xia Lin dedicated his whole life to Song Yan, yet he still can’t escape the fate of being Song Yan’s second option. After being reborn, Xia Lin has decided to cut off their twisted relationship and stay away from Song Yan…",
+          "image": "assets/img/posters/living-life-over.webp",
+          "banner": "assets/img/banners/living-life-over.webp",
+          "emptyMark": "LL",
+          "emptyLabel": "Living Life Over",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 45,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": null,
+            "genres": [
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Cao Mao Lu",
+                  "native": "草帽鹿"
+                }
+              },
+              {
+                "name": {
+                  "full": "Kong Feng Xia",
+                  "native": "空冈夏"
+                }
+              },
+              {
+                "name": {
+                  "full": "Tian Xi",
+                  "native": "天袭"
+                }
+              }
+            ],
+            "romaji": "Lai Sheng Bu Jian",
+            "english": "See You Never",
+            "native": "来生不见",
+            "siteUrl": "https://anilist.co/manga/143120"
+          }
+        },
+        {
+          "id": "obl-my-hot-friend-is-glowing",
+          "media": "my-hot-friend-is-glowing",
+          "title": "My Hot Friend Is Glowing",
+          "alt": "내 친구는 잘생겼다",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "When someone is aesthetically pleasing, people usually say things like... \"She looks absolutely divine,\" \"He looks like a million bucks,\" and \"They're glowing.\" Of course, it doesn't mean that they're literally glowing... But I know someone who is like that! That's right. My friend is so stunning that his face literally shines.",
+          "image": "assets/img/posters/my-hot-friend-is-glowing.webp",
+          "banner": "assets/img/banners/my-hot-friend-is-glowing.webp",
+          "emptyMark": "MH",
+          "emptyLabel": "My Hot Friend Is Glowing",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 66,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Chandeok",
+                  "native": "찬덕"
+                }
+              }
+            ],
+            "romaji": "Nae Chinguneun Jalsaenggyeotda",
+            "english": "My Hot Friend Is Glowing",
+            "native": "내 친구는 잘생겼다",
+            "siteUrl": "https://anilist.co/manga/154910"
+          }
+        },
+        {
+          "id": "obl-morbid-attachment",
+          "media": "morbid-attachment",
+          "title": "Morbid Attachment",
+          "alt": "诟病",
+          "badge": "ONGOING",
+          "meta": "106 chapters · Ongoing",
+          "chaptersRead": 106,
+          "totalChapters": 106,
+          "progress": [
+            106,
+            106
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "\"An Alpha being in love with another Alpha is taboo!\", \"Perverts\", \"You sick people!\"...That's what people would say if they knew about the relationship between Ji Wang, a self-restrained Alpha actor, and Qi Boyan, a flamboyant actor and singer, who claims to be an Omega but secretly loves to dominate other Alphas. A mishap tore their relationship apart six years ago. But when fate puts them together again as co-stars in a popular movie, they are forced to face the burning temptation while resolving their past misunderstandings...",
+          "image": "assets/img/posters/morbid-attachment.webp",
+          "banner": "assets/img/banners/morbid-attachment.webp",
+          "emptyMark": "MA",
+          "emptyLabel": "Morbid Attachment",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 106,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Lu Fang",
+                  "native": "陆放"
+                }
+              },
+              {
+                "name": {
+                  "full": "Chi Zong Zha",
+                  "native": "池总渣"
+                }
+              },
+              {
+                "name": {
+                  "full": "3981",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Goubing",
+            "english": "Morbid Attachment",
+            "native": "诟病",
+            "siteUrl": "https://anilist.co/manga/141571"
+          }
+        },
+        {
+          "id": "obl-the-spooky-love-tale-of-gongchan-seol",
+          "media": "the-spooky-love-tale-of-gongchan-seol",
+          "title": "The Spooky Love Tale of Gongchan Seol",
+          "alt": "설공찬전",
+          "badge": "ONGOING",
+          "meta": "65 chapters · Ongoing",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-bl",
+          "sectionTitle": "Ongoing BL Manhwa",
+          "accent": "#7ec9a8",
+          "synopsis": "This is a mysterious romance between horror novelist Seol Gong-Chan and his downstairs' neighbor.\n\nGhosts aren't real... right? Gong-Chan has a wild imagination as a horror-novel author with a knack for turning his mundane life into a harrowing ghost story. These spooks live only in his head... that is until he meets Young-Min, a man haunted by the supernatural specters in Gong-Chan’s novel! With everything around him suddenly turning into an eerie mess, is Gong-Chan's growing love for Young-Min the reason why his heart is racing? Or is it the bloody ghost behind him?",
+          "image": "assets/img/posters/the-spooky-love-tale-of-gongchan-seol.webp",
+          "banner": "assets/img/banners/the-spooky-love-tale-of-gongchan-seol.webp",
+          "emptyMark": "TS",
+          "emptyLabel": "The Spooky Love Tale of Gongchan Seol",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 65,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 72,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Horror",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "YSE",
+                  "native": "YSE"
+                }
+              }
+            ],
+            "romaji": "Seolgongchanjeon",
+            "english": "The Spooky Love Tale of Gongchan Seol",
+            "native": "설공찬전",
+            "siteUrl": "https://anilist.co/manga/135074"
+          }
+        }
+      ]
     },
     {
       "id": "toread-bl",
@@ -6877,10 +8551,1111 @@ window.__DATA__ = {
       "title": "Ongoing Manhua",
       "category": "normal",
       "badge": "ONGOING",
-      "tag": "0 entries",
+      "tag": "19 entries",
       "accent": "#94d2bd",
-      "subtitle": "ongoing and actively releasing general manhua titles",
-      "items": []
+      "subtitle": "actively serializing and ongoing general manhwa & manhua series",
+      "items": [
+        {
+          "id": "onorm-how-to-reject-my-obsessive-ex-husband",
+          "media": "how-to-reject-my-obsessive-ex-husband",
+          "title": "How to Reject My Obsessive Ex Husband",
+          "alt": "How To Reject My Obsessive Ex-Husband · 전남편의 집착을 거절하는 법",
+          "badge": "ONGOING",
+          "meta": "100 chapters · Ongoing",
+          "chaptersRead": 100,
+          "totalChapters": 100,
+          "progress": [
+            100,
+            100
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "When Yu Seo-Hyeon sacrificed her life to save her first love, Ciel de Leopart, she never expected to wake up as Irene de Closhe in a world straight out of a book. Amidst this bizarre twist, she reunites with Ciel, who has now become a supporting male lead destined to betray the crown prince. As her unique guide abilities resurface, Seo-Hyeon is haunted by Ciel's intense, madness-filled gaze, a stark contrast to the man she once knew. Tangled in a web of past love and new identities, Seo-Hyeon must navigate a treacherous path where past and present collide.",
+          "image": "assets/img/posters/how-to-reject-my-obsessive-ex-husband.webp",
+          "banner": "assets/img/banners/how-to-reject-my-obsessive-ex-husband.webp",
+          "emptyMark": "HT",
+          "emptyLabel": "How to Reject My Obsessive Ex Husband",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 100,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 63,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Pincream",
+                  "native": "핑크림"
+                }
+              },
+              {
+                "name": {
+                  "full": "Cherry",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Terry",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Jeonnampyeonui Jipchageul Geojeolhaneun Beop",
+            "english": "How To Reject My Obsessive Ex-Husband",
+            "native": "전남편의 집착을 거절하는 법",
+            "siteUrl": "https://anilist.co/manga/180253"
+          }
+        },
+        {
+          "id": "onorm-i-wont-accept-your-regrets",
+          "media": "i-wont-accept-your-regrets",
+          "title": "I Won't Accept Your Regrets",
+          "alt": "Your Regrets Mean Nothing to Me · 당신의 후회는 받지 않겠습니다",
+          "badge": "ONGOING",
+          "meta": "135 chapters · Ongoing",
+          "chaptersRead": 135,
+          "totalChapters": 135,
+          "progress": [
+            135,
+            135
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Elijah Croft was an empress who had everything… except for a loving husband. Though she was used to the emperor’s coldness, the reappearance of his former lover proves to be the last straw… and she finally asks for a divorce. However, Elijah soon realizes that escaping the political and social machinations of her former life isn’t going to be as easy as she thought. Can this former empress make a new life for herself and her unborn child? Or is she destined to be tied to the emperor forever?",
+          "image": "assets/img/posters/i-wont-accept-your-regrets.webp",
+          "banner": "assets/img/banners/i-wont-accept-your-regrets.webp",
+          "emptyMark": "IW",
+          "emptyLabel": "I Won't Accept Your Regrets",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 135,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 60,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Two Cat",
+                  "native": "투캣"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jeje",
+                  "native": "제제"
+                }
+              },
+              {
+                "name": {
+                  "full": "Gaonnarabit",
+                  "native": "가온나라빛"
+                }
+              }
+            ],
+            "romaji": "Dangsinui Huhoeneun Batji Anketseumnida",
+            "english": "Your Regrets Mean Nothing to Me",
+            "native": "당신의 후회는 받지 않겠습니다",
+            "siteUrl": "https://anilist.co/manga/146469"
+          }
+        },
+        {
+          "id": "onorm-the-constellations-are-my-disciples",
+          "media": "the-constellations-are-my-disciples",
+          "title": "The Constellations Are My Disciples",
+          "alt": "성좌들이 내 제자",
+          "badge": "ONGOING",
+          "meta": "65 chapters · Ongoing",
+          "chaptersRead": 65,
+          "totalChapters": 65,
+          "progress": [
+            65,
+            65
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "300 years ago, the invincible warrior Hyeon-Oh Kim brought down the Tower of the End, preventing the world’s demise. Though he should have died the moment the Tower of the End collapsed, Hyeon-Oh is reborn 300 years later in the body of a 17-year-old boy named Ju-Hyeok Kim. Meanwhile, he discovers the existence of the Constellations, who were once his disciples 300 years ago but were born during the time when he did not exist in this world. Will he be able to find them again and train them?",
+          "image": "assets/img/posters/the-constellations-are-my-disciples.webp",
+          "banner": "assets/img/banners/the-constellations-are-my-disciples.webp",
+          "emptyMark": "TC",
+          "emptyLabel": "The Constellations Are My Disciples",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 65,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 69,
+            "genres": [
+              "Action",
+              "Fantasy"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Studio Inus",
+                  "native": "스튜디오 이너스"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ji-Un Cha",
+                  "native": "차지운"
+                }
+              },
+              {
+                "name": {
+                  "full": "Bangguseok Kim-ssi",
+                  "native": "방구석김씨"
+                }
+              }
+            ],
+            "romaji": "Seongjwadeuri Nae Jeja",
+            "english": "The Constellations Are My Disciples",
+            "native": "성좌들이 내 제자",
+            "siteUrl": "https://anilist.co/manga/163448"
+          }
+        },
+        {
+          "id": "onorm-the-real-daughter-is-back",
+          "media": "the-real-daughter-is-back",
+          "title": "The Real Daughter Is Back",
+          "alt": "Revenge on the Real One · 진짜 딸이 돌아왔다",
+          "badge": "ONGOING",
+          "meta": "162 chapters · Ongoing",
+          "chaptersRead": 162,
+          "totalChapters": 162,
+          "progress": [
+            162,
+            162
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Ever since Helga Yutrit found out that she was switched at birth with her half-sister, she has tried her best to shake off the stigma of being a fake by building up her reputation as the perfect daughter of House Yutrit. Helga's efforts all go to waste, though, when her half-sister Hillianne is discovered alive. Now that the real daughter has returned to take her rightful place, Helga is plotting her revenge on the family that never appreciated her and the half-sister who is stealing her life.",
+          "image": "assets/img/posters/the-real-daughter-is-back.webp",
+          "banner": "assets/img/banners/the-real-daughter-is-back.webp",
+          "emptyMark": "TR",
+          "emptyLabel": "The Real Daughter Is Back",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 162,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 69,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Rin-A",
+                  "native": "린아"
+                }
+              },
+              {
+                "name": {
+                  "full": "Hyo-Jo Kim",
+                  "native": "김효조"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yeonmi",
+                  "native": "연미"
+                }
+              }
+            ],
+            "romaji": "Jinjja Ttari Dorawatda",
+            "english": "Revenge on the Real One",
+            "native": "진짜 딸이 돌아왔다",
+            "siteUrl": "https://anilist.co/manga/153848"
+          }
+        },
+        {
+          "id": "onorm-death-is-the-only-ending-for-the-villainess",
+          "media": "death-is-the-only-ending-for-the-villainess",
+          "title": "Death Is the Only Ending for the Villainess",
+          "alt": "Villains Are Destined to Die · 악역의 엔딩은 죽음뿐",
+          "badge": "ONGOING",
+          "meta": "160 chapters · Ongoing",
+          "chaptersRead": 160,
+          "totalChapters": 160,
+          "progress": [
+            160,
+            160
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "This game’s got me obsessed! It’s like it’s taken over my life... wait—HARD MODE ACTIVATED. No-no-no-no-no! It has literally taken me and thrown me into the part of Penelope Eckhart. Love is easy as the heroine, but as the hated villainess, I’m trying very hard not to die… at the hands of my brothers… the prince… a fork… every possible ending is death! This world is stacked against me, but can my wits and insider game knowledge score the affection of these male characters? Or the reset button???",
+          "image": "assets/img/posters/death-is-the-only-ending-for-the-villainess.webp",
+          "banner": "assets/img/banners/death-is-the-only-ending-for-the-villainess.webp",
+          "emptyMark": "DI",
+          "emptyLabel": "Death Is the Only Ending for the Villainess",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 160,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 84,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Gyeo-Eul Kwon",
+                  "native": "권겨을"
+                }
+              },
+              {
+                "name": {
+                  "full": "Suwol",
+                  "native": "수월"
+                }
+              },
+              {
+                "name": {
+                  "full": "Chiho Christie",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Agyeogui Ending Jugeumppun",
+            "english": "Villains Are Destined to Die",
+            "native": "악역의 엔딩은 죽음뿐",
+            "siteUrl": "https://anilist.co/manga/118408"
+          }
+        },
+        {
+          "id": "onorm-forgotten-field",
+          "media": "forgotten-field",
+          "title": "Forgotten Field",
+          "alt": "잊혀진 들판",
+          "badge": "ONGOING",
+          "meta": "30 chapters · Ongoing",
+          "chaptersRead": 30,
+          "totalChapters": 30,
+          "progress": [
+            30,
+            30
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "\"I pray every day that this love dies, that I may love you only until today, and that tomorrow this love will be dead.\"\nThalia Roem Gürta, the ill-fated princess born of an affair. She grows up distorted amidst indifferent parents, hostile half-siblings, and servants who despise her. Thalia has protected herself by raising her thorns against everyone who approaches. Yet, even she becomes defenseless in the presence of one person. He is none other than the Prince of the East, Varkas Raedgo Sheerkan. Forced to be perfect as a retainer of the imperial court and the heir to the Grand Duke, he grew up with most of his emotions numb under discipline bordering on abuse. A man who exists solely for the honor and duty of his family. To keep a promise made to the late Empress, he enters into a marriage with Thalia's half-sister, Ayla, and Thalia, engulfed in despair, slowly falls apart. However, her love, destined for death, faces an unexpected turning point....",
+          "image": "assets/img/posters/forgotten-field.webp",
+          "banner": "assets/img/banners/forgotten-field.webp",
+          "emptyMark": "FF",
+          "emptyLabel": "Forgotten Field",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 30,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 76,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Spoon",
+                  "native": "스푼"
+                }
+              },
+              {
+                "name": {
+                  "full": "Laphet",
+                  "native": "라펫"
+                }
+              },
+              {
+                "name": {
+                  "full": "Su-Ji Kim",
+                  "native": "김수지"
+                }
+              }
+            ],
+            "romaji": "Ichyeojin Deulpan",
+            "english": "Ichyeojin Deulpan",
+            "native": "잊혀진 들판",
+            "siteUrl": "https://anilist.co/manga/211558"
+          }
+        },
+        {
+          "id": "onorm-i-was-the-real-owner-of-elheim",
+          "media": "i-was-the-real-owner-of-elheim",
+          "title": "I Was the Real Owner of Elheim",
+          "alt": "I Was the Real Head of the House · 진짜 가주는 나였다",
+          "badge": "ONGOING",
+          "meta": "84 chapters · Ongoing",
+          "chaptersRead": 84,
+          "totalChapters": 84,
+          "progress": [
+            84,
+            84
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Born powerless in a family of water awakeners, Riarte Elheim was sacrificed for her twin brother and met an untimely death. Reborn three years before her tragic end, she vows to abandon the family that betrayed her. With Mikhail Virche, the cunning heir of the Virche family, by her side, Riarte begins a new life—but will her second chance lead to freedom or ruin?",
+          "image": "assets/img/posters/i-was-the-real-owner-of-elheim.webp",
+          "banner": "assets/img/banners/i-was-the-real-owner-of-elheim.webp",
+          "emptyMark": "IW",
+          "emptyLabel": "I Was the Real Owner of Elheim",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 84,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 69,
+            "genres": [
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "HON",
+                  "native": null
+                }
+              },
+              {
+                "name": {
+                  "full": "Paranmat Somsatang",
+                  "native": "파란맛솜사탕"
+                }
+              }
+            ],
+            "romaji": "Jinjja Gajuneun Nayeotda",
+            "english": "I Was the Real Head of the House",
+            "native": "진짜 가주는 나였다",
+            "siteUrl": "https://anilist.co/manga/180664"
+          }
+        },
+        {
+          "id": "onorm-i-was-rocked-to-the-worlds-richest-man-in-matchmaking-office",
+          "media": "i-was-rocked-to-the-worlds-richest-man-in-matchmaking-office",
+          "title": "I Was Rocked to the World's Richest Man in Matchmaking Office",
+          "alt": "我在婚配所摇到了世界首富",
+          "badge": "ONGOING",
+          "meta": "249 chapters · Ongoing",
+          "chaptersRead": 249,
+          "totalChapters": 249,
+          "progress": [
+            249,
+            249
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "As soon as Ye Xingguang graduated from college, the country assigned her a husband, who happened to be Ye Junqing, a billionaire who topped the Forbes Rich List. Ye Xingguang, knowing he was rumored to be a hardcore celibate, didn’t expect to get along with him. Yet to her surprise, he treated her as the apple of his eye!\n\nWho would have thought that drawing him was the biggest lottery she’d ever won?",
+          "image": "assets/img/posters/i-was-rocked-to-the-worlds-richest-man-in-matchmaking-office.webp",
+          "banner": "assets/img/banners/i-was-rocked-to-the-worlds-richest-man-in-matchmaking-office.webp",
+          "emptyMark": "IW",
+          "emptyLabel": "I Was Rocked to the World's Richest Man in Matchmaking Office",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 249,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jiuxia Dongman",
+                  "native": "九夏动漫"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ying An",
+                  "native": "安缨"
+                }
+              },
+              {
+                "name": {
+                  "full": "Sang Shi Tu",
+                  "native": "丧尸兔"
+                }
+              }
+            ],
+            "romaji": "Wo Zai Hunpeisuo Yao Dao Le Shijie Shoufu",
+            "english": "I Hook Up With The World's Richest Man At The Registry Of Marriages",
+            "native": "我在婚配所摇到了世界首富",
+            "siteUrl": "https://anilist.co/manga/179178"
+          }
+        },
+        {
+          "id": "onorm-perfect-secret-love",
+          "media": "perfect-secret-love",
+          "title": "Perfect Secret Love",
+          "alt": "恰似寒光遇骄阳",
+          "badge": "ONGOING",
+          "meta": "592 chapters · Ongoing",
+          "chaptersRead": 592,
+          "totalChapters": 592,
+          "progress": [
+            592,
+            592
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "“How perverted is Si Ye Han's taste? He still wants me like this?” Waking up, she looked at her reflection in the mirror: explosive wig, tattoos, and demon-like makeup. Any normal person’s eyes would burn if they looked at her for more than a second.\nBefore her rebirth, she was in love with a different guy, so all she wanted to do was escape from Si Ye Han and hated him to his core after being locked up by him.\nAfter her rebirth, she looked differently at him, thinking that maybe he changed for the better?",
+          "image": "assets/img/posters/perfect-secret-love.webp",
+          "banner": "assets/img/banners/perfect-secret-love.webp",
+          "emptyMark": "PS",
+          "emptyLabel": "Perfect Secret Love",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 592,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 67,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jiong Jiong You Yao",
+                  "native": "囧囧有妖"
+                }
+              },
+              {
+                "name": {
+                  "full": "Huoli Xiongmao",
+                  "native": "火力熊猫"
+                }
+              },
+              {
+                "name": {
+                  "full": "Yuewen Manhua",
+                  "native": "阅文漫画"
+                }
+              }
+            ],
+            "romaji": "Qiasi Hanguang Yu Jiaoyang",
+            "english": "Perfect Secret Love: The Bad New Wife Is a Little Sweet",
+            "native": "恰似寒光遇骄阳",
+            "siteUrl": "https://anilist.co/manga/129120"
+          }
+        },
+        {
+          "id": "onorm-revenge-of-iron-blooded-sword-hound",
+          "media": "revenge-of-iron-blooded-sword-hound",
+          "title": "Revenge of Iron Blooded Sword Hound",
+          "alt": "Revenge of the Baskerville Bloodhound · 철혈검가 사냥개의 회귀",
+          "badge": "ONGOING",
+          "meta": "80 chapters · Ongoing",
+          "chaptersRead": 80,
+          "totalChapters": 80,
+          "progress": [
+            80,
+            80
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins. Despite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father’s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge. This time, he's ready to bite the hand that feeds.",
+          "image": "assets/img/posters/revenge-of-iron-blooded-sword-hound.webp",
+          "banner": "assets/img/banners/revenge-of-iron-blooded-sword-hound.webp",
+          "emptyMark": "RO",
+          "emptyLabel": "Revenge of Iron Blooded Sword Hound",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 80,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 79,
+            "genres": [
+              "Action",
+              "Fantasy"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "San-Chaek Lee",
+                  "native": "이산책"
+                }
+              },
+              {
+                "name": {
+                  "full": "Seol Arang",
+                  "native": "설아랑"
+                }
+              },
+              {
+                "name": {
+                  "full": "Lego Balbasseo",
+                  "native": "레고밟았어"
+                }
+              }
+            ],
+            "romaji": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
+            "english": "Revenge of the Baskerville Bloodhound",
+            "native": "철혈검가 사냥개의 회귀",
+            "siteUrl": "https://anilist.co/manga/163824"
+          }
+        },
+        {
+          "id": "onorm-everyone-was-obsessed-with-me-after-i-became-the-youngest-princesss-favourite",
+          "media": "everyone-was-obsessed-with-me-after-i-became-the-youngest-princesss-favourite",
+          "title": "Everyone Was Obsessed with Me After I Became the Youngest Princess's Favourite",
+          "alt": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "After traveling back in time, Lia finds herself in the orphanage where she spent her childhood just before Diana, the lost daughter of Duke Ellad, arrives. Remembering with regret how she once ignored Diana's mistreatment in the orphanage, she vows to protect her until her family finds her. The two grow close, and she sees her life unfolding in an unexpected way as she is welcomed into House Ellad with Diana. Will Lia find happiness in her second life, surrounded by love she's never known?",
+          "image": "assets/img/posters/everyone-was-obsessed-with-me-after-i-became-the-youngest-princesss-favourite.webp",
+          "banner": "assets/img/banners/everyone-was-obsessed-with-me-after-i-became-the-youngest-princesss-favourite.webp",
+          "emptyMark": "EW",
+          "emptyLabel": "Everyone Was Obsessed with Me After I Became the Youngest Princess's Favourite",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 71,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jeonga",
+                  "native": "정아"
+                }
+              },
+              {
+                "name": {
+                  "full": "Huiyun",
+                  "native": "희윤"
+                }
+              },
+              {
+                "name": {
+                  "full": "Jimon",
+                  "native": "지몬"
+                }
+              }
+            ],
+            "romaji": "Mangnae Gongnyeoui Chongaereul Dokchajihaetdeoni, Modu Naege Jipchakanda",
+            "english": "Diana's Dearest Is the Family's Favorite",
+            "native": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+            "siteUrl": "https://anilist.co/manga/189680"
+          }
+        },
+        {
+          "id": "onorm-no-place-for-fake-princess",
+          "media": "no-place-for-fake-princess",
+          "title": "No Place for Fake Princess",
+          "alt": "Philomel the Fake · 가짜를 위한 장소는 없다",
+          "badge": "ONGOING",
+          "meta": "75 chapters · Ongoing",
+          "chaptersRead": 75,
+          "totalChapters": 75,
+          "progress": [
+            75,
+            75
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "After finding a mysterious book in the imperial garden, Princess Philomel not only discovers that the book's villain shares her name, but that other events in the story are coming true too. Now, she believes that she's an imposter and that the real princess will take her rightful place, leading to the execution of Philomel the Fake! So to avoid a tragic death, she has to make sure the rest of the book doesn't come true. Can this fake princess change what's already been written?",
+          "image": "assets/img/posters/no-place-for-fake-princess.webp",
+          "banner": "assets/img/banners/no-place-for-fake-princess.webp",
+          "emptyMark": "NP",
+          "emptyLabel": "No Place for Fake Princess",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 75,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 74,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "ON",
+                  "native": "오앤"
+                }
+              },
+              {
+                "name": {
+                  "full": "Logo",
+                  "native": "로고"
+                }
+              },
+              {
+                "name": {
+                  "full": "Nina Gliese",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Gajjareul Wihan Jangsoneun Eopda",
+            "english": "Philomel the Fake",
+            "native": "가짜를 위한 장소는 없다",
+            "siteUrl": "https://anilist.co/manga/161750"
+          }
+        },
+        {
+          "id": "onorm-father-i-wont-do-anything",
+          "media": "father-i-wont-do-anything",
+          "title": "Father, I Won't Do Anything",
+          "alt": "아빠, 저는 아무것도 하지 않을게요",
+          "badge": "ONGOING",
+          "meta": "1 chapters · Ongoing",
+          "chaptersRead": 1,
+          "totalChapters": 1,
+          "progress": [
+            1,
+            1
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Just as your birth did not inspire me, so your death won't mean anything to me.\n\nJaina reincarnated as a supporting character who was born as mixed blood of human-dragon and died miserably after being neglected. She is branded as an unclean entity and was abandoned by the dragons.\n\nAnd the first time she met her father, the lord of the tower, Diamide, he just looked at her coldly, as though he didn't feel any sense of intimacy to his daughter as described in the original.\n\n\"Is that the one you called my daughter?\"\n\nJaina flinched as he approached and lowered her sight.\n\n\"Blue eyes... but that's not a proof that she's my daughter. You could have brought me a child born with another human.\"\n\nAnd so he went back leaving her alone and Jaina was living in the shabby warehouse of the tower.\n\nRather than making vain efforts to get into the eyes of his father, the lord of the tower, she decided to have a small luxury that she had never experienced even in her previous life before her death.\n\n\"You don't have to think of me as your daughter. I won't call you father either.\"\n\n\"...\"\n\n\"Tower's lord?\"\n\nSo is the father, who should've been indifferent, starting to get obsessed? Father, can you just leave me alone?",
+          "image": "assets/img/posters/father-i-wont-do-anything.webp",
+          "banner": "assets/img/banners/father-i-wont-do-anything.webp",
+          "emptyMark": "FI",
+          "emptyLabel": "Father, I Won't Do Anything",
+          "info": {
+            "format": "ONE_SHOT",
+            "year": null,
+            "chapters": 1,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 56,
+            "genres": [
+              "Fantasy",
+              "Romance",
+              "Supernatural"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Se-Ha Jin",
+                  "native": "진세하"
+                }
+              },
+              {
+                "name": {
+                  "full": "Pagaraga",
+                  "native": "파가라가"
+                }
+              }
+            ],
+            "romaji": "Appa, Jeoneun Amugeotdo Haji Aneulgeyo",
+            "english": "Appa, Jeoneun Amugeotdo Haji Aneulgeyo",
+            "native": "아빠, 저는 아무것도 하지 않을게요",
+            "siteUrl": "https://anilist.co/manga/123114"
+          }
+        },
+        {
+          "id": "onorm-the-villainess-who-reverses-the-hourglass",
+          "media": "the-villainess-who-reverses-the-hourglass",
+          "title": "The Villainess Who Reverses the Hourglass",
+          "alt": "The Villainess Turns the Hourglass · 악녀는 모래시계를 되돌린다",
+          "badge": "ONGOING",
+          "meta": "125 chapters · Ongoing",
+          "chaptersRead": 125,
+          "totalChapters": 125,
+          "progress": [
+            125,
+            125
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Aria Roscent mercilessly bullied her stepsister Mielle and paid the ultimate price for her misdeeds—but not before Mielle revealed that she’d manipulated Aria into harassing Mielle in the first place! Instead of dying, Aria is sent back in time and gifted a strange hourglass with mysterious powers. Now, Aria’s just got one goal: to embrace her role of villainess and utterly destroy Mielle’s life!",
+          "image": "assets/img/posters/the-villainess-who-reverses-the-hourglass.webp",
+          "banner": "assets/img/banners/the-villainess-who-reverses-the-hourglass.webp",
+          "emptyMark": "TV",
+          "emptyLabel": "The Villainess Who Reverses the Hourglass",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 125,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 78,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Sansobi",
+                  "native": "산소비"
+                }
+              },
+              {
+                "name": {
+                  "full": "Dwaeji Cake",
+                  "native": "돼지케이크"
+                }
+              },
+              {
+                "name": {
+                  "full": "Ttaelkkam",
+                  "native": "땔깜"
+                }
+              }
+            ],
+            "romaji": "Agnyeoneun Molaesigyeleul Doedollinda",
+            "english": "The Villainess Turns the Hourglass",
+            "native": "악녀는 모래시계를 되돌린다",
+            "siteUrl": "https://anilist.co/manga/116382"
+          }
+        },
+        {
+          "id": "onorm-do-snake-eat-flowers",
+          "media": "do-snake-eat-flowers",
+          "title": "Do Snake Eat Flowers?",
+          "alt": "The Snake and the Flower · 뱀은 꽃을 먹는가",
+          "badge": "ONGOING",
+          "meta": "86 chapters · Ongoing",
+          "chaptersRead": 86,
+          "totalChapters": 86,
+          "progress": [
+            86,
+            86
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Long ago, an emperor suddenly decided to execute the members of his court. Only after being offered a girl named Ae-Hwa, did the emperor’s rampage stop. The emperor cherishes his “flower” dearly. When Ae-Hwa expresses an interest in music, the Emperor makes Ha-Rang Kang her personal court musician. However, the emperor decreed that only he can lay eyes on Ae-Hwa and has Ha-Rang’s eyes destroyed. After finding out the true cause of his father’s death, Ha-Rang swears revenge on both Ae-Hwa and the Emperor. In this twisted realm of snakes and flowers, who will prevail?",
+          "image": "assets/img/posters/do-snake-eat-flowers.webp",
+          "banner": "assets/img/banners/do-snake-eat-flowers.webp",
+          "emptyMark": "DS",
+          "emptyLabel": "Do Snake Eat Flowers?",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 86,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": 68,
+            "genres": [
+              "Psychological",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Na-Eum So",
+                  "native": "소나음"
+                }
+              }
+            ],
+            "romaji": "Baemeun Kkocheul Meongneunga",
+            "english": "The Snake and the Flower",
+            "native": "뱀은 꽃을 먹는가",
+            "siteUrl": "https://anilist.co/manga/131797"
+          }
+        },
+        {
+          "id": "onorm-study-group",
+          "media": "study-group",
+          "title": "Study Group",
+          "alt": "스터디그룹",
+          "badge": "ONGOING",
+          "meta": "240 chapters · Ongoing",
+          "chaptersRead": 240,
+          "totalChapters": 240,
+          "progress": [
+            240,
+            240
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Nicknamed the “school for future criminals,” Yusung Technical High School isn’t exactly the ideal place to study. A rarity among his peers, Gamin is a student with just one goal: to get into university. At a school where it’s every man for himself, he is rejected from countless study groups before he decides to form his own. When Hankyeong, Gamin’s former tutor, joins his high school in hopes of earning her teacher certification, it seems like they’re both reaching for the impossible. Can they defeat the odds and achieve their dreams?",
+          "image": "assets/img/posters/study-group.webp",
+          "banner": "assets/img/banners/study-group.webp",
+          "emptyMark": "SG",
+          "emptyLabel": "Study Group",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 240,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 74,
+            "genres": [
+              "Action",
+              "Comedy"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Hyeong-Uk Sin",
+                  "native": "신형욱"
+                }
+              },
+              {
+                "name": {
+                  "full": "Seungyeon Ryu",
+                  "native": "유승연"
+                }
+              }
+            ],
+            "romaji": "Study Group",
+            "english": "Study Group",
+            "native": "스터디그룹",
+            "siteUrl": "https://anilist.co/manga/110472"
+          }
+        },
+        {
+          "id": "onorm-killer-peter",
+          "media": "killer-peter",
+          "title": "Killer Peter",
+          "alt": "킬러 배드로",
+          "badge": "ONGOING",
+          "meta": "60 chapters · Ongoing",
+          "chaptersRead": 60,
+          "totalChapters": 60,
+          "progress": [
+            60,
+            60
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "After devoting his life to the crime organization, Glory Club, Peter retires his status as a legendary killer and spends his remaining days running a quiet used bookstore. But after being ambushed and nearly killed one day by the very organization he dedicated his life to, Peter finds his body magically reverted back to its teenage years. Now that Peter was back to his peak physique, he sets out to settle the score with Glory Club.",
+          "image": "assets/img/posters/killer-peter.webp",
+          "banner": "assets/img/banners/killer-peter.webp",
+          "emptyMark": "KP",
+          "emptyLabel": "Killer Peter",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 60,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 78,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Drama"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Jeong-Hyeon Kim",
+                  "native": "김정현"
+                }
+              },
+              {
+                "name": {
+                  "full": "Li-Na Lim",
+                  "native": "임리나"
+                }
+              },
+              {
+                "name": {
+                  "full": "Laura Klug",
+                  "native": null
+                }
+              }
+            ],
+            "romaji": "Killer Pedro",
+            "english": "Killer Peter",
+            "native": "킬러 배드로",
+            "siteUrl": "https://anilist.co/manga/170688"
+          }
+        },
+        {
+          "id": "onorm-academys-genius-swordmaster",
+          "media": "academys-genius-swordmaster",
+          "title": "Academy's Genius Swordmaster",
+          "alt": "The Academy's Genius Swordsman · 아카데미의 천재칼잡이",
+          "badge": "ONGOING",
+          "meta": "55 chapters · Ongoing",
+          "chaptersRead": 55,
+          "totalChapters": 55,
+          "progress": [
+            55,
+            55
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "Following a momentous battle against giants for the fate of the world, Ronan emerges victorious as the last man standing of the imperial army. As he laments this hollow victory with his dying commander, Grand Marshal Adeshan, they quickly learn that the war is far from over and an overwhelming force of giants descends from the heavens. Fearing the worst, yet seeing hope in the courageous Ronan, Adeshan uses her last time slip to send him back to the past, so that he can enroll in the prestigious Phileon Academy and become the strongest swordsman the empire has ever seen!",
+          "image": "assets/img/posters/academys-genius-swordmaster.webp",
+          "banner": "assets/img/banners/academys-genius-swordmaster.webp",
+          "emptyMark": "AS",
+          "emptyLabel": "Academy's Genius Swordmaster",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 55,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 73,
+            "genres": [
+              "Action",
+              "Fantasy"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Sichi",
+                  "native": "시치"
+                }
+              },
+              {
+                "name": {
+                  "full": "Gwan-Do Seo",
+                  "native": "서관도"
+                }
+              }
+            ],
+            "romaji": "Academy Cheonjaekaljabi",
+            "english": "The Academy's Genius Swordsman",
+            "native": "아카데미의 천재칼잡이",
+            "siteUrl": "https://anilist.co/manga/167649"
+          }
+        },
+        {
+          "id": "onorm-the-archmages-restaurant",
+          "media": "the-archmages-restaurant",
+          "title": "The Archmage's Restaurant",
+          "alt": "The Archmage’s Restaurant · 어느 마법사의 식당",
+          "badge": "ONGOING",
+          "meta": "50 chapters · Ongoing",
+          "chaptersRead": 50,
+          "totalChapters": 50,
+          "progress": [
+            50,
+            50
+          ],
+          "status": "RELEASING",
+          "sectionId": "ongoing-normal",
+          "sectionTitle": "Ongoing Manhua",
+          "accent": "#94d2bd",
+          "synopsis": "A young aspiring chef suddenly finds himself in a world of war, dragons, and magic. These two worlds couldn’t be further apart... or could they? Who says you can’t open a restaurant in a fantasy realm? I mean, what could possibly go wrong? A perfect series for fantasy, magic, and food lovers.",
+          "image": "assets/img/posters/the-archmages-restaurant.webp",
+          "banner": "assets/img/banners/the-archmages-restaurant.webp",
+          "emptyMark": "TA",
+          "emptyLabel": "The Archmage's Restaurant",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 50,
+            "volumes": null,
+            "status": "RELEASING",
+            "averageScore": 75,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Studio Inus",
+                  "native": "스튜디오 이너스"
+                }
+              },
+              {
+                "name": {
+                  "full": "Cha-ssi",
+                  "native": "차씨"
+                }
+              },
+              {
+                "name": {
+                  "full": "Bad Boys",
+                  "native": "배드보이즈"
+                }
+              }
+            ],
+            "romaji": "Eoneu Mabeopsaui Sikdang",
+            "english": "The Archmage’s Restaurant",
+            "native": "어느 마법사의 식당",
+            "siteUrl": "https://anilist.co/manga/174104"
+          }
+        }
+      ]
     },
     {
       "id": "toread-normal",
@@ -6905,8 +9680,8 @@ window.__DATA__ = {
       {
         "label": "Ongoing BL Manhwa",
         "sectionId": "ongoing-bl",
-        "chapters": 0,
-        "display": "0 ch",
+        "chapters": 1400,
+        "display": "1,400 ch",
         "accent": "#7ec9a8"
       },
       {
@@ -6947,8 +9722,8 @@ window.__DATA__ = {
       {
         "label": "Ongoing Manhua",
         "sectionId": "ongoing-normal",
-        "chapters": 0,
-        "display": "0 ch",
+        "chapters": 2399,
+        "display": "2,399 ch",
         "accent": "#94d2bd"
       },
       {
@@ -6966,15 +9741,15 @@ window.__DATA__ = {
         "chapters": 8810,
         "display": "8,810 ch",
         "accent": "#e7b267",
-        "percentage": 77.6
+        "percentage": 58.2
       },
       {
         "label": "Ongoing BL Manhwa",
         "sectionId": "ongoing-bl",
-        "chapters": 0,
-        "display": "0 ch",
+        "chapters": 1400,
+        "display": "1,400 ch",
         "accent": "#7ec9a8",
-        "percentage": 0
+        "percentage": 9.2
       },
       {
         "label": "To Be Read BL Manhwa",
@@ -6990,7 +9765,7 @@ window.__DATA__ = {
         "chapters": 2541,
         "display": "2,541 ch",
         "accent": "#ef9a78",
-        "percentage": 22.4
+        "percentage": 16.8
       },
       {
         "label": "Ongoing BG Manhwa",
@@ -7019,10 +9794,10 @@ window.__DATA__ = {
       {
         "label": "Ongoing Manhua",
         "sectionId": "ongoing-normal",
-        "chapters": 0,
-        "display": "0 ch",
+        "chapters": 2399,
+        "display": "2,399 ch",
         "accent": "#94d2bd",
-        "percentage": 0
+        "percentage": 15.8
       },
       {
         "label": "To Be Read Manhua",
@@ -7039,6 +9814,6 @@ window.__DATA__ = {
     "no": [],
     "note": ""
   },
-  "builtAt": "2026-11-16T15:16:16.936Z"
+  "builtAt": "2026-11-16T15:30:26.929Z"
 };
 window.MANGA_DATA = window.__DATA__;

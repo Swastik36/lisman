@@ -4,9 +4,9 @@
 > Last synchronized: Nov 2026
 
 ## Overview
-- **Total Chapters Read**: 11,351 chapters
-- **Total Titles**: 130
-- **Shelves**: 9 classifications across BL, BG, and Normal Manhua/Manhwa
+- **Total Chapters Read**: 15,150 chapters
+- **Total Titles**: 181
+- **Active Shelves**: 4 shelves populated across BL, BG, and Normal Manhua/Manhwa
 
 ---
 
@@ -235,9 +235,72 @@
    - Chapters: 65 · Status: ONGOING
 
 ## 2. Ongoing BL Manhwa
-*actively releasing and updating Boys' Love manhwa titles*
+*actively releasing and updating Boys' Love manhwa & manhua titles*
 
-*(Empty shelf — titles coming soon)*
+1. **The Tale of the Villain** (Tale of a Villain · 악인담)
+   - Chapters: 40 · Status: ONGOING
+2. **Killer Whale Protocol** (사건명 해일: 범고래 사냥법)
+   - Chapters: 35 · Status: ONGOING
+3. **Dramatic Signal** (드라마틱 시그널)
+   - Chapters: 45 · Status: ONGOING
+4. **Spring Finally Arrived** (Spring, at Last · 끝내 닿는 봄)
+   - Chapters: 30 · Status: ONGOING
+5. **The Thread Never Burned** (신결)
+   - Chapters: 30 · Status: ONGOING
+6. **The Snake That Swallowed the Pomegranate** (Devoured: The Serpent and the Pomegranate · 석류를 삼킨 뱀)
+   - Chapters: 35 · Status: ONGOING
+7. **Desire Me If You Can** (디자이어 미 이프 유 캔)
+   - Chapters: 25 · Status: ONGOING
+8. **Office Hero** (신입사원 용사님)
+   - Chapters: 30 · Status: ONGOING
+9. **Passion** (패션)
+   - Chapters: 31 · Status: ONGOING
+10. **Forced Strategy 10%** (Forced Strategy 100% · 被迫攻略100%)
+   - Chapters: 50 · Status: ONGOING
+11. **Gig of the Day** (일간알바)
+   - Chapters: 35 · Status: ONGOING
+12. **He Hasn't Faded** (Ain't Faded · 他未曾坠落)
+   - Chapters: 40 · Status: ONGOING
+13. **Ring** (Ring - The History of Two Angels · 灵环)
+   - Chapters: 60 · Status: ONGOING
+14. **Regas** (레가스)
+   - Chapters: 45 · Status: ONGOING
+15. **Heatstroke** (열사병)
+   - Chapters: 10 · Status: ONGOING
+16. **Quo Vadis, Domine?** (쿼바디스 도미네)
+   - Chapters: 30 · Status: ONGOING
+17. **Wild Beast Warning** (He Might Bite! · 맹수주의보)
+   - Chapters: 35 · Status: ONGOING
+18. **Degenerate/ Grain in Ear** (Degenerate · 망종)
+   - Chapters: 40 · Status: ONGOING
+19. **Nerd Project** (Nerd Project · 너드 프로젝트)
+   - Chapters: 63 · Status: ONGOING
+20. **Kiss Me If You Can** (키스 미 이프 유 캔)
+   - Chapters: 40 · Status: ONGOING
+21. **Kiss the Scumbag** (키스 더 스컴백)
+   - Chapters: 35 · Status: ONGOING
+22. **Painter of the Night** (야화첩)
+   - Chapters: 130 · Status: ONGOING
+23. **Cherry Cake** (체리케이크)
+   - Chapters: 30 · Status: ONGOING
+24. **Flower of Aloshya** (The Search for Alosha · 알로샤의 꽃)
+   - Chapters: 45 · Status: ONGOING
+25. **16647** (16647)
+   - Chapters: 25 · Status: ONGOING
+26. **The Story of Kaii and Asuka** (Kaii-san to Asuka-kun no Ohanashi · 怪異さんと飛鳥くんのお話)
+   - Chapters: 20 · Status: ONGOING
+27. **I Like Your Pheromones** (我喜欢你的信息素)
+   - Chapters: 50 · Status: ONGOING
+28. **A Proper Relationship** (The Right Relationship · 올바른 연애)
+   - Chapters: 50 · Status: ONGOING
+29. **Living Life Over** (See You Never · 来生不见)
+   - Chapters: 45 · Status: ONGOING
+30. **My Hot Friend Is Glowing** (내 친구는 잘생겼다)
+   - Chapters: 50 · Status: ONGOING
+31. **Morbid Attachment** (诟病)
+   - Chapters: 106 · Status: ONGOING
+32. **The Spooky Love Tale of Gongchan Seol** (설공찬전)
+   - Chapters: 65 · Status: ONGOING
 
 ## 3. To Be Read BL Manhwa
 *queued Boys' Love manhwa titles on the reading stack*
@@ -304,9 +367,46 @@
 *(Empty shelf — titles coming soon)*
 
 ## 8. Ongoing Manhua
-*ongoing and actively releasing general manhua titles*
+*actively serializing and ongoing general manhwa & manhua series*
 
-*(Empty shelf — titles coming soon)*
+1. **How to Reject My Obsessive Ex Husband** (How To Reject My Obsessive Ex-Husband · 전남편의 집착을 거절하는 법)
+   - Chapters: 100 · Status: ONGOING
+2. **I Won't Accept Your Regrets** (Your Regrets Mean Nothing to Me · 당신의 후회는 받지 않겠습니다)
+   - Chapters: 135 · Status: ONGOING
+3. **The Constellations Are My Disciples** (성좌들이 내 제자)
+   - Chapters: 65 · Status: ONGOING
+4. **The Real Daughter Is Back** (Revenge on the Real One · 진짜 딸이 돌아왔다)
+   - Chapters: 162 · Status: ONGOING
+5. **Death Is the Only Ending for the Villainess** (Villains Are Destined to Die · 악역의 엔딩은 죽음뿐)
+   - Chapters: 160 · Status: ONGOING
+6. **Forgotten Field** (잊혀진 들판)
+   - Chapters: 30 · Status: ONGOING
+7. **I Was the Real Owner of Elheim** (I Was the Real Head of the House · 진짜 가주는 나였다)
+   - Chapters: 84 · Status: ONGOING
+8. **I Was Rocked to the World's Richest Man in Matchmaking Office** (我在婚配所摇到了世界首富)
+   - Chapters: 249 · Status: ONGOING
+9. **Perfect Secret Love** (恰似寒光遇骄阳)
+   - Chapters: 592 · Status: ONGOING
+10. **Revenge of Iron Blooded Sword Hound** (Revenge of the Baskerville Bloodhound · 철혈검가 사냥개의 회귀)
+   - Chapters: 80 · Status: ONGOING
+11. **Everyone Was Obsessed with Me After I Became the Youngest Princess's Favourite** (막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다)
+   - Chapters: 50 · Status: ONGOING
+12. **No Place for Fake Princess** (Philomel the Fake · 가짜를 위한 장소는 없다)
+   - Chapters: 75 · Status: ONGOING
+13. **Father, I Won't Do Anything** (아빠, 저는 아무것도 하지 않을게요)
+   - Chapters: 1 · Status: ONGOING
+14. **The Villainess Who Reverses the Hourglass** (The Villainess Turns the Hourglass · 악녀는 모래시계를 되돌린다)
+   - Chapters: 125 · Status: ONGOING
+15. **Do Snake Eat Flowers?** (The Snake and the Flower · 뱀은 꽃을 먹는가)
+   - Chapters: 86 · Status: ONGOING
+16. **Study Group** (스터디그룹)
+   - Chapters: 240 · Status: ONGOING
+17. **Killer Peter** (킬러 배드로)
+   - Chapters: 60 · Status: ONGOING
+18. **Academy's Genius Swordmaster** (The Academy's Genius Swordsman · 아카데미의 천재칼잡이)
+   - Chapters: 55 · Status: ONGOING
+19. **The Archmage's Restaurant** (The Archmage’s Restaurant · 어느 마법사의 식당)
+   - Chapters: 50 · Status: ONGOING
 
 ## 9. To Be Read Manhua
 *planned general manhua and manhwa titles on the backlog*
