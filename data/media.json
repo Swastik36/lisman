@@ -1519,8 +1519,8 @@
       }
     ],
     "color": "#e7b267",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/raising-beta.webp",
+    "banner": "assets/img/banners/raising-beta.webp"
   },
   "be-watched-by-my-ex": {
     "id": null,
@@ -1554,8 +1554,8 @@
       }
     ],
     "color": "#b09bea",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/be-watched-by-my-ex.webp",
+    "banner": "assets/img/banners/be-watched-by-my-ex.webp"
   },
   "social-temperature": {
     "id": null,
@@ -1590,8 +1590,8 @@
       }
     ],
     "color": "#7ec9a8",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/social-temperature.webp",
+    "banner": "assets/img/banners/social-temperature.webp"
   },
   "love-you-is-my-fault": {
     "id": null,
@@ -1621,8 +1621,8 @@
       }
     ],
     "color": "#82bcdc",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/love-you-is-my-fault.webp",
+    "banner": "assets/img/banners/love-you-is-my-fault.webp"
   },
   "unilaterally-married": {
     "id": null,
@@ -1653,8 +1653,8 @@
       }
     ],
     "color": "#ef9a78",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/unilaterally-married.webp",
+    "banner": "assets/img/banners/unilaterally-married.webp"
   },
   "princes-first-love": {
     "id": null,
@@ -1689,8 +1689,8 @@
       }
     ],
     "color": "#e7b267",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/princes-first-love.webp",
+    "banner": "assets/img/banners/princes-first-love.webp"
   },
   "ex-husband-wants-to-marry-again": {
     "id": null,
@@ -1721,7 +1721,7 @@
       }
     ],
     "color": "#d98080",
-    "poster": null,
-    "banner": null
+    "poster": "assets/img/posters/ex-husband-wants-to-marry-again.webp",
+    "banner": "assets/img/banners/ex-husband-wants-to-marry-again.webp"
   }
 }

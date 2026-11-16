@@ -884,8 +884,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "A fragile Beta finds himself surrounded by dominant Alphas in an unpredictable omegaverse relationship.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/raising-beta.webp",
+          "banner": "assets/img/banners/raising-beta.webp",
           "emptyMark": "RB",
           "emptyLabel": "Raising Beta",
           "info": {
@@ -1669,8 +1669,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "An unexpected reunion between former lovers sparks lingering obsessions and complicated feelings in this high-tension urban romance.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/be-watched-by-my-ex.webp",
+          "banner": "assets/img/banners/be-watched-by-my-ex.webp",
           "emptyMark": "BW",
           "emptyLabel": "Be Watched by My Ex Again",
           "info": {
@@ -1719,8 +1719,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "Song Yuanxun, an indifferent student with biases, accidentally matches on a dating app with Fang Zhaomu—someone he heavily disliked. To his surprise, Fang Zhaomu turns out to be unexpectedly endearing and persistent.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/social-temperature.webp",
+          "banner": "assets/img/banners/social-temperature.webp",
           "emptyMark": "ST",
           "emptyLabel": "Social Temperature",
           "info": {
@@ -1770,8 +1770,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "A heart-wrenching webtoon tracing the painful sacrifices and deep emotional entanglements between two people bound by destiny.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/love-you-is-my-fault.webp",
+          "banner": "assets/img/banners/love-you-is-my-fault.webp",
           "emptyMark": "LY",
           "emptyLabel": "Love You is My Fault",
           "info": {
@@ -1816,8 +1816,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "Popular celebrity Li Yuze shocks the entire entertainment world by announcing right after his debut that he is already married to a man, sparking an intense mystery around his spouse He Zhiqiu.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/unilaterally-married.webp",
+          "banner": "assets/img/banners/unilaterally-married.webp",
           "emptyMark": "UM",
           "emptyLabel": "Unilaterally Married",
           "info": {
@@ -1863,8 +1863,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "Flawless royal prince Nazaire transfers schools to consolidate his status, only to clash fiercely with campus tyrant Cassius Li—leading to unexpected dreams and conflicting desires.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/princes-first-love.webp",
+          "banner": "assets/img/banners/princes-first-love.webp",
           "emptyMark": "PS",
           "emptyLabel": "Prince's First Love",
           "info": {
@@ -1914,8 +1914,8 @@ window.__DATA__ = {
           "sectionTitle": "Completed BL Manhwa / Manhua",
           "accent": "#7ec9a8",
           "synopsis": "After enduring heartbreak and a messy divorce, Ji Ran leaves his regretful ex-husband Ye Linghan, who desperately chases after him to win back his heart.",
-          "image": null,
-          "banner": null,
+          "image": "assets/img/posters/ex-husband-wants-to-marry-again.webp",
+          "banner": "assets/img/banners/ex-husband-wants-to-marry-again.webp",
           "emptyMark": "EH",
           "emptyLabel": "Ex Husband Wants to Marry Again",
           "info": {
@@ -2048,6 +2048,6 @@ window.__DATA__ = {
     ],
     "note": "Curated personal reading collection for BL manhwa and manhua."
   },
-  "builtAt": "2026-11-16T14:32:45.372Z"
+  "builtAt": "2026-11-16T14:45:40.601Z"
 };
 window.MANGA_DATA = window.__DATA__;
