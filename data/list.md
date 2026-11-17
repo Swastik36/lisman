@@ -193,7 +193,7 @@
    - Chapters: 99 · Status: COMPLETED
 90. **S Class Guide as Sweet as Honey** (The S-Class Guide as Sweet as Honey · 꿀처럼 달콤한 S급 가이드)
    - Chapters: 80 · Status: COMPLETED
-91. **Possessing the Obsessive Maniac's Cotton Doll** (The Duke's Plush Obsession · 광공의 솜뭉치로 빙의함)
+91. **Possessed by a Cotton Ball** (Possessed by a Cotton Ball · Possessing the Obsessive Maniac's Cotton Doll · The Duke's Plush Obsession · 광공의 솜뭉치로 빙의함)
    - Chapters: 50 · Status: ONGOING
 92. **Evenly Matched Love** (Evenly Matched Love · 旗鼓相当)
    - Chapters: 122 · Status: COMPLETED
@@ -219,20 +219,20 @@
    - Chapters: 89 · Status: COMPLETED
 103. **Release Your Persona** (Release Your Persona · 릴리즈 유어 페르소나)
    - Chapters: 19 · Status: COMPLETED
-104. **Ring** (Monthly Noir: Ring · 월간느와르: 반지)
-   - Chapters: 15 · Status: COMPLETED
-105. **Blood/Lust** (LUST / In Pursuit of Lust · 러스트)
+104. **Blood/Lust** (LUST / In Pursuit of Lust · 러스트)
    - Chapters: 5 · Status: COMPLETED
-106. **Salt Friend** (Salt Friend · 盐友)
+105. **Salt Friend** (Salt Friend · 盐友)
    - Chapters: 100 · Status: ONGOING
-107. **Lights Camera Action** (Lights, Camera, Action! · 입장이 바뀌었는데요?)
+106. **Lights Camera Action** (Lights, Camera, Action! · 입장이 바뀌었는데요?)
    - Chapters: 17 · Status: COMPLETED
-108. **Senza Replica** (Senza Replica · 센자 레플리카)
+107. **Senza Replica** (Senza Replica · 센자 레플리카)
    - Chapters: 95 · Status: COMPLETED
-109. **Please Pay Attention to Me** (Gimme Some Love! · 관심 좀 꺼내 줘)
+108. **Please Pay Attention to Me** (Gimme Some Love! · 관심 좀 꺼내 줘)
    - Chapters: 8 · Status: COMPLETED
-110. **Part Time Partner** (Part-time Partner · 파트타임 파트너)
+109. **Part Time Partner** (Part-time Partner · 파트타임 파트너)
    - Chapters: 65 · Status: ONGOING
+110. **Report My Boss!** (Report My Boss! · 리포트 마이보스)
+   - Chapters: 60 · Status: COMPLETED
 
 ## 2. Ongoing BL Manhwa
 *actively releasing and updating Boys' Love manhwa & manhua titles*

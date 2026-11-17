@@ -9,7 +9,7 @@ window.__DATA__ = {
   },
   "heroStats": [
     {
-      "value": "15,369",
+      "value": "15,414",
       "label": "chapters read"
     },
     {
@@ -4698,8 +4698,8 @@ window.__DATA__ = {
         {
           "id": "c-possessed-by-a-cotton-ball",
           "media": "possessed-by-a-cotton-ball",
-          "title": "Possessing the Obsessive Maniac's Cotton Doll",
-          "alt": "The Duke's Plush Obsession · 광공의 솜뭉치로 빙의함",
+          "title": "Possessed by a Cotton Ball",
+          "alt": "Possessed by a Cotton Ball · Possessing the Obsessive Maniac's Cotton Doll · The Duke's Plush Obsession · 광공의 솜뭉치로 빙의함",
           "badge": "COMPLETED",
           "meta": "55 chapters · Completed",
           "chaptersRead": 55,
@@ -4715,8 +4715,8 @@ window.__DATA__ = {
           "synopsis": "When Yul finds himself dropped into a BL novel, reincarnated as a stuffed toy that has ended up in the hands of an obsessive, tyrannical duke, he's sure he is done for. If the truth gets out, Yul will be burned at the stake! Can he find a way to get back to his real body or is he doomed to be stuck in this fantasy land?",
           "image": "assets/img/posters/possessed-by-a-cotton-ball.webp",
           "banner": "assets/img/banners/possessed-by-a-cotton-ball.webp",
-          "emptyMark": "PT",
-          "emptyLabel": "Possessing the Obsessive Maniac's Cotton Doll",
+          "emptyMark": "PB",
+          "emptyLabel": "Possessed by a Cotton Ball",
           "info": {
             "format": "MANGA",
             "year": null,
@@ -5379,55 +5379,6 @@ window.__DATA__ = {
           }
         },
         {
-          "id": "c-ring",
-          "media": "ring",
-          "title": "Ring",
-          "alt": "Monthly Noir: Ring · 월간느와르: 반지",
-          "badge": "COMPLETED",
-          "meta": "15 chapters · Completed",
-          "chaptersRead": 15,
-          "totalChapters": 15,
-          "progress": [
-            15,
-            15
-          ],
-          "status": "COMPLETED",
-          "sectionId": "completed-bl",
-          "sectionTitle": "Completed BL Manhwa",
-          "accent": "#e7b267",
-          "synopsis": "Choi Yoonjae unexpectedly finds the wedding ring of a gangster boss/hyung named Kang Sungho. Instead of returning it immediately, he impulsively keeps it, trapping himself in an intense, dangerous, and obsessive dynamic.",
-          "image": "assets/img/posters/ring.webp",
-          "banner": "assets/img/banners/ring.webp",
-          "emptyMark": "RI",
-          "emptyLabel": "Ring",
-          "info": {
-            "format": "MANHWA",
-            "year": null,
-            "chapters": 15,
-            "volumes": null,
-            "status": "FINISHED",
-            "averageScore": null,
-            "genres": [
-              "Boys' Love",
-              "Drama",
-              "Noir",
-              "Psychological"
-            ],
-            "staff": [
-              {
-                "name": {
-                  "full": "Gamjadok / Han Su-jae",
-                  "native": "감자동 / 한수재"
-                }
-              }
-            ],
-            "romaji": "Wolgan Noir: Banji",
-            "english": "Monthly Noir: Ring",
-            "native": "월간느와르: 반지",
-            "siteUrl": "https://ridibooks.com"
-          }
-        },
-        {
           "id": "c-blood-lust",
           "media": "blood-lust",
           "title": "Blood/Lust",
@@ -5725,6 +5676,54 @@ window.__DATA__ = {
             "english": "Part-time Partner",
             "native": "파트타임 파트너",
             "siteUrl": "https://anilist.co/manga/152840"
+          }
+        },
+        {
+          "id": "c-report-my-boss",
+          "media": "report-my-boss",
+          "title": "Report My Boss!",
+          "alt": "Report My Boss! · 리포트 마이보스",
+          "badge": "COMPLETED",
+          "meta": "60 chapters · Completed",
+          "chaptersRead": 60,
+          "totalChapters": 60,
+          "progress": [
+            60,
+            60
+          ],
+          "status": "COMPLETED",
+          "sectionId": "completed-bl",
+          "sectionTitle": "Completed BL Manhwa",
+          "accent": "#e7b267",
+          "synopsis": "Gi-Woo just needs a job, and almost any job will do…but he gets more than he bargains for when he stumbles into a position at Cha Seon-Jo’s Battle Cafe. Not only is the owner of this top-tier PC cafe so handsome it’s nearly criminal, he’s also hiding a secret that's actually criminal…",
+          "image": "assets/img/posters/report-my-boss.webp",
+          "banner": "assets/img/banners/report-my-boss.webp",
+          "emptyMark": "RM",
+          "emptyLabel": "Report My Boss!",
+          "info": {
+            "format": "MANGA",
+            "year": null,
+            "chapters": 60,
+            "volumes": null,
+            "status": "FINISHED",
+            "averageScore": null,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "staff": [
+              {
+                "name": {
+                  "full": "Nung"
+                },
+                "role": "Story & Art"
+              }
+            ],
+            "romaji": "Report My Boss",
+            "english": "Report My Boss!",
+            "native": "리포트 마이보스",
+            "siteUrl": "https://anilist.co/manga/183591"
           }
         }
       ]
@@ -9693,8 +9692,8 @@ window.__DATA__ = {
       {
         "label": "Completed BL Manhwa",
         "sectionId": "completed-bl",
-        "chapters": 8876,
-        "display": "8,876 ch",
+        "chapters": 8921,
+        "display": "8,921 ch",
         "accent": "#e7b267"
       },
       {
@@ -9758,10 +9757,10 @@ window.__DATA__ = {
       {
         "label": "Completed BL Manhwa",
         "sectionId": "completed-bl",
-        "chapters": 8876,
-        "display": "8,876 ch",
+        "chapters": 8921,
+        "display": "8,921 ch",
         "accent": "#e7b267",
-        "percentage": 57.8
+        "percentage": 57.9
       },
       {
         "label": "Ongoing BL Manhwa",
@@ -9769,7 +9768,7 @@ window.__DATA__ = {
         "chapters": 1499,
         "display": "1,499 ch",
         "accent": "#7ec9a8",
-        "percentage": 9.8
+        "percentage": 9.7
       },
       {
         "label": "To Be Read BL Manhwa",
@@ -9785,7 +9784,7 @@ window.__DATA__ = {
         "chapters": 2595,
         "display": "2,595 ch",
         "accent": "#ef9a78",
-        "percentage": 16.9
+        "percentage": 16.8
       },
       {
         "label": "Ongoing BG Manhwa",
@@ -9834,6 +9833,6 @@ window.__DATA__ = {
     "no": [],
     "note": ""
   },
-  "builtAt": "2026-11-17T03:09:42.397Z"
+  "builtAt": "2026-11-17T13:44:10.324Z"
 };
 window.MANGA_DATA = window.__DATA__;
