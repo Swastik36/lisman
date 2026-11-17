@@ -9,7 +9,7 @@ window.__DATA__ = {
   },
   "heroStats": [
     {
-      "value": "15,150",
+      "value": "15,369",
       "label": "chapters read"
     },
     {
@@ -2811,20 +2811,20 @@ window.__DATA__ = {
           "id": "c-rabid-dog-breeding-rules",
           "media": "rabid-dog-breeding-rules",
           "title": "Rabid Dog Breeding Rules",
-          "alt": "Mad Dog · 미친개",
+          "alt": "Rabid Dog Breeding Rules · 狂犬饲养法则",
           "badge": "COMPLETED",
-          "meta": "51 chapters · Completed",
-          "chaptersRead": 51,
-          "totalChapters": 51,
+          "meta": "81 chapters · Completed",
+          "chaptersRead": 81,
+          "totalChapters": 81,
           "progress": [
-            51,
-            51
+            81,
+            81
           ],
           "status": "COMPLETED",
           "sectionId": "completed-bl",
           "sectionTitle": "Completed BL Manhwa",
           "accent": "#e7b267",
-          "synopsis": "Some people thirst for power while others want nothing more than to live low. Ha-Min has always been resentful of the label that comes with being his father’s son—he didn’t ask to be born into a mob family! After much trial and error, Ha-Min finally breaks ties with his family and begins to live the life he's dreamed about. That is, until he gets kidnapped and finds himself under the protection of a certain Kwon Se-Hyeok. All Ha-Min wants is his \"normal\" life back, but Se-Hyeok is as far from normal as a person can get...",
+          "synopsis": "In the eyes of Xu Hanzhou, Shen Yuan was always his most obedient, submissive, and loyal dog. But when Shen Yuan loses control and goes completely wild, Hanzhou realizes that behind that docile facade lies a dangerous, obsessive beast. A tension-filled ABO power dynamic unfolds between a cold, calculating Queen and an unhinged, fiercely devoted hound.",
           "image": "assets/img/posters/rabid-dog-breeding-rules.webp",
           "banner": "assets/img/banners/rabid-dog-breeding-rules.webp",
           "emptyMark": "RD",
@@ -2832,27 +2832,32 @@ window.__DATA__ = {
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 51,
+            "chapters": 81,
             "volumes": null,
             "status": "FINISHED",
-            "averageScore": 73,
+            "averageScore": null,
             "genres": [
-              "Action",
               "Drama",
               "Romance"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "Haribo",
-                  "native": "하리보"
-                }
+                  "full": "Cao Huohuo"
+                },
+                "role": "Story"
+              },
+              {
+                "name": {
+                  "full": "Zhongyue Animation"
+                },
+                "role": "Art"
               }
             ],
-            "romaji": "Mad Dog",
-            "english": "Mad Dog",
-            "native": "매드 독",
-            "siteUrl": "https://anilist.co/manga/136025"
+            "romaji": "Kuangquan Siyang Faze",
+            "english": "Rabid Dog Breeding Rules",
+            "native": "狂犬饲养法则",
+            "siteUrl": "https://manga.bilibili.com/detail/mc34078"
           }
         },
         {
@@ -4353,20 +4358,20 @@ window.__DATA__ = {
           "id": "c-kill-my-love",
           "media": "kill-my-love",
           "title": "Kill My Love",
-          "alt": "Killing My Love · 杀死我爱的人",
+          "alt": "Kill My Love · 爱与杀意之夜",
           "badge": "COMPLETED",
-          "meta": "124 chapters · Completed",
-          "chaptersRead": 124,
-          "totalChapters": 124,
+          "meta": "92 chapters · Completed",
+          "chaptersRead": 92,
+          "totalChapters": 92,
           "progress": [
-            124,
-            124
+            92,
+            92
           ],
           "status": "COMPLETED",
           "sectionId": "completed-bl",
           "sectionTitle": "Completed BL Manhwa",
           "accent": "#e7b267",
-          "synopsis": "Lovers have been dying in the cruelest way possible. Victims were sliced up into pieces, as if their bodies had exploded. Andrea and Ian were mere bystanders to this spectacle until a misunderstanding throws them into “Killing My Love” (KML)!\n\nThis is a game that uses love to fuel murder. Each team of pairs are given targets that they must kill… or else. All the while, a sadistic gamemaster watches from the shadows.\n\nKML is a game with no end in sight, but one thing’s for sure… this hell is just getting started.",
+          "synopsis": "Ten years ago, the beta was at his peak as a hit-man, when he was seriously injured while trying to save an alpha child. Having lost his edge as a killer, he retired to the countryside with a new identity to start a new life. Until an unexpected visitor showed up one day. That boy he saved has grownup to become the leader of his own gang, and now he's come looking for him with crazed intentions.",
           "image": "assets/img/posters/kill-my-love.webp",
           "banner": "assets/img/banners/kill-my-love.webp",
           "emptyMark": "KM",
@@ -4374,34 +4379,26 @@ window.__DATA__ = {
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 124,
+            "chapters": 92,
             "volumes": null,
             "status": "FINISHED",
-            "averageScore": 65,
+            "averageScore": 63,
             "genres": [
-              "Action",
-              "Fantasy",
-              "Mystery",
+              "Drama",
               "Romance"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "Su Ye",
-                  "native": "素夜"
-                }
-              },
-              {
-                "name": {
-                  "full": "Dong",
-                  "native": "东"
-                }
+                  "full": "Xi Ni"
+                },
+                "role": "Story & Art"
               }
             ],
-            "romaji": "Liesha Wu Ai",
-            "english": "Killing My Love",
-            "native": "猎杀吾爱",
-            "siteUrl": "https://anilist.co/manga/143905"
+            "romaji": "Ai Yu Sha Yi Zhi Ye",
+            "english": null,
+            "native": "爱与杀意之夜",
+            "siteUrl": "https://anilist.co/manga/173435"
           }
         },
         {
@@ -4701,61 +4698,55 @@ window.__DATA__ = {
         {
           "id": "c-possessed-by-a-cotton-ball",
           "media": "possessed-by-a-cotton-ball",
-          "title": "Possessed by a Cotton Ball",
-          "alt": "The White Tiger Clan’s Little Fluff · 백호 가문의 아기 솜뭉치",
-          "badge": "ONGOING",
-          "meta": "50 chapters · Ongoing",
-          "chaptersRead": 50,
-          "totalChapters": 50,
+          "title": "Possessing the Obsessive Maniac's Cotton Doll",
+          "alt": "The Duke's Plush Obsession · 광공의 솜뭉치로 빙의함",
+          "badge": "COMPLETED",
+          "meta": "55 chapters · Completed",
+          "chaptersRead": 55,
+          "totalChapters": 55,
           "progress": [
-            50,
-            50
+            55,
+            55
           ],
-          "status": "RELEASING",
+          "status": "COMPLETED",
           "sectionId": "completed-bl",
           "sectionTitle": "Completed BL Manhwa",
           "accent": "#e7b267",
-          "synopsis": "Soya was the Phoenix clan's treasured youngest daughter. At least, she was until her ninth birthday, when she shifted for the first time and turned into a baby bird with soft white down instead of crimson. She became the family's disgrace overnight, and when the clan's true daughter came home at last, they threw Soya out to die. One fateful night, Soya was moments from death when Sae-on Baek, head of the White Tiger clan, steals her away. All Soya wants now is to stay quiet and go unnoticed in her new home, but unfortunately, her new family seems to have other plans.",
+          "synopsis": "When Yul finds himself dropped into a BL novel, reincarnated as a stuffed toy that has ended up in the hands of an obsessive, tyrannical duke, he's sure he is done for. If the truth gets out, Yul will be burned at the stake! Can he find a way to get back to his real body or is he doomed to be stuck in this fantasy land?",
           "image": "assets/img/posters/possessed-by-a-cotton-ball.webp",
           "banner": "assets/img/banners/possessed-by-a-cotton-ball.webp",
-          "emptyMark": "PB",
-          "emptyLabel": "Possessed by a Cotton Ball",
+          "emptyMark": "PT",
+          "emptyLabel": "Possessing the Obsessive Maniac's Cotton Doll",
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 50,
+            "chapters": 55,
             "volumes": null,
-            "status": "RELEASING",
-            "averageScore": 64,
+            "status": "FINISHED",
+            "averageScore": 65,
             "genres": [
-              "Drama",
+              "Comedy",
               "Fantasy",
               "Romance"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "Do-Hui Kwon",
-                  "native": "권도희"
-                }
+                  "full": "Deokpal Kim"
+                },
+                "role": "Original Story"
               },
               {
                 "name": {
-                  "full": "De-Bin",
-                  "native": "데빈"
-                }
-              },
-              {
-                "name": {
-                  "full": "Kkulkki",
-                  "native": "꿀끼"
-                }
+                  "full": "Damyo"
+                },
+                "role": "Story & Art"
               }
             ],
-            "romaji": "Baeko Gamunui Agi Sommungchi",
-            "english": "The White Tiger Clan’s Little Fluff",
-            "native": "백호 가문의 아기 솜뭉치",
-            "siteUrl": "https://anilist.co/manga/211740"
+            "romaji": "Gwanggong-ui Sommungchiro Binguiham",
+            "english": "The Duke's Plush Obsession",
+            "native": "광공의 솜뭉치로 빙의함",
+            "siteUrl": "https://anilist.co/manga/188590"
           }
         },
         {
@@ -5440,20 +5431,20 @@ window.__DATA__ = {
           "id": "c-blood-lust",
           "media": "blood-lust",
           "title": "Blood/Lust",
-          "alt": "LUST · 정염",
+          "alt": "LUST / In Pursuit of Lust · 러스트",
           "badge": "COMPLETED",
-          "meta": "5 chapters · Completed",
-          "chaptersRead": 5,
-          "totalChapters": 5,
+          "meta": "68 chapters · Completed",
+          "chaptersRead": 68,
+          "totalChapters": 68,
           "progress": [
-            5,
-            5
+            68,
+            68
           ],
           "status": "COMPLETED",
           "sectionId": "completed-bl",
           "sectionTitle": "Completed BL Manhwa",
           "accent": "#e7b267",
-          "synopsis": "Jeong-Ueom has avoided his arranged marriage for years, but with mounting pressure from the other family, he can no longer delay. Yet, his heart has already been claimed by someone irreplaceable—his younger brother, Dong-Im. Dong-Im is not only Jeong-Yeom’s forbidden love but also the one Jeong-Yeom has kept by his side, no matter the cost. In the biting chill of winter, longing for a spring that may never come, Jeong-Yeom finds himself once again drawn to Dong-Im’s room.\n“Dear brother, how does it feel? How does it feel to marry my woman?”",
+          "synopsis": "Medical examiner and virgin Han Yeonu's suspects that his corpse is the victim of a homosexual serial killing. He tries to inform Cha Dohyeon, the district attorney in charge of the case, but in the process almost becomes a victim himself. Dohyeon offers Yeonu to stay with him as the killer is on the loose. While together, the two start unleashing the lust they'd suppressed ever since their first encounter, as Dohyeon takes the lead and Yeonu finds comfort in his arms.",
           "image": "assets/img/posters/blood-lust.webp",
           "banner": "assets/img/banners/blood-lust.webp",
           "emptyMark": "BL",
@@ -5461,25 +5452,27 @@ window.__DATA__ = {
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 5,
+            "chapters": 64,
             "volumes": null,
             "status": "FINISHED",
-            "averageScore": 56,
+            "averageScore": null,
             "genres": [
-              "Drama"
+              "Drama",
+              "Mystery",
+              "Romance"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "C R Jade",
-                  "native": "클레제이드"
-                }
+                  "full": "Ryu-Ha"
+                },
+                "role": "Story & Art"
               }
             ],
-            "romaji": "Jeongyeom",
-            "english": "LUST",
-            "native": "정염",
-            "siteUrl": "https://anilist.co/manga/186554"
+            "romaji": "LUST",
+            "english": "ln Pursuit of Lust",
+            "native": "러스트",
+            "siteUrl": "https://anilist.co/manga/135496"
           }
         },
         {
@@ -6179,48 +6172,67 @@ window.__DATA__ = {
         {
           "id": "obl-passion",
           "media": "passion",
-          "title": "Passion",
-          "alt": "패션",
+          "title": "PASSION",
+          "alt": "PASSION · 패션",
           "badge": "ONGOING",
-          "meta": "31 chapters · Ongoing",
-          "chaptersRead": 31,
-          "totalChapters": 31,
+          "meta": "Ongoing · Action / Drama",
+          "chaptersRead": 105,
+          "totalChapters": 105,
           "progress": [
-            31,
-            31
+            105,
+            105
           ],
           "status": "RELEASING",
           "sectionId": "ongoing-bl",
           "sectionTitle": "Ongoing BL Manhwa",
           "accent": "#7ec9a8",
-          "synopsis": "Struggling photographer Kim Soo-hyun is drowning his sorrows in the park one night when he finds himself confronted by a beautiful young woman insisting he allow her to model for him. Eventually, he accepts, but before long he comes to discover the dark secrets she is hiding…",
+          "synopsis": "Jeong Taeui has always lived in the shadow of his genius twin brother, but he’s never been unhappy with his ordinary life. When his uncle shows up at his doorstep with a dangerous job offer disguised as a once-in-a-lifetime opportunity, Taeui is skeptical, but he reluctantly agrees to work as an agent for half a year. Despite his initial qualms, he quickly adjusts to his new environment using his outgoing, positive personality. But from the moment Taeui meets Ilay Riegrow, an agent from another branch, his peaceful life slowly starts to change. Everyone says Ilay is a sadistic psychopath who should be avoided at all costs, but Taeui knows there’s more to him than meets the eye. But getting to know Ilay is like playing with fire, and Taeui isn’t sure if he’s ready to get burned.",
           "image": "assets/img/posters/passion.webp",
           "banner": "assets/img/banners/passion.webp",
           "emptyMark": "PA",
-          "emptyLabel": "Passion",
+          "emptyLabel": "PASSION",
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 31,
+            "chapters": 105,
             "volumes": null,
-            "status": "FINISHED",
-            "averageScore": null,
+            "status": "RELEASING",
+            "averageScore": 74,
             "genres": [
-              "Mystery",
-              "Psychological"
+              "Action",
+              "Drama",
+              "Romance"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "Seon Lee",
-                  "native": "이선"
-                }
+                  "full": "Myeong"
+                },
+                "role": "Story (chs 85-86)"
+              },
+              {
+                "name": {
+                  "full": "U-Ji Yu"
+                },
+                "role": "Original Story"
+              },
+              {
+                "name": {
+                  "full": "Hound"
+                },
+                "role": "Story (chs 1-70)"
+              },
+              {
+                "name": {
+                  "full": "Kang-Jak"
+                },
+                "role": "Art"
               }
             ],
-            "romaji": "Passion",
-            "english": "Passion",
+            "romaji": "PASSION",
+            "english": "PASSION",
             "native": "패션",
-            "siteUrl": "https://anilist.co/manga/125902"
+            "siteUrl": "https://anilist.co/manga/129247"
           }
         },
         {
@@ -6479,47 +6491,55 @@ window.__DATA__ = {
         {
           "id": "obl-heatstroke",
           "media": "heatstroke",
-          "title": "Heatstroke",
-          "alt": "열사병",
+          "title": "Heat Stroke",
+          "alt": "Heat Stroke · 아기 삵을 낳아줘",
           "badge": "ONGOING",
-          "meta": "10 chapters · Ongoing",
-          "chaptersRead": 10,
-          "totalChapters": 10,
+          "meta": "Ongoing · Comedy / Fantasy",
+          "chaptersRead": 35,
+          "totalChapters": 35,
           "progress": [
-            10,
-            10
+            35,
+            35
           ],
           "status": "RELEASING",
           "sectionId": "ongoing-bl",
           "sectionTitle": "Ongoing BL Manhwa",
           "accent": "#7ec9a8",
-          "synopsis": "A cram school dormitory in the height of summer. Before Gwang-Tae, who has turned his back on the world and is just getting by, appears Bo-Ae, a girl who longs to exist in this world. Amid the stifling heat in a corner of the dormitory, Gwang-Tae’s stagnant life begins to stir with the arrival of Bo-Ae.",
+          "synopsis": "Goh Yu-Min, the eldest son of an endangered black-footed wildcat clan, has never even met a female of his own kind and is doomed to a lifelong single status. Now freshly in heat and losing his mind to breeding instinct, he catches wind of a secret rumor: a male wildcat can perfectly pair with a human man and impregnate him without fail. Determined to continue his family line, Yu-Min sneaks into Hanguk University in search of the most beautiful and brilliant man he can find, and that is where he meets Beom Tae-Jun, a stunning senior with an irresistible body. Yu-Min sets aside his pride and desperately attempts to court him, only to end up pinned beneath Tae-Jun on his own bed. To his shock, Yu-Min realizes he is the one being “bred,” not the other way around. Even as he tries to escape, he finds himself addicted to Tae-Jun’s touch.\n\nCan Yu-Min break free, or will he lose himself completely before he can secure the baby wildcat needed to carry on his family’s bloodline?",
           "image": "assets/img/posters/heatstroke.webp",
           "banner": "assets/img/banners/heatstroke.webp",
-          "emptyMark": "HE",
-          "emptyLabel": "Heatstroke",
+          "emptyMark": "HS",
+          "emptyLabel": "Heat Stroke",
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 10,
+            "chapters": 35,
             "volumes": null,
-            "status": "FINISHED",
-            "averageScore": null,
+            "status": "RELEASING",
+            "averageScore": 70,
             "genres": [
-              "Drama"
+              "Comedy",
+              "Drama",
+              "Fantasy"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "Seo-Hyeon Sang",
-                  "native": "상서현"
-                }
+                  "full": "Ninano"
+                },
+                "role": "Story & Art"
+              },
+              {
+                "name": {
+                  "full": "Ganjang Factory"
+                },
+                "role": "Original Story"
               }
             ],
-            "romaji": "Yeolsabyeong",
-            "english": "Yeolsabyeong",
-            "native": "열사병",
-            "siteUrl": "https://anilist.co/manga/210988"
+            "romaji": "Agi Salgeul Naajwo, Na Michineun Kkol Bogi Sileumyeon!",
+            "english": "Heat Stroke",
+            "native": "아기 삵을 낳아줘, 나 미치는 꼴 보기 싫으면!",
+            "siteUrl": "https://anilist.co/manga/199402"
           }
         },
         {
@@ -8119,48 +8139,48 @@ window.__DATA__ = {
         {
           "id": "bg-devil-in-the-suit",
           "media": "devil-in-the-suit",
-          "title": "Devil in the Suit",
-          "alt": "The Devil in the Suit · 鬼上司はスーツを脱いでも凶暴でした。",
+          "title": "The Devil in the Suit",
+          "alt": "The Devil in the Suit · 西装下的魔王",
           "badge": "COMPLETED",
-          "meta": "21 chapters · Completed",
-          "chaptersRead": 21,
-          "totalChapters": 21,
+          "meta": "75 chapters · Completed",
+          "chaptersRead": 75,
+          "totalChapters": 75,
           "progress": [
-            21,
-            21
+            75,
+            75
           ],
           "status": "COMPLETED",
           "sectionId": "completed-bg",
           "sectionTitle": "Completed BG Manhwa",
           "accent": "#ef9a78",
-          "synopsis": "\"That's an order. I'm going to make you cum right in front of him.\" My boss is stirring up my inside exactly in front of my sleeping coworker. The sounds of our love-making echo through the room... Oh my God... Is he gonna find out? | The story is about an evil boss, Mr. Kashiwagi who's over-strict to his subordinate Ms. Hidaka, even after someone advises him not to be that evil to her. His answer is: That's exactly how she should be handled.",
+          "synopsis": "Second-rate novelist Shao Xinyu disguises herself as a young man under the alias 'Shao Xinyu' and takes a huge risk by sneaking into Rong Guang Group, a renowned talent agency. Her mission: secretly gather material on the notoriously cold, arrogant, and sharp-tongued CEO Wen Qijing. But living and working in close quarters with the 'devil in the suit' quickly turns her undercover investigation into an uncontrollable romance.",
           "image": "assets/img/posters/devil-in-the-suit.webp",
           "banner": "assets/img/banners/devil-in-the-suit.webp",
-          "emptyMark": "DI",
-          "emptyLabel": "Devil in the Suit",
+          "emptyMark": "TD",
+          "emptyLabel": "The Devil in the Suit",
           "info": {
             "format": "MANGA",
             "year": null,
-            "chapters": 21,
-            "volumes": 1,
+            "chapters": 75,
+            "volumes": null,
             "status": "FINISHED",
             "averageScore": null,
             "genres": [
-              "Ecchi",
+              "Comedy",
               "Romance"
             ],
             "staff": [
               {
                 "name": {
-                  "full": "Rui Fujimori",
-                  "native": "藤森るい"
-                }
+                  "full": "Dongying COMIC"
+                },
+                "role": "Story & Art"
               }
             ],
-            "romaji": "Oni Joushi wa Suit wo Nuide mo Kyouboudeshita.",
+            "romaji": "Xizhuang Xia De Mo Wang",
             "english": "The Devil in the Suit",
-            "native": "鬼上司はスーツを脱いでも凶暴でした。",
-            "siteUrl": "https://anilist.co/manga/120604"
+            "native": "西装下的魔王",
+            "siteUrl": "https://www.baozimh.com/comic/xizhuangxiademowang-dongying"
           }
         },
         {
@@ -9673,15 +9693,15 @@ window.__DATA__ = {
       {
         "label": "Completed BL Manhwa",
         "sectionId": "completed-bl",
-        "chapters": 8810,
-        "display": "8,810 ch",
+        "chapters": 8876,
+        "display": "8,876 ch",
         "accent": "#e7b267"
       },
       {
         "label": "Ongoing BL Manhwa",
         "sectionId": "ongoing-bl",
-        "chapters": 1400,
-        "display": "1,400 ch",
+        "chapters": 1499,
+        "display": "1,499 ch",
         "accent": "#7ec9a8"
       },
       {
@@ -9694,8 +9714,8 @@ window.__DATA__ = {
       {
         "label": "Completed BG Manhwa",
         "sectionId": "completed-bg",
-        "chapters": 2541,
-        "display": "2,541 ch",
+        "chapters": 2595,
+        "display": "2,595 ch",
         "accent": "#ef9a78"
       },
       {
@@ -9738,18 +9758,18 @@ window.__DATA__ = {
       {
         "label": "Completed BL Manhwa",
         "sectionId": "completed-bl",
-        "chapters": 8810,
-        "display": "8,810 ch",
+        "chapters": 8876,
+        "display": "8,876 ch",
         "accent": "#e7b267",
-        "percentage": 58.2
+        "percentage": 57.8
       },
       {
         "label": "Ongoing BL Manhwa",
         "sectionId": "ongoing-bl",
-        "chapters": 1400,
-        "display": "1,400 ch",
+        "chapters": 1499,
+        "display": "1,499 ch",
         "accent": "#7ec9a8",
-        "percentage": 9.2
+        "percentage": 9.8
       },
       {
         "label": "To Be Read BL Manhwa",
@@ -9762,10 +9782,10 @@ window.__DATA__ = {
       {
         "label": "Completed BG Manhwa",
         "sectionId": "completed-bg",
-        "chapters": 2541,
-        "display": "2,541 ch",
+        "chapters": 2595,
+        "display": "2,595 ch",
         "accent": "#ef9a78",
-        "percentage": 16.8
+        "percentage": 16.9
       },
       {
         "label": "Ongoing BG Manhwa",
@@ -9797,7 +9817,7 @@ window.__DATA__ = {
         "chapters": 2399,
         "display": "2,399 ch",
         "accent": "#94d2bd",
-        "percentage": 15.8
+        "percentage": 15.6
       },
       {
         "label": "To Be Read Manhua",
@@ -9814,6 +9834,6 @@ window.__DATA__ = {
     "no": [],
     "note": ""
   },
-  "builtAt": "2026-11-16T15:45:33.582Z"
+  "builtAt": "2026-11-17T03:09:42.397Z"
 };
 window.MANGA_DATA = window.__DATA__;

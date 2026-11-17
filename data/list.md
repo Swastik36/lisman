@@ -123,7 +123,7 @@
    - Chapters: 141 · Status: COMPLETED
 55. **Code of Silence** (The Code of Silence · 缄默法则)
    - Chapters: 90 · Status: COMPLETED
-56. **Rabid Dog Breeding Rules** (Mad Dog · 미친개)
+56. **Rabid Dog Breeding Rules** (Rabid Dog Breeding Rules · 狂犬饲养法则)
    - Chapters: 51 · Status: COMPLETED
 57. **Trap a Vicious Dog** (Youbu E Quan · 诱捕恶犬)
    - Chapters: 77 · Status: COMPLETED
@@ -181,7 +181,7 @@
    - Chapters: 72 · Status: COMPLETED
 84. **Whose Baby Is It?** (Whose Baby is it? · 是谁的胚胎)
    - Chapters: 363 · Status: COMPLETED
-85. **Kill My Love** (Killing My Love · 杀死我爱的人)
+85. **Kill My Love** (Kill My Love · 爱与杀意之夜)
    - Chapters: 124 · Status: COMPLETED
 86. **Two Empires, Slave of the Empire** (Two Empires: A Tale of One Slave · 두 제국 이야기)
    - Chapters: 57 · Status: COMPLETED
@@ -193,7 +193,7 @@
    - Chapters: 99 · Status: COMPLETED
 90. **S Class Guide as Sweet as Honey** (The S-Class Guide as Sweet as Honey · 꿀처럼 달콤한 S급 가이드)
    - Chapters: 80 · Status: COMPLETED
-91. **Possessed by a Cotton Ball** (The White Tiger Clan’s Little Fluff · 백호 가문의 아기 솜뭉치)
+91. **Possessing the Obsessive Maniac's Cotton Doll** (The Duke's Plush Obsession · 광공의 솜뭉치로 빙의함)
    - Chapters: 50 · Status: ONGOING
 92. **Evenly Matched Love** (Evenly Matched Love · 旗鼓相当)
    - Chapters: 122 · Status: COMPLETED
@@ -221,7 +221,7 @@
    - Chapters: 19 · Status: COMPLETED
 104. **Ring** (Monthly Noir: Ring · 월간느와르: 반지)
    - Chapters: 15 · Status: COMPLETED
-105. **Blood/Lust** (LUST · 정염)
+105. **Blood/Lust** (LUST / In Pursuit of Lust · 러스트)
    - Chapters: 5 · Status: COMPLETED
 106. **Salt Friend** (Salt Friend · 盐友)
    - Chapters: 100 · Status: ONGOING
@@ -253,7 +253,7 @@
    - Chapters: 25 · Status: ONGOING
 8. **Office Hero** (신입사원 용사님)
    - Chapters: 30 · Status: ONGOING
-9. **Passion** (패션)
+9. **PASSION** (PASSION · 패션)
    - Chapters: 31 · Status: ONGOING
 10. **Forced Strategy 10%** (Forced Strategy 100% · 被迫攻略100%)
    - Chapters: 50 · Status: ONGOING
@@ -265,7 +265,7 @@
    - Chapters: 60 · Status: ONGOING
 14. **Regas** (레가스)
    - Chapters: 45 · Status: ONGOING
-15. **Heatstroke** (열사병)
+15. **Heat Stroke** (Heat Stroke · 아기 삵을 낳아줘)
    - Chapters: 10 · Status: ONGOING
 16. **Quo Vadis, Domine?** (쿼바디스 도미네)
    - Chapters: 30 · Status: ONGOING
@@ -336,7 +336,7 @@
    - Chapters: 74 · Status: COMPLETED
 13. **Queen Cecia's Shorts** (Empress Cesia Wears Knickerbockers · 여왕 쎄시아의 반바지)
    - Chapters: 142 · Status: COMPLETED
-14. **Devil in the Suit** (The Devil in the Suit · 鬼上司はスーツを脱いでも凶暴でした。)
+14. **The Devil in the Suit** (The Devil in the Suit · 西装下的魔王)
    - Chapters: 21 · Status: COMPLETED
 15. **How to Hide the Emperor's Child** (황제의 아이를 숨기는 방법)
    - Chapters: 129 · Status: COMPLETED
